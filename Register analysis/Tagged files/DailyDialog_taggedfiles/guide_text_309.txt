@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+in ^in++++=in
+your ^pp$+pp2+++=your
+bags ^nns++++=bags?
+? ^zz++++=EXTRAWORD
+would ^md+prd+++=Would
+you ^pp2+pp2+++=you
+mind ^nn++++=mind
+opening ^nn++++=opening
+it ^pp3+it+++=it?
+? ^zz++++=EXTRAWORD

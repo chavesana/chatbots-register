@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+All ^abn++++=All
+right ^nn++++=right.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+here ^rn+pl+++=here's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+my ^pp$+pp1+++=my
+id ^np++++=ID
+card ^nn++++=card.
+. ^zz++++=EXTRAWORD

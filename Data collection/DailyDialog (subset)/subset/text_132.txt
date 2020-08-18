@@ -1,0 +1,4 @@
+[G:] Front Desk.
+[T:] Will you wake me up in the morning? 
+[G:] Yes, what time would you like a wake-up call? 
+[T:] At 7 am sharp.

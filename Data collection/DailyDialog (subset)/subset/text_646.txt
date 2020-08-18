@@ -1,0 +1,10 @@
+[G:] Hello, reservation desk. Can I help you? 
+Yes. I ’ d like to book a duplex suite. 
+What day would you like to reserve the suite for, sir? 
+Next Friday. 
+I ’ m sorry, sir. We can ’ t accept reservations for next Friday due to over booking. May I suggest another hotel, sir? 
+Oh, thank you very much. 
+Please hold the line. I ’ ll see if there is a duplex suite available on that day. ( a minute later ) Sir? Holiday Inn is available for your need. 
+How do I contact them? 
+I ’ ll give you their phone number. It ’ s 601 789 5634.
+

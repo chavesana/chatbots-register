@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What
+kind ^rb++++=kind
+of ^rb"++++=of
+car ^nn++++=car
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+want ^vb++++=want?
+? ^zz++++=EXTRAWORD
+mazda ^np++++=Mazda.
+. ^zz++++=EXTRAWORD
+honda ^np++++=Honda
+and ^cc++++=and
+nissan ^np++++=Nissan.
+. ^zz++++=EXTRAWORD

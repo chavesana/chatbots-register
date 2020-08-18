@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Miss ^vb++++=Miss,
+, ^zz++++=EXTRAWORD
+the ^ati++++=the
+air ^nn++++=air-conditioner
+- ^zz++++=EXTRAWORD
+conditioner ^nn+nom+++=EXTRAWORD
+in ^in++++=in
+my ^pp$+pp1+++=my
+room ^nn++++=room
+does ^vbz+doz+aux++=doesn't
+n't ^xnot++not++0=EXTRAWORD
+work ^vb++++=work.
+. ^zz++++=EXTRAWORD

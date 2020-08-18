@@ -1,0 +1,6 @@
+[G:] Housekeeping, may I help you? 
+[T:] Yes, I'm missing a sweater. I sent it in the laundry yesterday, but my laundry was returned without it. 
+[G:] May I have your room number, please? 
+[T:] 505. 
+[G:] 505. Let me check it out. Just a moment, please. I'm sorry. You're right. We have found your sweater. We made a mistake delivering the laundry. We'll send it up to your room at once. We're very sorry for the inconvenience 
+[T:] That's all right

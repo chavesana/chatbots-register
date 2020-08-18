@@ -1,0 +1,6 @@
+[T:] Are there any beds vacant? 
+[G:] Yes, what kind of room do you want? 
+[T:] I prefer one facing the sea. Besides, it should have a shower. 
+[G:] Sorry, right now we can only have you a room without shower. 
+[T:] Well, that's fine.
+

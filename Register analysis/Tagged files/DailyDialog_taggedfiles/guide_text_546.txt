@@ -1,0 +1,17 @@
+Not ^xnot++not++=Not
+hot ^jj++++=hot
+but ^cc+phrs+++=but
+warm ^jj++++=warm.
+. ^zz++++=EXTRAWORD
+Very ^ql+amp+++=Very
+comfortable ^jj++++=comfortable.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+have ^vb+hv+aux++=have
+already ^rb++splt++=already
+booked ^vprf+++xvbn+=booked
+a ^at++++=a
+room ^nn++++=room.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,6 @@
+[T:] What are my choices for lunch? 
+[G:] We have beef with rice and fish with noodles. Which would you like? 
+[T:] Fish with noodles, please.
+[G:] Would you care for coffee or tea? 
+[T:] Coffee, please.
+

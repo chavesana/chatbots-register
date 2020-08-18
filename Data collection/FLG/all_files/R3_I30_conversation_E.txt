@@ -1,0 +1,3 @@
+[Tourist 30:] Is there any Japanese restaurant in town?
+[Tech for Tourism - Research Page:] There is on San Francisco St. just north of Rte. 66.
+[Tourist 30:] <<like>>

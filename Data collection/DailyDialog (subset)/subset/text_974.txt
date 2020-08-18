@@ -1,0 +1,7 @@
+[T:] Hello, I am Mr. Johnson at room 309. I would like to have a safe box. Do I need to pay for a safe box? 
+[G:] No, you don't. Just fill out this card and sign your name and room number on it. 
+[T:] Here you are. Can I have a larger envelope to put my valuable things in it? 
+[G:] Yes, will this do? 
+[T:] Yes, it's perfect. 
+[G:] Wait a minute. This is your safe box key, don't lose it. You'll have to pay two thousand yuan if you lose the key. 
+[T:] OK, I won't.

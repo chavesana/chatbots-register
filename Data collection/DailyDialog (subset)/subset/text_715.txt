@@ -1,0 +1,11 @@
+[T:] Could I order dinner? 
+Of course. What would you like? 
+I want a bottle of champagne, lobster tail, and filet mignon, medium rare. 
+I'm so sorry. We ran out of filet mignon. May I suggest the porterhouse instead? 
+That's too bad, but the porterhouse will be okay. 
+May I be so bold as to suggest chocolate-covered strawberries with the champagne? 
+Not tonight, thank you. 
+No strawberries. We'll charge your amenities account, if that's okay. 
+Charge it to whatever account you like. 
+Your meal will be delivered as soon as it's all ready. Enjoy!
+

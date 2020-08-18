@@ -1,0 +1,5 @@
+[T:] Can you tell me if there is a flight to New York? 
+Yes. Flight DB117 departs at 5:38 pm and arrives in New York at 6:00 am with a layover in Chicago. It also makes a refueling stop at Colombia. 
+So many stops! Don't you have any direct flights? 
+Sorry sir, it is the only flight wa have right now.
+

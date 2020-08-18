@@ -1,0 +1,8 @@
+[T:] Do you have a room available for this weekend? 
+[G:] Yes, we have several rooms available. Would you like two twin beds or one queen size bed? 
+[T:] I'd like two twin beds, please. 
+[G:] The check in time is 2 p.m. If you get here before that time the room won't be ready. 
+[T:] That's fine. Do you have any specials for your guests? 
+[G:] We offer a complementary breakfast buffet and free parking. 
+[T:] Good. Let me give you my credit card number to reserve a room. 
+[G:] Thank you. Your confirmation number is 611273.

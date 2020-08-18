@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Room ^nn++++=Room
+service ^nn++++=service.
+. ^zz++++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+Help ^vb++++=help
+You ^pp2+pp2+++=you?
+ ^zz++++=EXTRAWORD
+Certainly ^rb++++=Certainly.
+ ^zz++++=EXTRAWORD
+Any ^dt++++=Any
+Drinks ^nns++++=drinks?
+ ^zz++++=EXTRAWORD

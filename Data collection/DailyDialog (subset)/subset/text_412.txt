@@ -1,0 +1,7 @@
+[G:] Hello, sir. Have you reserved already? 
+No, is there a single room left? 
+Yes, how long will you intend to stay? 
+For a week or so. Do you give discount for a week or more? 
+Yes, we give 5 % discount for a week and 12 % for 2 weeks. 
+All right. I will take a room for a week. Here is my passport.
+

@@ -1,0 +1,8 @@
+[T:] Do you have a double room for tonight? 
+[G:] With an ocean view? 
+[T:] Without is fine. 
+[G:] A double room without a view for just one night? 
+[T:] That's right. 
+[G:] Yes, we do. 
+[T:] By the way, what's the rate for a single room?
+

@@ -1,0 +1,13 @@
+[G:] Good evening, ma'am. May I help you? 
+[T:] Yes. I'd like to use a safety deposit box. 
+[G:] Will the object fit into this size of box? 
+[T:] Let me see. I think it's OK. 
+[G:] Could you fill out this form, please, ma'am? 
+[T:] Here you are. 
+[G:] Thank you, ma'am. Would you like to use it until May 20th? 
+[T:] Yes. 
+[G:] This way, please. Your box number is 522. 
+[T:] Thank you. 
+[G:] If you would like to use the contents during the period of use, please come here in person. After confirming your signature, we will open the box. 
+[T:] I see. Thank you.
+

@@ -1,0 +1,8 @@
+[T:] Excuse me, can you do me a favor? 
+[G:] Sure. 
+[T:] Where's the busiest street of this city? I am a stranger here. 
+[G:] You mean the seventy seventh? It's not far from here. You can walk there. 
+[T:] Well, we are so tired today. Can you tell me which bus I should take? 
+[G:] Bus No. 12. 
+[T:] Thank you so much.
+

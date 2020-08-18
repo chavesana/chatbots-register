@@ -1,0 +1,10 @@
+[T:] Excuse me, I'm looking for the airport bus stop. Do you know where it is? 
+[G:] Here it is. 
+[T:] When does the bus come? 
+[G:] You just missed one. 
+[T:] How about the next one? 
+[G:] In an hour. 
+[T:] Isn't there an earlier one? 
+[G:] No, they come every hour on the hour. 
+[T:] Thank you very much. 
+[G:] You are welcome.

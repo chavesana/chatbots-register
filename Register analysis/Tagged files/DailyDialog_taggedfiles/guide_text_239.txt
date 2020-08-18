@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Sure ^uh++++=Sure.
+. ^zz++++=EXTRAWORD
+Ok.madam ^np+++??+=OK.madam.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+have ^vb+hv+aux++=have
+refunded ^vprf+++xvbnx+=refunded
+it.you ^nn++++=it.You
+have ^md"++pmd"++=have
+to ^md+nec+++=to
+pay ^vb++++=pay
+$ ^zz++++=$15
+15 ^cd++++=EXTRAWORD
+for ^in++++=for
+it ^pp3+it+++=it.
+. ^zz++++=EXTRAWORD

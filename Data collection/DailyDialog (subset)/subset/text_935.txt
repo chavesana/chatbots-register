@@ -1,0 +1,8 @@
+[T:] I would like to buy one round trip plane ticket to Hong Kong, please. 
+[G:] For what days, madam? 
+[T:] Leaving on September 5th and returning to New York City on October 9th. 
+[G:] Do you prefer an aisle or a window seat? 
+[T:] I prefer to sit next to a window. 
+[G:] How would like to pay? 
+[T:] I have a Master Card. 
+[G:] I have booked you for one window seat on American airline flight No. 409. Have a good trip!

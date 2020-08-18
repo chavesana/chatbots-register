@@ -1,0 +1,7 @@
+[G:] Yes, sir? 
+[T:] Can I have Mr. J. Smith paged? He said he'd be in the main dining room. I'm Mr. J. B. White. 
+[G:] Who would you like to have paged again, sir? 
+[T:] Mr. J. Smith. 
+[G:] Where would you like him to come? 
+[T:] To the front desk. 
+[G:] Just a moment, please.

@@ -1,0 +1,17 @@
+[G:] Can I help you, sir? 
+[T:] I'm here for the backpack you announced several minutes ago. 
+[G:] OK, take a seat please, sir. First of all, can you show me your ID please? 
+[T:] Sure. Here you are. 
+[G:] OK, could you please tell me what your backpack looks like? 
+[T:] Of course, it's a soft leather one, you know, not a sports one that looks childish. 
+[G:] Mmm... does it zip closed? 
+[T:] No, it's straps closed, and it has a buckle in the front. 
+[G:] OK, can you tell me the distinguishing features of this backpack? 
+[T:] Oh, yeah, the brand name. 
+[G:] So what's it, sir? 
+[T:] Oh, it's a Polo. It has the logo on the back and at the bottom in the left-hand corner. 
+[G:] OK, can you name the items in it? 
+[T:] Well, all the gifts for my family, you know, two pairs of sneakers for my children and a bottle of perfume for my wife. 
+[G:] OK, sir, I'm sure it's your bag. Thank you for your cooperation. You can have it now. 
+[T:] Thank you so much. You guys are really responsible. 
+[G:] Can I help you, sir? 

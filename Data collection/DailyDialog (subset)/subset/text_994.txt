@@ -1,0 +1,8 @@
+[T:] Do you have any cars available? 
+[G:] We have only one mid-size car left. 
+[T:] Great, what's the rate per day? 
+[G:] It's 40 $plus tax per day on limited mileage. 
+[T:] I'm going to need it for three days. 
+[G:] Can I see your driver's license? 
+[T:] Sure, here is my driver's license. 
+[G:] Please sign here.

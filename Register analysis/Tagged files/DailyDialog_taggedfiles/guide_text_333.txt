@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+help ^vb++++=help
+you ^pp2+pp2+++=you,
+, ^zz++++=EXTRAWORD
+Miss ^vb++++=Miss?
+? ^zz++++=EXTRAWORD
+ok ^rb+dspt+++=OK,
+, ^zz++++=EXTRAWORD
+tell ^vb++++=tell
+me ^pp1o+pp1+++=me
+your ^pp$+pp2+++=your
+friend ^nn++++=friend's
+'s ^$++++=EXTRAWORD
+name ^nn++++=name.
+. ^zz++++=EXTRAWORD

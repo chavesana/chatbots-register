@@ -1,0 +1,6 @@
+[Tourist 18:] hi
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 18:] Is there any Japanese restaurant in town?
+[Tech for Tourism - Research Page:] Yes, there are a couple of options. Karma Sushi is on Route 66 across from the Visitor Center and the Lotus Lounge is just north on San Francisco St.
+[Tourist 18:] Thanks
+[Tech for Tourism - Research Page:] you're welcome

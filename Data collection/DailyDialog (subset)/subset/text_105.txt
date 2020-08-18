@@ -1,0 +1,5 @@
+[T:] I just called Mr. Smith in Room 201, but there was no reply. Would you find out if he's still staying there? 
+[G:] All right. One moment, please... No, Mr. Smith checked out this morning. 
+[T:] Oh, he did? May I have his forwarding address, please? 
+[G:] I' m afraid he didn't leave one.
+

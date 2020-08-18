@@ -1,0 +1,14 @@
+[G:] Good morning. Can I help you? 
+[T:] Good morning. I would like to make a reservation to Hong Kong for August 2. 
+[G:] Just a moment, please. I am sorry, sir. There is no ticket available on that day. But we have flights for Hong Kong the next day. 
+[T:] May I inquire about the departure time? 
+[G:] A 9:12 flight in the morning and a 14:00 flight in the afternoon. 
+[T:] When will the plane reach Hong Kong for the morning flight? 
+[G:] At 10:20 
+[T:] OK. I would like to book a ticket for that one. 
+[G:] All right, sir. Please reconfirm your ticket no later than 12 noon two days before the flight ; otherwise, your reservation will automatically be canceled. 
+[T:] Yes, I know. What's the fare? 
+[G:] It's 500 dollars, not including ground transportation fares between the airport and downtown. 
+[T:] I see. Will it be doubled for the round trip? 
+[G:] Right, sir. And please do not forget to bring a valid travel document with you when you buy the tickets. 
+[T:] I won't.

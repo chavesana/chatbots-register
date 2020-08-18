@@ -1,0 +1,8 @@
+[T:] I'd like to check in. 
+[G:] May I have your ticket and passport please? 
+[T:] Here you are. I'd like a window seat. 
+[G:] No problem. Put your baggage on the scale, please. 
+[T:] All right. 
+[G:] OK. Here's your ticket, boarding pass, passport and baggage claim tag. You'll be boarding at Gate 8. The boarding time is 9 a.m. 
+[T:] Thank you very much.
+

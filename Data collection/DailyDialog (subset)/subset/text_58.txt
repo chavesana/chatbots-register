@@ -1,0 +1,6 @@
+[T:] I want to rent skis and boots. 
+[G:] Here you are. Have a nice stay here. 
+[T:] Thank you. I am a learner so can you tell me where I can find a ski instructor? 
+[G:] We will find you one. Wait a moment. 
+[T:] Thank you very much.
+

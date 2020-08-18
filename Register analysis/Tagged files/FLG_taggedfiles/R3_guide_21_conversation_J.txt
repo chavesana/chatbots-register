@@ -1,0 +1,17 @@
+Flagstaff ^np+++??+=Flagstaff
+receives ^vbz++++=receives
+around ^in++++=around
+4 ^zz++++=4
+million ^cd++++=million
+visitors ^nns++++=visitors
+annually ^rb++++=annually
+grand ^jj+atrb+++=grand
+canyon ^nn++++=canyon
+and ^cc++++=and
+climate ^nn+nom+++=climate
+relief ^nn++++=relief
+from ^in++++=from
+the ^ati++++=the
+phoenix ^nn++++=Phoenix
+area ^nn++++=area
+\ ^zz++++=\

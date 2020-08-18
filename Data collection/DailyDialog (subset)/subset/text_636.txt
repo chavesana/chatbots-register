@@ -1,0 +1,9 @@
+[T:] Excuse me, I want to go to Galion by ship. Is there a ship to Dalian? 
+[G:] Yes, there is. There is only one ship there every day. 
+[T:] What time does it leave? 
+[G:] It leaves at 9:30 a.m.. 
+[T:] Could you please tell me about the cabins? 
+[G:] Yes, all the cabins are fit for two. 
+[T:] Then where can I catch it? 
+[G:] At Pier Five. 
+[T:] Thank you.

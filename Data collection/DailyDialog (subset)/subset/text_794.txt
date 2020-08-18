@@ -1,0 +1,10 @@
+[G:] Do you have a reservation? 
+Yes, here's our confirmation slip. 
+I'm afraid we have no reservation by this name. 
+No reservation? Well, then, do you have any rooms available? 
+I'm afraid all the rooms are fully booked. 
+You mean we can't stay in this hotel tonight? 
+You're right.We have no more rooms available for tonight. 
+Then, would you recommend any other nearby hotel? 
+OK, I'll call ahead.
+

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Excuse ^nn++++=Excuse
+me ^pp1o+pp1+++=me.
+. ^zz++++=EXTRAWORD
+Are ^vb+ber+vrb++=Are
+you ^pp2+pp2+++=you
+Mr ^npt++++=Mr.
+. ^zz++++=EXTRAWORD
+smith ^np++++=Smith?
+? ^zz++++=EXTRAWORD
+oh ^uh++++=Oh,
+, ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I'm
+am ^vb+bem+vrb++=EXTRAWORD
+so ^ql++++=so
+sorry ^uh++++=sorry.
+. ^zz++++=EXTRAWORD

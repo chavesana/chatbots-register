@@ -1,0 +1,9 @@
+[G:] Hello. Can I help you? 
+[T:] Hello. Is my laundry ready? My room number is 210. 
+[G:] I'm afraid it is still being washed. 
+[T:] Can you take the stain off? 
+[G:] Yes, we can. But you need wait a moment. 
+[T:] That's right. Can I get it back in the afternoon? I really need them tonight. 
+[G:] Yes, it will be ready then. 
+[T:] OK. By the way, please get them pressed. 
+[G:] No problem.

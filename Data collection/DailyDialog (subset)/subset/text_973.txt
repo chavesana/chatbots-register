@@ -1,0 +1,11 @@
+[G:] What's the matter? 
+[T:] Checking out, please. 
+[G:] Can I have your keys, please? Thank you. Here's your statement. 
+[T:] Excuse me. What are these charges? 
+[G:] Oh, these are the phone charges and these are for something from the bar. 
+[T:] Wait a minute. I made a phone call, but I never made a connection. 
+[G:] I know, sir. Those aren't telephone company charges. Those are hotel charges. 
+[T:] Isn't that a bit excessive? 
+[G:] I'm sorry, sir. It's our policy. 
+[T:] OK. Here is the money. 
+[G:] Thank you. Welcome to our hotel again.

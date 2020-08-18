@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+[ ^zz++++=[T:]
+t ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+are ^vb+ber+vrb++=Are
+there ^rn+pl+++=there
+any ^dti++++=any
+people ^nns++++=people
+who ^whp+rel+subj++=who
+speak ^vb++++=speak
+english ^nn++++=English?
+? ^zz++++=EXTRAWORD

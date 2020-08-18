@@ -1,0 +1,8 @@
+[T:] Could you give some information on your European tours? 
+[G:] Our pleasure. We have several package tours you may choose, from ten days to three weeks in Europe. 
+[T:] I would be interested in a ten-day trip around Christmas time. 
+[G:] I have one ten-day tour that is still available. It will depart from New York on December 24th. 
+[T:] What is the cost? 
+[G:] The price for one person for a ten-day tour is only 1,099 US dollars, which includes round trip airfare. 
+[T:] That sounds reasonable. Let me think it over. And I'll call your back to make reservation. 
+[G:] Ok, but don't delay too long, or that trip will be all booked.

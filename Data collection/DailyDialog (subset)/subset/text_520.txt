@@ -1,0 +1,3 @@
+[T:] Do you like traveling by train or by plane? 
+I think I prefer train. It's cheaper and safe.
+

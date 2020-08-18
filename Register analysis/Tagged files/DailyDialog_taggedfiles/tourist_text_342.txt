@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Which ^whp+who+++=Which
+way ^nn++++=way
+is ^vbz+bez+vrb++=is
+the ^ati++++=the
+dining ^jj+atrb++xvbg+=dining
+car ^nn++++=car?
+? ^zz++++=EXTRAWORD
+what ^wdt+who+++=What
+time ^nn++++=time
+will ^md+prd+++=will
+breakfast ^vb++++=breakfast
+be ^vb+be+aux++=be
+served ^vpsv++agls+xvbn+=served?
+? ^zz++++=EXTRAWORD

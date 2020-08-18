@@ -1,0 +1,11 @@
+[G:] Good morning, Maintenance Department. 
+[T:] Hello. I'm having a problem with my air conditioner. 
+[G:] Which air conditioner? 
+[T:] The one in the bedroom. 
+[G:] What seems to be the problem? 
+[T:] There's no cold air coming out. 
+[G:] May I have your room number, please? 
+[T:] 512. 
+[G:] OK, we'll send someone up to check it. 
+[T:] I'm going out right now. But that's all right, you can come when I've gone. 
+[G:] Fine. The housekeeper will open the door and stay in the room with the repairmen.

@@ -1,0 +1,7 @@
+[G:] Room reservations. Can I help you? 
+Hello, is there a room available? 
+What kind of room do you have in mind? 
+A twin room, please. 
+Hold on, please.... I'm afraid we're fully booked.The only room available at the moment is a suite. 
+Oh, I see. Thank you anyway.
+

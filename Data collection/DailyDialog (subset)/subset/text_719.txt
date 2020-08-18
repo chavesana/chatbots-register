@@ -1,0 +1,13 @@
+[T:] Hello! I'd like to get busy on my computer, but I need some broadband. 
+There's an Ethernet cable in your room. Just plug it into the back of your laptop. 
+Uh-oh! I can't use Ethernet. My computer is wireless only. 
+That's okay. I can tell you about some alternatives we have. 
+Any alternative that works will be great. 
+Well, there's our computer lab on the first floor. 
+That sounds good. What's the charge? 
+The lab and the computers are no charge, but you have to pay for whatever you print. 
+That sounds good. Now, how about the other alternatives? 
+Of course. Our lobby is set up for wireless, so just bring your computer down here. 
+Use my laptop in the lobby? That's great! Now, if I need to print something there? 
+They plan to install a printer here. But until then, you'll have to use the lab.
+

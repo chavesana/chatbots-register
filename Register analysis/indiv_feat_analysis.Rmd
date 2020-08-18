@@ -1,0 +1,75 @@
+---
+title: "Register Analysis -- Individual Features"
+author: "Ana Paula Chaves Steinmacher"
+date: "October 1st, 2018"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+# Analysis of the individual features
+
+The following code fits a linear model and pairwise comparisons for each of the analyzed linguistic features. It prints the f-value and p-values for every feature, but it prints the summary and pairwise comparison for the significant features only. It also generates a PDF file with the pairs plot per feature.
+
+```{r error=FALSE, warning=FALSE, message=FALSE, echo=FALSE}
+library(dplyr)
+library(converse)
+library(GGally)
+
+#alldata <- rbind(dailydialog, our_updated) #if comparing DailyDialog to FLG
+alldata <- rbind(dailydialog, mine_to_dailydialog) #if comparing DailyDialog to FLG_mod
+
+# Choose the appropriate name for the PDF file that will keep the pairs plots per feature
+pdf.filename <- paste0(levels(alldata$source)[1], "_", levels(alldata$source)[2], "_plots.pdf")
+
+#selecting only the features of interest (the ones used to calculate the dimension scores)
+alldata <- alldata %>%
+  select(individual, 
+         #Dimension 1: positive features
+         private_vb, that_del, contract, vb_present, pro_2, do_pro,
+         pro_dem, emphatic, pro_1, pro_it, vb_be, sub_conj_caus, disc_particle, pro_nom,
+         hedge, amplifr, wh_ques, mod_poss, coord_conj_cls, wh_cls, prep_final, 
+         #Dimension 1: negative features
+         nn_all, prep, jj_attr, #tt_ratio, word_length,
+         #Dimension 2: positive features
+         vb_past, pro_3, vb_perfect, vb_public,
+         #Dimension 3: positive features
+         wh_rel_obj, wh_rel_subj, wh_rel_pipe, coord_conj_phrs, nn_nom,
+         #Dimension 3: negative features
+         adv_time, adv_place, adv,
+         #Dimension 4: positive features
+         infinitive, mod_pred, vb_suasive, sub_conj_cond, mod_necess, split_aux,
+         #Dimension 5: positive features
+         conj_advl, passive_short, passive_by, passive_postnom, sub_conj_othr, jj_pred
+         )
+
+#for each feature in alldata
+for(feature in colnames(alldata[,2:49])){
+  
+  #Print the name of the features along with the F and P values
+  cat("LINGUISTIC FEATURE: ", feature, "\n")
+  model <- lm(alldata[[feature]] ~ individual, data=alldata)
+  p <- round(as.numeric(anova(model)[1,5]), digits=2)
+  f <- round(as.numeric(anova(model)[1,5]), digits=2)
+  cat("\nP-value:", p, " -- F-value:", f, "\n\n")
+  
+  #If the p-value is significant at alpha=0.10, print the estimates, error, and coefficients
+  if(p <= 0.1){
+    cat("Model Summary\n")
+    print(summary(model))
+    print(emmeans::emmeans(model, pairwise ~ individual)$emmeans)
+    cat("\n")
+  }
+}
+
+#Creating a PDF file
+pdf(pdf.filename)
+
+for(feature in colnames(alldata[,2:49])){
+  g <- ggpairs(alldata, columns=c(feature,"individual"))
+  #print the ggpairs to the pdf file
+  print(g)
+}
+dev.off() #close the graphic device
+```

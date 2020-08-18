@@ -1,0 +1,12 @@
+[G:] Please put your baggage on the counter and open it, let me have a look. 
+[T:] Yes, sir. Please examine it. 
+[G:] Anything subject to duty in your suitcase? 
+[T:] No, sir. Nothing except my personal belongings, such as clothes, notebooks and some gifts. 
+[G:] Any cigarettes or liquor? 
+[T:] I have cigarettes for my own use. 
+[G:] I think you'll have to pay some duty on these cigarettes because they exceed the quota. And this article is liable for duty. 
+[T:] How much duty should I pay? 
+[G:] One hundred dollars. 
+[T:] Here is the money. 
+[G:] Just a moment. I'll make out your duty memo. ( Writing and giving the memo to Mr. Green ) Take it and pay the girl over there. 
+[T:] Thank you.

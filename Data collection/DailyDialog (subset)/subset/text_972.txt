@@ -1,0 +1,7 @@
+[T:] I'm checking out now. Can I have my bill, please? 
+[G:] Sure. What's your room number, sir? 
+[T:] It's 876. Here is my key card. 
+[G:] A minute, please. It's 6215 yuan all together, tax included. 
+[T:] Can I pay with traveler's check? 
+[G:] Sure. Can I have your passport, please? 
+[T:] Here you are.

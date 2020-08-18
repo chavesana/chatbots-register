@@ -1,0 +1,7 @@
+[T:] Excuse me.sir. Can I have look at the timetable please? 
+Surely of course.Here you are. 
+Is flight ZW203 a direct one? 
+No, it stopped at Honolulu.Would you like to book one? 
+No. Is there any direct flight to New York? 
+Let me see. I am sorry. ZW203 is the only one to New York.
+

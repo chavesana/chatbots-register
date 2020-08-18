@@ -1,0 +1,5 @@
+[T:] Hello, is that 2896919 16? 
+Yes, this is Holiday Inn reservation. 
+Can you book me a room with a bath for August 28? 
+Yes.Your name, please?
+

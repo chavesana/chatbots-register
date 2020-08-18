@@ -1,0 +1,12 @@
+[T:] Onxiu Travel Agency, may I help you? 
+Yes. I'd like to make a plane reservation to Shanghai, China. 
+Your name, please? 
+Via Kiang. I'd like to leave on May 5th. 
+Let me see what's available. Yes, Air China has a flight on May 5th at nine fifteen in the morning. 
+Well, I need an economy ticket. 
+Single ticket or return ticket? 
+Single. What's the fare, PLS? 
+Economy fare for single ticket from Beijing to Shanghai is 500 yuan. 
+I see. Is my ticket confirmed then? 
+Yes, your seat is confirmed on that flight. Pls arrive at the airport one hour before departure. 
+Thank you.

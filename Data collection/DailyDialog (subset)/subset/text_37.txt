@@ -1,0 +1,7 @@
+[T:] Is this the front desk? 
+[G:] Yes, sir. What can I do for you? 
+[T:] This is Room 705. The air conditioner in my room doesn't work. 
+[G:] I'll have that taken care of immediately. 
+[T:] And may I have two more towels, please? 
+[G:] No problem. We'll bring you the towels in just a minute. 
+[T:] Thanks.

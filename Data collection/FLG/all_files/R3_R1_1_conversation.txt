@@ -1,0 +1,25 @@
+[Tourist:] Hello !
+[Tech for Tourism - Research Page:] Hello there!
+[Tourist:] How are you?
+Me and my friends are looking for a place to have fun tonight, do you know we could go?
+[Tech for Tourism - Research Page:] What kinds of places do you like to go? Are you looking for nightlife or karaoke, for example?
+[Tourist:] I don't know, what do you suggest ?
+[Tech for Tourism - Research Page:] Well there are always a lot of great options in downtown Flagstaff for live music, at bars like The State Bar and the Hotel Monte Vista. You can see what activities are going on at www.flaglive.com for music and events.
+If that doesn't interest you, we also have Lowell Observatory, where they discovered Pluto. The observatory is open until 10pm and they have nighttime viewing of the stars and planets through their telescopes.
+[Tourist:] Ok cool! But is it safe places?
+[Tech for Tourism - Research Page:] absolutely. Flagstaff's downtown is very safe, and if you don't have a car I'd recommend taking a taxi to the observatory since the buses don't go up there just because of how steep the hill is to get to it.
+--
+[Tourist:] So what other places I should go in Flag?
+Like, what places can be attracted for a French guy
+[Tech for Tourism - Research Page:] It depends on your interests - Route 66 is always a popular one, and there are Route 66 passports at the Flagstaff Visitor Center so you can get stamps all along the route in Arizona if you want to do a bit of a roadtrip.
+If you want to stay closer, one of my personal favorites is the Flagstaff Extreme Adventure course. You climb through the trees and zipline. They have 5 courses and it's a lot of fun.
+[Tourist:] Thank you! Where can I get all these informations in Flagstaff?
+[Tech for Tourism - Research Page:] If you want to look online, our website is www.flagstaffarizona.org, and you can stop in to the Flagstaff Visitor Center in the historic train station during your trip for more information!
+Is there anything else I can help you with today?
+[Tourist:] Ok <Tour Guide A> ðŸ<sup>TM</sup>, I have to go, thank you so much for all these information.
+I'm sorry for having been weird, I though you were a robot haha !
+How would it be creepy if I was the robot since the beginning?
+Kidding, have a great end of day
+[Tech for Tourism - Research Page:] Haha that's perfectly fine!
+[Tourist:] See you <Tour Guide A>
+[Tech for Tourism - Research Page:] Have a good evening!

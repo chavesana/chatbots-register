@@ -1,0 +1,7 @@
+[G:] Good afternoon. May I help you? 
+[T:] Yes, I'd like to rent a car. 
+[G:] What kind of car do you have in mind? 
+[T:] An automatic sedan. 
+[G:] I see. How long will you need it? 
+[T:] About a week. 
+[G:] Just a moment, please.

@@ -1,0 +1,17 @@
+May ^md+pos+++=May
+I ^pp1a+pp1+++=I
+sit ^vb++++=sit
+here ^rn+pl+++=here?
+? ^zz++++=EXTRAWORD
+Oh ^uh++++=Oh,
+, ^zz++++=EXTRAWORD
+is ^vbz+bez+vrb++=is
+it ^pp3+it+++=it?
+? ^zz++++=EXTRAWORD
+thank ^vb++++=Thank
+you ^pp2+pp2+++=you
+anyway ^rb++++=anyway.
+. ^zz++++=EXTRAWORD
+thank ^vb++++=Thank
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD

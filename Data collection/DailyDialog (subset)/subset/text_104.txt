@@ -1,0 +1,6 @@
+[G:] Reception. May I help you? 
+[T:] Yes. I locked myself out. May I borrow a duplicate key for Room 201? 
+[G:] Certainly. Where are you now? 
+[T:] I'm right outside my room. 
+[G:] OK. Just wait where you are. I'll send someone up to help you.
+

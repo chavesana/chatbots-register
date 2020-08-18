@@ -1,0 +1,13 @@
+[T:] Hello, I hope to get a room for the night. 
+Do you have a reservation? 
+Sorry, I don't. 
+Let me see if I can fit you in. What kind of room do you want? 
+I only need a single room. 
+Smoking or non-smoking? 
+Smoking if possible. 
+You are in luck, we have one free. 
+I am very grateful. How much will it be? 
+That will be 600 RIB. Could I have your credit card please? 
+Oh dear. I don't have it with me. Do you take debit cards or should I pay with cash? 
+A debit card will be fine.
+

@@ -1,0 +1,17 @@
+[T:] Can I reserve a hotel room? 
+I assure you, that's not a problem. What is your full name, please? 
+My name's John Sandals. 
+It's a pleasure to assist you. Please tell me when you'll be needing the room, sir. 
+If my plans don't change, I'll need a room April 14 till April 17. 
+Sir, our room prices are slightly higher than you may have thought. Will that be okay? 
+Tell me how much it will be, and I can tell you if it's okay. 
+Only $308 per night, before taxes, of course. 
+$308 a night? That's a fair price. 
+Now, as for the room, sir, do you prefer smoking or nonsmoking? 
+Nonsmoking, please. 
+Nonsmoking. Now, sir, does a single queen-size bed meet your approval? 
+I have absolutely no problem with that. 
+Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number. 
+Not a problem. The number is 626-555-1739. 
+Thank you for making a reservation with us. We look forward to seeing you in April!
+

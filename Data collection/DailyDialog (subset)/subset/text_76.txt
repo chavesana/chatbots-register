@@ -1,0 +1,5 @@
+[T:] Excuse me. Are you Mr. Smith? 
+[G:] No, I'm not. 
+[T:] Oh, I'm so sorry. 
+[G:] That's all right.
+

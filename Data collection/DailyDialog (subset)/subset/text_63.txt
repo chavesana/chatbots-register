@@ -1,0 +1,7 @@
+[T:] Where can I enjoy the best local food? 
+[G:] Well! You like sea food? 
+[T:] Yes, I do. 
+[G:] Then I'd like to suggest you try Anchor Inn on Seaside Drive. 
+[T:] Is it very far from here? 
+[G:] No, you can walk from here.
+

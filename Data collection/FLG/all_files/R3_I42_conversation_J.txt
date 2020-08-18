@@ -1,0 +1,5 @@
+[Tourist 42:] Hello
+Do you know any hostels in Flagstaff?
+[Tech for Tourism - Research Page:] yes there are two Grand Canyon International Hostel and motel DeBeau
+[Tourist 42:] Do I need a reservation?
+[Tech for Tourism - Research Page:] They can fill up especially on weekends but usually you can find a room same day.

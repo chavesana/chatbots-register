@@ -1,0 +1,7 @@
+[Tourist 25:] Hello
+Is walnut canyon handicap accessible?
+[Tech for Tourism - Research Page:] Hello. Not all of Walnut Canyon is handicap accessible. The Rim Trail is, however, and you are able to see most of the canyon that way. The Visitor Center also has a beautiful viewpoint and benches for looking out at the canyon.
+[Tourist 25:] What time does it open in the morning?
+[Tech for Tourism - Research Page:] It is open starting at 9am.
+[Tourist 25:] thank you
+[Tech for Tourism - Research Page:] You're welcome!

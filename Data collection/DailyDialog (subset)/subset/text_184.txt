@@ -1,0 +1,11 @@
+[G:] Room Reservations. May I help you? 
+[T:] I'd like to cancel a reservation. 
+[G:] In whose name was the reservation made? 
+[T:] Jim White. 
+[G:] What was the date of the reservation? 
+[T:] From November 21st for 4 nights. 
+[G:] Excuse me, but is the reservation for yourself or for another party? 
+[T:] It's for myself. 
+[G:] May I have your name and phone number, please? 
+[T:] Yes, it's Zheg In and my number is 3811658. 
+[G:] Thank you, sir. I will cancel Mr. White's reservation from November 21st for 4 nights. We look forward to another chance to serve you.

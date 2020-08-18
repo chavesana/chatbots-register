@@ -1,0 +1,5 @@
+[G:] Would you like to go sightseeing tomorrow? 
+[T:] Not a bad idea! 
+[G:] What would you like to see in Beijing? 
+[T:] Well, let me see. I'd like to go to the Great Wall, the Summer Palace, the Forbidden City and the Temple of Heaven. 
+[G:] OK. I'll pick you up here tomorrow.

@@ -1,0 +1,18 @@
+[G:] Next please. Hello. How can I help you? 
+I'd like to buy a ticket for New York. 
+Would you like one way or round trip? 
+Round trip. 
+When will you be leaving? 
+When does the next plane leave? 
+In about 2 hours. 
+I'd like a ticket for that flight please. 
+First class or coach? 
+Coach. 
+OK, let me check availability. I'm sorry. Tickets for that flight are sold out. 
+How about the one after that? 
+Let me see. Yes, that one still has seats available. Would you like me to reserve a seat for you? 
+Yes, please. 
+That'll be 120 dollars. 
+OK. 
+Thank you, here's your change.
+

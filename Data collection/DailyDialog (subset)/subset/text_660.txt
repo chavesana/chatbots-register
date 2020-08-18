@@ -1,0 +1,8 @@
+[T:] I'd like to make sure my plane reservation is in order. 
+May I have your flight number, please? 
+World Airlines, Flight 201. 
+And your name, please? 
+John Anderson. 
+Yes, sir. You're booked on Flight 201, leaving in one hour. 
+Thank you.
+

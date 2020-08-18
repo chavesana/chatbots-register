@@ -1,0 +1,6 @@
+[T:] May I sit here? 
+[G:] I'm afraid this seat is taken. 
+[T:] Oh, is it? Thank you anyway. 
+[G:] You're welcome. If you ask the conductor when he comes by, he should help you find one. 
+[T:] Thank you.
+

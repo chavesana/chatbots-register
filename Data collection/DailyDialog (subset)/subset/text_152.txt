@@ -1,0 +1,9 @@
+[G:] Hello, this is Hilton Hotel. How may I help you? 
+[T:] Hi. I would like to make a reservation on this Friday. 
+[G:] OK. What kind of room do you want? We have single rooms, twin rooms, double rooms and suites available on Friday. 
+[T:] I want a single room with ocean view. Do you have one? 
+[G:] Let me check. Yes. 
+[T:] OK. I will take it. 
+[G:] When do you check in? How long are you planning to stay? Do you have any special requirements? 
+[T:] I guess I am going to arrive at 9:00 in the morning and I would like to leave at 200 in the afternoon on Sunday. Please give me a room away from the elevator. I hate noises while I am sleeping. 
+[G:] OK. No problem.

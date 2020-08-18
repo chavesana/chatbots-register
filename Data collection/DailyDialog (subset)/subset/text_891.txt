@@ -1,0 +1,7 @@
+[T:] I made a reservation earlier this week, but I have to cancel it. 
+No problem, sir. Just tell me your name, phone number, and date of reservation. 
+Great! I'm Rudy Randolph, 818-555-1234, and my reservation was for April 9 to 15. 
+Okay, sir, let me hit the delete button, and your reservation will be cancelled. 
+That was nice and fast. Thanks. 
+Not at all.
+

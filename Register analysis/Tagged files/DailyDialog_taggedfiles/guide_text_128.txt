@@ -1,0 +1,18 @@
+Excuse ^nn++++=Excuse
+me ^pp1o+pp1+++=me,
+, ^zz++++=EXTRAWORD
+may ^md+pos+++=may
+I ^pp1a+pp1+++=I
+help ^vb++++=help
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+Sure ^uh++++=Sure,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=Please
+Wait ^vb++++=wait
+A ^at++++=a
+Moment ^nn++++=moment.
+ ^zz++++=EXTRAWORD
+No ^at++++=No
+Problem ^nn++++=problem.
+ ^zz++++=EXTRAWORD

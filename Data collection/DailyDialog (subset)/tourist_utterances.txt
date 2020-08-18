@@ -1,0 +1,443 @@
+[T:] What? You're kidding! Let me see that... There must be some mistakes. 
+[T:] Oh, it's a pity.[T:] Here you are. 
+[T:] Sightseeing. 
+[T:] Nine days. 
+[T:] Here you are, officer. 
+[T:] Yes, a camera bag, a travel bag and a suitcase. 
+[T:] No. I have only personal effects.[T:] Yes, sir. Please examine it. 
+[T:] No, sir. Nothing except my personal belongings, such as clothes, notebooks and some gifts. 
+[T:] I have cigarettes for my own use. 
+[T:] How much duty should I pay? 
+[T:] Here is the money. 
+[T:] Thank you.[T:] Do you have a room available for this weekend? 
+[T:] I'd like two twin beds, please. 
+[T:] That's fine. Do you have any specials for your guests? 
+[T:] Good. Let me give you my credit card number to reserve a room. 
+[T:] Do you have any cars available? 
+[T:] Great, what's the rate per day? 
+[T:] I'm going to need it for three days. 
+[T:] Sure, here is my driver's license. 
+[T:] How much does it cost to hire a motorbike? 
+[T:] Good. I think I'll hire one for 7 days. 
+[T:] Good afternoon. Is there a vacant room here? 
+[T:] A single, preferably with a bath. 
+[T:] For four days or so. 
+[T:] I hope it's quiet. I hate noise. 
+[T:] How much does it cost per day? 
+[T:] All right. I'll take the room. 
+[T:] OK. 
+[T:] No problem. Here you are. 
+[T:] Hello, I would like a room please. 
+[T:] A double room sounds great. 
+[T:] A few nights, I'm not quite sure of my schedule yet. 
+[T:] Here you are. 
+[T:] Since it is low season, we are running a special rate right now of 150 yuan per night. 
+[T:] Our rooms include television set, air-conditioning and a bathroom. 
+[T:] Yes, sir.[T:] I booked a room here. 
+[T:] Brown, Jason Brown. 
+[T:] That's right 
+[T:] Yes. 
+[T:] OK. Is this all right? 
+[T:] Here you are. 
+[T:] In cash. 
+[T:] Thanks.[T:] I'd like to rent a car. 
+[T:] Here is my international driver's license. What kinds of cars do you have? 
+[T:] I'll take the Citroen C2. What is the rate for the car per day? 
+[T:] Full coverage, please. 
+[T:] Do I have to fill up when I check in? 
+[T:] Can I still catch T107 for Xiamen? 
+[T:] That's too bad. Can I take another train? 
+[T:] That's great! I will take the next train. 
+[T:] Shall I pay extra charge? 
+[T:] Yes, do you have any rooms available? 
+[T:] No. I need a double and three triples. My family is waiting for me in the car. 
+[T:] Ok... Here you are. 
+[T:] Is breakfast included? 
+[T:] Excuse me. What time does the next train to London leave? 
+[T:] Is it a direct train to London? 
+[T:] OK. Two tickets to London, please. 
+[T:] Single, please. How much in total? 
+[T:] Here you are. Which platform should I go to wait for the train? 
+[T:] OK. Thank you. 
+[T:] Yes. I want to make a plane reservation to Shanghai, China. 
+[T:] Feynman Black. I want to leave on October 15th. 
+[T:] Well, I need an economy ticket. 
+[T:] Single. How much? 
+[T:] OK. Here you are. Is my ticket confirmed then? 
+[T:] OK. Thank you.[T:] What time does the train for Tibet leave? 
+[T:] When does it arrive? 
+[T:] How much is the ticket? 
+[T:] One berth, please.[T:] Good morning. Could you tell me the times of trains to London, please? 
+[T:] What time does the 7:59 train get to London? 
+[T:] What about coming back? I'd like to come back at about 7 p.m. 
+[T:] Mmm, how much is a return ticket? 
+[T:] An ordinary return, please.[T:]  I'd like to have a berth ticket to Shanghai. 
+[T:] The 19:00 train. 
+[T:] When is the next train to Shanghai? 
+[T:] How much is the ticket? 
+[T:] Here is 200 yuan. 
+[T:] I'm afraid I have lost my ticket. Can I buy one again? 
+[T:] I'm going to Nanchang. 
+[T:] At Huangshan. 
+[T:] And by the way, what time shall we get to Nanchang? 
+[T:] Thanks.[T:] Is this the right counter to check in for this flight? 
+[T:] OK. Is the plane on schedule? 
+[T:] Two.[T:] Here you are. 
+[T:] Just this one. 
+[T:] Aisle, please. 
+[T:] What's the gate number? 
+[T:] Hello, I have a reservation for a double. 
+[T:]  It's Smith. Here is my driver's license. 
+[T:] I'd like to put it on my VISA. 
+[T:] Great, is our room ready yet? 
+[T:] We're leaving now. 
+[T:] Right. And would you please forward our mail to this address? 
+[T:] Thank you. Goodbye. 
+[T:] Good morning. I'd like to pay my bill. 
+[T:] In cash. How much is the total charge? 
+[T:] Here you are. Thanks for your wonderful service. 
+[T:] I'm Mr. Bob, Room 309. I'm checking out today. Can I have my bill now? 
+[T:] What's the 30 yuan for? 
+[T:] But I did't take any laundry service during my stay here. I think you have added someone else's. 
+[T:] I don't mind waiting as long as we get this straightened out. 
+[T:] It doesn't matter. Here is the money. 
+[T:] I'm leaving for Shanghai tomorrow morning. When do I have to settle my bill? 
+[T:] That will do. Where shall I go to pay the money? 
+[T:] Would you please get the bill ready before supper? 
+[T:] No, he will stay here for two more days. Please keep the room for him. 
+[T:] Two separate bills, please. 
+[T:] Will you give the bill to me at around six o'clock? 
+[T:] I have had a good stay here. Your service is wonderful. I'm very satisfied with it. 
+[T:] OK, I will.[T:] I have a reservation. My name is Rodgers. 
+[T:] Yes. 
+[T:] 0h, good. I have a long day and it's good to get here. 
+[T:] My credit card, please. 
+[T:] Thank you. I have an 8 o ' clock appointment tomorrow morning, I would like a wake-up call. 
+[T:] 7 a.m. 
+[T:] OK, I'll do that. 
+[T:] Hi. I want to check out. My room is 1005. 
+[T:] Yes. Can I have a look at my bill? 
+[T:] OK. I would like to have my receipt report, please. 
+[T:] Hello, receptionist? 
+[T:] Could I possibly have a room change? My room is right next to the street, and it's much too noisy. 
+[T:] Could you please try? 
+[T:] Hello, I am Mr. Johnson at room 309. I would like to have a safe box. Do I need to pay for a safe box? 
+[T:] Here you are. Can I have a larger envelope to put my valuable things in it? 
+[T:] Yes, it's perfect. 
+[T:] OK, I won't.[T:] Checking out, please. 
+[T:] Excuse me. What are these charges? 
+[T:] Wait a minute. I made a phone call, but I never made a connection. 
+[T:] Isn't that a bit excessive? 
+[T:] OK. Here is the money. 
+[T:] I'm checking out now. Can I have my bill, please? 
+[T:] It's 876. Here is my key card. 
+[T:] Can I pay with traveler's check? 
+[T:] Here you are.[T:] Hello, this is Mr. Smith in Room 502. Please send up a bellboy. I'm checking out. What time is checking out time? 
+[T:] It's nearly 12:00 now. Will I be charged extra? 
+[T:] Thank you very much. May I leave my baggage here until Thursday? 
+[T:] Will there be any extra charge? 
+[T:] I see. Please prepare my bill and I will be right down to pay it.[T:] Well, I hate to disturb you, but I really can't stand it any more. Can you change my room for me? It's too noisy. I was woken up several times by the noise the baggage elevator made. It was too much for me. 
+[T:] Anyhow, I'd like to change my room. 
+[T:] All right. I hope I'll be able to enjoy my stay in a quiet suite tomorrow evening and have a sound sleep. 
+[T:] OK. Thank you. 
+[T:] To which gate do I need to go to catch connecting flight 707 to New York City? 
+[T:] Show me the fastest way to get there. 
+[T:] Do you think the plane will leave without me? 
+[T:] Thank you so much, I would really appreciate that. 
+[T:] Could you check my list to see whether I have forgotten anything? 
+[T:] I will open the suitcase and you read through the list. 
+[T:] Why? 
+[T:] That makes sense. I will do it. 
+[T:] Good idea.[T:] Yes, Jason, right? Nice to meet you. Welcome to Taiwan. 
+[T:] You had a long flight, you must be tired. 
+[T:] Oh, sorry to hear that. But, don worry! Taiwan has plenty of great things to eat. First, lets get you to the hotel. 
+[T:] My car is in the parking lot, lets go this way. Let me help you with your bags.[T:] It's nice to meet you, Mr. Cooper. 
+[T:] Yes, it was quite a long flight. I'm glad to finally be here.[T:] Ah, yes, that's right. 
+[T:] Hello, I was just looking for the guide. 
+[T:] Not bad. But I've made too many flights these days. I could hardly remember how many take-offs and landings I've been through these three days. I think we all feel a bit tired. 
+[T:] Wonderful. I'm eager to take a sauna as soon as possible. 
+[T:] I am sure we will. Actually, we are looking forward to seeing the great wonder. 
+[T:] Fine, let's go.[T:] Yes, I am. You must be Tom. Nice to meet you. 
+[T:] Be careful, Tom. Those are pretty heavy. 
+[T:] Not a bad idea! 
+[T:] Well, let me see. I'd like to go to the Great Wall, the Summer Palace, the Forbidden City and the Temple of Heaven. 
+[T:] Come in, please. 
+[T:] Yes. The television is not working properly. 
+[T:] The remote control doesn't work. I turned on the television, but I can't change the channel. 
+[T:] That's great. 
+[T:] No, thanks. 
+[T:] OK. Thank you.[T:] I'd like to have Chinese food. 
+[T:] Right here, please. 
+[T:] Oh, thank you. So nice you are. 
+[T:] I want a cup of bean milk. Do you have any? 
+[T:] Thanks a lot. Oh, excuse me. Can I take two value meals? And I want some chili paste. 
+[T:] Oh, sorry to bother you. I want to know what kind of meat it is. 
+[T:] That's OK. Thanks very much. 
+[T:] OK.[T:] Thank you, miss. Will dinner be served on the plane? 
+[T:] That would be nice. Could you also get me a pillow and a blanket, please? 
+[T:] How long will this flight last? 
+[T:] Good. I'll have plenty of time to nap on the plane.[T:] I'm sorry, I've lost my tags and receipt. What can I do about it? 
+[T:] It's a suitcase. Its colour is blue. 
+[T:] It's like this, it's square with a leather cover. 
+[T:] Yes, it is the right one 
+[T:] Here it is. 
+[T:] Excuse me. This chicken doesn't taste right to me. 
+[T:] How should I know? It's just kind of cold in the middle. It just doesn't taste right. Do you want to try it? 
+[T:] Another one? I don't want another one. Give me something simple. You've got steak, right? 
+[T:] Half done.[T:] Can I have this roll of film developed here? 
+[T:] Here you are. 
+[T:] Regular will be fine. How long will it take? 
+[T:] Good. I'll come back in the evening.[T:] Excuse me. Who is the person responsible for handling complaints here? I would like to make a few complaints. 
+[T:] Here is the thing. I was woke up by strange noises of the telephone several times last night. Even I unplugged it, it wouldn't stop beeping. I am also not satisfied with the housekeeping service in my room. So I want to change to a cleaner and quieter room. 
+[T:] Excuse me. Where can I buy some cigarettes? 
+[T:] Can I also get some souvenirs there? 
+[T:] By the way, where is the men's room? 
+[T:] Thank you. 
+[T:] It's very kind of you to show me around. 
+[T:] I really don't know. 
+[T:] Yes, that would be lovely. 
+[T:] No, it's the first time I've been here. 
+[T:] That's wonderful! I have heard the scene of Li River is beautiful! 
+[T:] Hi, sir. Could you tell me where the Hilton Hotel is? 
+[T:] Eh, let me see. Sorry, I can't remember it, because I've been there only once, accompanied by my friends. 
+[T:] A bookstore, probably. With a yellow and orange logo. 
+[T:] I remembered there is a very busy street several miles away. I waited for the traffic light for a very long time. 
+[T:] Oh, yeah, I got it, there is a bank My friend exchanged her money there. 
+[T:] Great! Many thanks![T:] Hi, Madam, I'm new here, could you tell me where is boarding gate? 
+[T:] Wait a second, please. Oh, it's CA193. 
+[T:] Yes. 
+[T:] It's so nice of you.[T:] Excuse me, could you tell me whether there is a restaurant near here? 
+[T:] I'm afraid there must be a lot of people there. 
+[T:] But we don't know the telephone number. 
+[T:] You are so kind! Thank you very much. 
+[T:] Excuse me, I need to get to Cambridge today. 
+[T:] I am not sure, which one is better? 
+[T:] And how long does the train take? 
+[T:] Where do I catch the train? 
+[T:] How do I get to King's Cross? 
+[T:] Can you show me on the map? 
+[T:] Thank you very much. 
+[T:] Is there a daily passenger ship to Dalian? 
+[T:] How many days does it take to Dalian? 
+[T:] How many ports do we call at on our passage to Qingdao? 
+[T:] The ship is going very fast. 
+[T:] The sea is calm and peaceful. A sea trip is always enjoyable in fine weather like this. 
+[T:] This is my first trip to Hong Kong, and I'd like to see some of the city's sights. 
+[T:] Only three days on business so I won't have a long time. 
+[T:] Do you have some information on these? 
+[T:] Hi, I'm Benjamin. Nice to meet you here. You look great. 
+[T:] No, this is the second time. But I also feel bad because of the lower pressure and the jet lag. 
+[T:] Oh, that's too bad. Do you get a good knowledge of China? 
+[G:] All of the Chinese are proud of the Great Wall. And it was built before the In dynasty near Shan Haiguan-the First Pass in the World. 
+[G:] No, before the In dynasty. 
+[G:] Both the green tea and the black tea are good for our health. And I usually refresh myself with a cup of tea. 
+[G:] Do you like the Chinese traditional silk? 
+[G:] Go and pick some stuff up. The price can always surprise foreign friends. 
+[T:] Where are we going now? 
+[T:] Where is it? 
+[T:] What can we see in it? 
+[T:] Anything else? 
+[T:] Tragedy. 
+[T:] What's that? 
+[T:] Really? It's unbelievable. 
+[T:] Do you have Ginkgo trees here? 
+[T:] What are these trees opposite to the pine trees? 
+[T:] I think I know that.[T:] How can we relate tiger to this spot, Miss Zhang? 
+[T:] How ignorant I am! 
+[T:] I know that tea. It smells fragrant. 
+[T:] Janice, David, come here. We take some photos here. I can't imagine how beautiful it is![T:] It's my first time to come to Bangkok. Could you recommend some places for me? 
+[T:] What do you mean? 
+[T:] Sounds persuasive. How much will you charge for it? 
+[T:] That's reasonable. Will you take care of meals for the day? 
+[T:] I see. May I know the schedule? 
+[T:] Excuse me, I'm looking for the airport bus stop. Do you know where it is? 
+[T:] When does the bus come? 
+[T:] How about the next one? 
+[T:] Isn't there an earlier one? 
+[T:] Thank you very much. 
+[T:] No. I immigrated here three years ago. 
+[T:] Yes, I love my new life.[T:] This is a very beautiful statue. What's it called? 
+[T:] 100th anniversary? When was that? 
+[T:] Sounds real good. It's a pity that I missed that. 
+[T:] I would like to buy one round trip plane ticket to Hong Kong, please. 
+[T:] Leaving on September 5th and returning to New York City on October 9th. 
+[T:] I prefer to sit next to a window. 
+[T:] I have a Master Card. 
+[T:] Good morning. I would like to make a reservation to Hong Kong for August 2. 
+[T:] May I inquire about the departure time? 
+[T:] When will the plane reach Hong Kong for the morning flight? 
+[T:] OK. I would like to book a ticket for that one. 
+[T:] Yes, I know. What's the fare? 
+[T:] I see. Will it be doubled for the round trip? 
+[T:] I won't.[T:] Yes, I would like to make a reservation for May 3rd. 
+[T:] Only one. 
+[T:] Do you have any vacancies? 
+[T:] How much is it? 
+[T:] OK. Dose it include breakfast? 
+[T:] Kate Green. 
+[T:] 5 days. And could you send a bellboy to pick up my luggage? 
+[T:] Could you keep my valuables? 
+[T:] Yes, could you put me in the no-smoking section? 
+[T:] If one's available, please. But not over the wing.[T:] Hello, I want to make a reservation for a Qingdao cruise. 
+[T:] Next week. 
+[T:] Good! How much does the sea view stateroom cost for per person? 
+[T:] I see. Does that include fees for shore excursions? 
+[T:] Thanks a lot. Give me one ticket, please.[T:] What time does the train for Boston leave? 
+[T:] When does it arrive? 
+[T:] How much is a one-way ticket? 
+[T:] How can I travel by air? 
+[T:] No, this is the first time. 
+[T:] Yes, I know. 
+[T:] Is that all? 
+[T:] What's an ID card? 
+[T:] Can I board the plane now? 
+[T:] Thank you. Now I know how to travel by air.[T:] I still have a question to ask you. 
+[T:] How much luggage can I take for my flight? 
+[T:] But if I have more than 55 pounds, what can I do? 
+[T:] How about my hand carry luggage? 
+[T:] Excuse me. What's the actual flying time from here to San Francisco? 
+[T:] Can you tell me what time we're arriving? 
+[T:] I see. 
+[T:] I would like to know is it a direct flight to Dubai? 
+[T:] Too bad. I hate transferring during a flight. It is too complex. 
+[T:] Really? It used to cost a few hours. 
+[T:] Ok. Good. I want two side by side tickets in the Economy cabinet. Thank you.[T:] Hello. Is my laundry ready? My room number is 210. 
+[T:] Can you take the stain off? 
+[T:] That's right. Can I get it back in the afternoon? I really need them tonight. 
+[T:] OK. By the way, please get them pressed. 
+[T:] Hello, it's my first time in Egypt. What would you advise me to see here? 
+[T:] But I'm going to stay here only for two days. 
+[T:] What shall I do then? 
+[T:] It's really worth seeing. By the way, I'd like to buy some souvenirs. 
+[T:] OK. I know what to do now. Thank you.[T:] That is a long line. 
+[T:] A lot of things are prohibited to take on the plane? 
+[T:] Understand. Do I need to take out my laptop from my suitcase? 
+[T:] That is really strict. 
+[T:] Excuse me, I want to go to Galion by ship. Is there a ship to Dalian? 
+[T:] What time does it leave? 
+[T:] Could you please tell me about the cabins? 
+[T:] Then where can I catch it? 
+[T:] Thank you.[T:] I'd like to go to Suzhou next week. Do you know how to get there by train? 
+[T:] I see. Do you know how much the ticket is? 
+[T:] Is it far from here to Suzhou? 
+[T:] How long will it take to get there? 
+[T:] Excuse me. 
+[T:] Do you have any information about the city sights? 
+[T:] Thank you. And what's the best way to get downtown? 
+[T:] You'Ve been very helpful. 
+[T:] I'm thinking of travelling to Suzhou in July. Could you recommend some tourist programs for that? 
+[T:] How much does a six-day tour by train cost? 
+[T:] Does that include hotels and meals? 
+[T:] That sounds reasonable. What about the five-day flying journey? How much is that? 
+[T:] Covering all expenses? 
+[T:] Can you give me more details on what is included in the package? 
+[T:] What about the hotel accommodations? 
+[T:] Great. What types of things will we do at Lushun Falls? 
+[T:] No. What is that street charming for? 
+[T:] Would you please tell me what places are worth visiting? 
+[T:] There are so many Chinese people in Vancouver. 
+[T:] I don't know. 
+[T:] I hear many people here speak French. 
+[T:] It is not easy to improve my English. 
+[T:] Yeah! But French is not easy to learn. 
+[T:] Are there any people who speak English? 
+[T:] What attracts you most? 
+[T:] What is a visa used for? 
+[T:] Oh. Where do I need to apply for a visa? 
+Does it take a long time to get a visa? 
+[T:] What materials do I need to provide? 
+[T:] Could you give some information on your European tours? 
+[T:] I would be interested in a ten-day trip around Christmas time. 
+[T:] What is the cost? 
+[T:] That sounds reasonable. Let me think it over. And I'll call your back to make reservation. 
+[T:] Hello, I would like to make a reservation for four nights next week, from Tuesday to Friday. 
+[T:] Single room with a bath room, please. I would like a room with a view of the whole city. 
+[T:] What's the rate, please? 
+[T:] Does that include breakfast? Can I make calls on outside line? 
+[T:] OK, that's fine. Could you hold it for me? 
+I would like the round-way ticket to Shanghai on December 10th. 
+What's the departure time? 
+Well, the afternoon will be fine. 
+First class will be preferred. 
+My name is Janice. Well, I book this ticket for Nova, the marketing manager of Pineapple Computer Company. Where can I get the flight ticket? 
+[T:] Good. 
+[T:] That's excellent, thanks for all your help.[T:] Yes, my name is Peter. I have made a reservation for a single room from June 18th to June 21st. I'd like to make some changes. The reservation should only be to June 20th. 
+[T:] Yes. 
+[T:] That's exactly what I want. How much does it charge? 
+[T:] It sounds good. I'll take that. 
+[T:] Have you got a single room for Monday evening, please? 
+[T:] With private room, please. 
+[T:] How much does it cost? 
+[T:] Could you book it for me? 
+[T:] I'd like to cancel a reservation. 
+[T:] Jim White. 
+[T:] From November 21st for 4 nights. 
+[T:] It's for myself. 
+[T:] Yes, it's Zheg In and my number is 3811658. 
+[T:] Hi. I would like to make a reservation on this Friday. 
+[T:] I want a single room with ocean view. Do you have one? 
+[T:] OK. I will take it. 
+[T:] I guess I am going to arrive at 9:00 in the morning and I would like to leave at 200 in the afternoon on Sunday. Please give me a room away from the elevator. I hate noises while I am sleeping. 
+[T:] Yes, I would like to book a room for my wife and myself. 
+[T:] We will be arriving on Tuesday next week and staying for two days. 
+[T:] Yes, that would be great. How much is the room? 
+[T:] Does the bathroom have a bath or a shower? 
+[T:] Does the room have an Internet connection? 
+[T:] Excellent. Do you serve breakfast in the hotel? 
+[T:] That's great. Can I book the room? 
+[T:] Yes. I urgently need a room for tomorrow night, and do you have any vacancies? 
+[T:] I'd like a suite with an ocean view, please. 
+[T:] Hi, I'd like to leave a wake-up call. 
+[T:] Please wake me up at 6 am.[T:] Is this the front desk? 
+[T:] This is Room 705. The air conditioner in my room doesn't work. 
+[T:] And may I have two more towels, please? 
+[T:] Thanks.[T:] I'd like to order room service to room 927, please. 
+[T:] I'd like to two roast beef sandwiches and one fruit salad, please. 
+[T:] No, could I also get some extra towels and soap too? We went to the pool today and used up our two clean towels. 
+[T:] Just put it on with the rest of my hotel bill. 
+[T:] Will you wake me up in the morning? 
+[T:] At 7 am sharp.[T:] This is Room 320. Can I have a morning call tomorrow? 
+[T:] Seven, please. 
+[T:] Thank you.[T:] I've been trying to get through to the booking office for the last ten minutes. But the line has been engaged all the time. Why is it taking so long? 
+[T:] OK. Please do so if it is not troublesome. 
+[T:] I'm Du Juan, in Room 312. 
+[T:] Thank you for your kindness.[T:] Speaking. 
+[T:] 0K. Well, I suppose I have no choice. What do you want me to do? 
+[T:] I'm going out in about half an hour. 
+[T:] Oh, around seven o'clock, I suppose. 
+[T:] OK. I'll do that. 
+[T:] Good evening. This is Peter in Room 310. 
+[T:] I'm going to Beijing early tomorrow morning. And I'd like to request an early morning call. Will that give you much trouble? 
+[T:] Well, my train is due to take off at 7:25 a.m. I've no idea how long it'll take to drive to the railway station. 
+[T:] OK, thank you. 
+[T:] Yes, I've been waiting for my bags to be sent up for the last half hour. Where are they? 
+[T:] Yes, it's Yao Lan. Room 406. 
+[T:] Two suitcases and a handbag. The suitcases are blue and the shoulder bag is red. 
+[T:] Yes, there is. 
+[T:] Thank you. 
+[T:] They're over there next to the door. Those three with green tags on them. 
+[T:] Sure, here it is. 
+[T:] I'd like to have lunch in my room. 
+[T:] What does a Chinese food have? 
+[T:] That will be fine. I'll take it. 
+[T:] Sure, it's White in Room 204. 
+[T:] Exactly. 
+[T:] Hello. I'm having a problem with my air conditioner. 
+[T:] The one in the bedroom. 
+[T:] There's no cold air coming out. 
+[T:] 512. 
+[T:] I'm going out right now. But that's all right, you can come when I've gone. 
+[T:] This is Room 603. I'm afraid that the heating system doesn't work. It's very cold here. 
+[T:] Yes. I have switched it on for a long time. The room is still very cold. 
+[T:] I prefer not to move first. 
+[T:] Yes, please.[T:] Yes. This is room 207. There isn't any hot water in my bath room. Can you send somebody here, and do something about it? 
+[T:] I am glad you are here! See if you can find the problem. 
+[T:] Thank you for repairing it. 
+[T:] Yes, I'm missing a sweater. I sent it in the laundry yesterday, but my laundry was returned without it. 
+[T:] 505. 
+[T:] That's all right[T:] Yeah, the people in the next room are a little loud. Could you do something about it? 
+[T:] I'm in Room 215. 
+[T:] I don't know the number, but it's definitely the room that's next to the stairs. 
+[T:] OK, thanks. I really appreciate it.[T:] I'd like to make a reservation to Los Angels for next Monday. 
+[T:] I'll need an economy ticket with an open return. 
+[T:] I guess that's OK. What time should I check in? 

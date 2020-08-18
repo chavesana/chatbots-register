@@ -1,0 +1,16 @@
+[T:] Good afternoon. Is there a vacant room here? 
+[G:] What do you want, a single or a double one? 
+[T:] A single, preferably with a bath. 
+[G:] How long do you intend to stay? 
+[T:] For four days or so. 
+[G:] We have one single room on the fifth floor. 
+[T:] I hope it's quiet. I hate noise. 
+[G:] It's very quiet, sir. 
+[T:] How much does it cost per day? 
+[G:] It's 150 yuan per day including a 10 % service charge. 
+[T:] All right. I'll take the room. 
+[G:] Would you please fill in the registration form? 
+[T:] OK. 
+[G:] As a hotel policy, we require one day's room charge as a deposit for guests without reservation. 
+[T:] No problem. Here you are. 
+[G:] Your room number is 505. This is your key. The bellboy will help you with the baggage.

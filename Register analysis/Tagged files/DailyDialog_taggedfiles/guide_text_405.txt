@@ -1,0 +1,22 @@
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+we ^pp1a+pp1+++=we
+have ^vb+hv+vrb++=have
+one ^cd++++=one
+and ^cc++++=and
+it ^pp3+it+++=it
+faces ^vbz++++=faces
+the ^ati++++=the
+beautiful ^jj+atrb+++=beautiful
+sea ^nn++++=sea.
+. ^zz++++=EXTRAWORD
+Ok ^rb+dspt+++=OK,
+ ^zz++++=EXTRAWORD
+We ^pp1a+pp1+++=we
+Will ^md+prd+++=will
+Make ^vb++++=make
+It ^pp3+it+++=it
+Ready ^jj++++=ready
+For ^in++++=for
+You ^pp2+pp2+++=you.
+ ^zz++++=EXTRAWORD

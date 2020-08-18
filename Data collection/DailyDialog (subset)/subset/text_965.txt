@@ -1,0 +1,8 @@
+[T:] To which gate do I need to go to catch connecting flight 707 to New York City? 
+[G:] Go to Gate 56, the plane is now boarding, you must hurry. 
+[T:] Show me the fastest way to get there. 
+[G:] Instead of walking you can take this shuttle to get you there faster. 
+[T:] Do you think the plane will leave without me? 
+[G:] No, I will call the attendants at the gate. I'll tell them you are on your way. 
+[T:] Thank you so much, I would really appreciate that. 
+[G:] You're welcome, have a safe trip.

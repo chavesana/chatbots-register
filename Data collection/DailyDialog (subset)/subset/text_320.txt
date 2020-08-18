@@ -1,0 +1,6 @@
+[T:] What type do you have in your mind? 
+A compact please. What's the daily rate for that car? 
+Thirty dollars a day. 
+Does the rate include the cost of gas? 
+No, you have to pay it by yourself.
+

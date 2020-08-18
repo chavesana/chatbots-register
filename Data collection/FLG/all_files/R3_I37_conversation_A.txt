@@ -1,0 +1,10 @@
+[Tourist 37:] Hi
+[Tech for Tourism - Research Page:] Hello. what can I help you with?
+[Tourist 37:] I want to see the volcanoes. What are the best spots?
+[Tech for Tourism - Research Page:] The best place to visit for volcanoes would be Sunset Crater Volcano, 30 minutes north of town on 89.
+[Tourist 37:] Can you walk to the top of the Crater and look down into the inside?
+[Tech for Tourism - Research Page:] You can't walk on Sunset Crater, but Lenox Crater is accessible and they have a trail to the top of that one, and you can look out at Sunset Crater from it.
+[Tourist 37:] How long is the hiking?
+[Tech for Tourism - Research Page:] The Lenox Crater trail is about 1.5-2 hours round trip.
+[Tourist 37:] ok, thank you
+[Tech for Tourism - Research Page:] you're welcome

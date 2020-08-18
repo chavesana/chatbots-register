@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+the ^ati++++=the
+admission ^nn++++=admission
+charge ^nn++++=charge?
+? ^zz++++=EXTRAWORD
+two ^cd++++=Two
+adult ^jj+atrb+++=adult
+passes ^nns++++=passes,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please.
+. ^zz++++=EXTRAWORD

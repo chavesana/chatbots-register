@@ -1,0 +1,7 @@
+[T:] I'm calling to cancel a reservation I made earlier in the week. 
+To cancel your reservation, I need your name, phone number, and date of trip, please. 
+Rudy Randolph, 818-555-1234. My reservation begins on the second Monday of April. 
+I see your reservation on my computer. Let me just cancel it, and you'll be all set! 
+Thanks. I'll call again when things get better at home. 
+You're welcome.
+

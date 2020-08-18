@@ -1,0 +1,37 @@
+[Tourist:] Hello
+[Tech for Tourism - Research Page:] Hello there! My name is <Tour Guide>. What can I help you with today?
+[Tourist:] I'm considering visiting Flagstaff in July
+first of all, would you recommend that or is it going to be too hot there?
+[Tech for Tourism - Research Page:] Flagstaff actually isn't too hot in the summer! We're at 7000 feet, so our summers are usually around 85 degrees F at the hottest.
+[Tourist:] sounds good. almost the same altitude as the Tahoe lake then
+how can I get there?
+I see that there is an airport there, but the flights are kinda pricy
+would you recommend renting a car and driving there?
+or is there any shuttle service?
+I mean, from Phoenix
+[Tech for Tourism - Research Page:] A lot of visitors will either rent a car and travel to Flagstaff or fly in to Phoenix and rent a car there. Phoenix is only a 2.5 hour drive south of Flagstaff, and the drive is easy.
+You can also take the Arizona Shuttle from the Phoenix airport if you don't want to rent a car.
+[Tourist:] I would like that better actually. My only concern is how to move around in Flagstaff.
+Is it easy to use public transportation to go to Sedona, Antelope Canyon, Grand Canyon, etc?
+[Tech for Tourism - Research Page:] If you don't want to rent a car, there is a public bus system that you can take most places in Flagstaff. A day pass for the bus is only $2.50, and most of the bus schedules are very convenient. As for leaving Flagstaff, that gets a little trickier.
+[Tourist:] I see. We have three full days, so we would probably like to visit the canyons too
+[Tech for Tourism - Research Page:] You can take the Arizona Shuttle to Grand Canyon, but for Sedona and Antelope Canyon you would need to take a tour. Grand Canyon Adventures is a tour company that operates out of Flagstaff and can take you most places, but I know that for their Sedona trip they require a minimum of 4 guests.
+[Tech for Tourism - Research Page:] There's also the option of a private tour guide - Johnny Anaya is a local historian, and he will do private tours anywhere you want to go in Northern Arizona. He's taken visitors to Sedona, Grand Canyon, and all the way up to Monument Valley.
+[Tourist:] That sounds good, but maybe for a first visit to Flagstaff we would like better to have more like an overview of different places.
+Do you think that 3 full days is enough time to have a good overview of Flagstaff and Sedona?
+Maybe we can leave the Grand Canyon for another trip.
+[Tech for Tourism - Research Page:] For seeing the big highlights in town, you can definitely do that in three days. I'd recommend starting small and staying close to town to see the attractions in the area, and then you can spread out to Sedona and the attractions that are farther out.
+[Tourist:] We are mostly into hikes, trails and parks. I suppose you have plenty of them in Flagstaff, right?
+[Tech for Tourism - Research Page:] Absolutely! What kind of hiking do you like to do? (Level of difficulty, length, etc)
+[Tourist:] I would say moderate.
+We can hike for about 4 to 6 hours.
+Are there any trails you would recommend or any website we can look into?
+[Tech for Tourism - Research Page:] Okay, for a moderate hike I would recommend either the Oldham trails or the Elden Lookout trail. Both of the trails are out-and-back, meaning that you just need to turn around and go back down the trail when you want to head back. They both go along Mount Elden.
+[Tourist:] that looks beautiful
+[Tech for Tourism - Research Page:] Oldham starts at Buffalo Park and is an easy to moderate hike. You'll be in the forests for most of the time, but with some scenic viewpoints at places. Elden Lookout is the one with a beautiful scenic view; you can look out at the volcano fields to the east of town from the top.
+You can check out the USDA website for more detailed information on the hikes in the Flagstaff area, and they also provide trail maps on the website as well. <link>
+[Tourist:] That looks awesome.
+[Tech for Tourism - Research Page:] Is there anything else I can help you with today?
+[Tourist:] I think that is all I have for now.
+Thank you so much
+[Tech for Tourism - Research Page:] I'm glad to help!

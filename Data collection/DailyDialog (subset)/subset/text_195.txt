@@ -1,0 +1,9 @@
+[G:] Good morning, room reservations. Can I help you? 
+[T:] Yes, my name is Peter. I have made a reservation for a single room from June 18th to June 21st. I'd like to make some changes. The reservation should only be to June 20th. 
+[G:] A single room from June 18th to 20th. Is that correct? 
+[T:] Yes. 
+[G:] OK. Do you need a limousine service? 
+[T:] That's exactly what I want. How much does it charge? 
+[G:] A hundred and eighty yuan for one way. We have a counter at the airport where our representative will lead you to the car. 
+[T:] It sounds good. I'll take that. 
+[G:] Thank you, sir. We look forward to serving you.

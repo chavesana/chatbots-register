@@ -1,0 +1,14 @@
+[G:] Good morning, can I help you? 
+Yes, I'd like to check out. 
+Yes, of course sir. What's your name and your room number, PLS? 
+Jack Remington, room 1408. 
+Ok, here is your bill, Mr. Remington. 
+Which of these is my bill? 
+Oh, I am sorry sir. I forgot to explain that to you. This one is an allowance slip. We made a mistake in your bill and overcharged you 120 dollars. So we had to write up an allowance slip and deduct 120 dollars from your bill. 
+I see. So this is the bill then and the total is...? 
+Down here, 800 dollars. How do you wish to settle your account, sir, in cash or by credit card? 
+In cash. 
+Is that US dollars? 
+Yes. 
+Just a moment, PLS. I'll write out a receipt for you.
+

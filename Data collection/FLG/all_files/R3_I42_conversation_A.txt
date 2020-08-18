@@ -1,0 +1,9 @@
+[Tourist 42:] Hi
+[Tech for Tourism - Research Page:] Hello. what can I help you with?
+[Tourist 42:] What are good jogging routes in or around Flagstaff?
+[Tech for Tourism - Research Page:] Would you prefer paved or unpaved trails?
+[Tourist 42:] unpaved is fine
+[Tech for Tourism - Research Page:] Ok then I would recommend the trails at Buffalo Park. It's at the base of the mountains and has a beautiful view the entire time.
+We have a massive urban trail system with hundreds of miles of trails, and if you are interested you can pick up a map in the Visitor Center.
+[Tourist 42:] Thank you
+[Tech for Tourism - Research Page:] You're welcome

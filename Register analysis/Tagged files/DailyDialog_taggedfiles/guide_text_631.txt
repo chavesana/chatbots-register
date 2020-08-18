@@ -1,0 +1,25 @@
+Passport ^nn++++=Passport,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please,
+, ^zz++++=EXTRAWORD
+madam ^nn++++=madam.
+. ^zz++++=EXTRAWORD
+Thank ^vb++++=Thank
+you.please ^nn+++??+=you.Please
+fill ^vb++++=fill
+out ^rp+pl+++=out
+the ^ati++++=the
+Baggage ^nn+nom+++=Baggage
+Declaration ^nn+nom+++=Declaration
+Form ^nn++++=Form.
+. ^zz++++=EXTRAWORD
+No ^at++++=No,
+ ^zz++++=EXTRAWORD
+Only ^rb+down+++=only
+The ^ati++++=the
+Articles ^nns++++=articles
+Listed ^vwbn+++xvbn+=listed
+On ^in++++=on
+The ^ati++++=the
+Declaration ^nn+nom+++=Declaration.
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+[Tourist 40:] hello
+What is nightlife like in Flagstaff?
+[Tech for Tourism - Research Page:] Hello. Flagstaff is a university town, so we have what I would describe as a semi-active nightlife scene. There aren't any dancing clubs, but there are a number of breweries and local bars with music, trivia nights, and so on.
+[Tourist 40:] We like live music and dancing, any suggestions?
+[Tech for Tourism - Research Page:] What kind of music do you like?
+[Tourist 40:] Well that really depends. Maybe any good vibe places would work
+[Tech for Tourism - Research Page:] The Hotel Monte Vista is good for alternative/rock music, and the Museum Club is better for country and two stepping.
+country, folk, pop rock, indie
+Hops on Birch will book singer/songwriters to perform, and has a great selection of beers.
+[Tourist 40:] Any of these opened on week days?
+[Tech for Tourism - Research Page:] Oh, another good option to look at would be the Green Room.
+Let me check for you.
+They're all open on weekdays, it just depends if they have anything booked.
+[Tourist 40:] Any site I can check for specific nights?
+[Tech for Tourism - Research Page:] You can check flagstaff365.com and Flag Live's "Pulse" section, which is more centered around music events.
+[Tourist 40:] Thank you so much
+[Tech for Tourism - Research Page:] You're welcome!

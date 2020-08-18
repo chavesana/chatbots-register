@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Are ^vb+ber+vrb++=Are
+you ^pp2+pp2+++=you
+a ^at++++=a
+visitor ^nn++++=visitor
+here ^rn+pl+++=here?
+? ^zz++++=EXTRAWORD
+have ^vb+hv+aux++=Have
+you ^pp2+pp2+++=you
+been ^vbd+ben+aux++=been
+used ^vpsv++++=used
+to ^to++++=to
+your ^pp$+pp2+++=your
+new ^jj+atrb+++=new
+life ^nn++++=life?
+? ^zz++++=EXTRAWORD

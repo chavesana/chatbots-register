@@ -1,0 +1,8 @@
+[Tourist 3:] Hi
+[Tech for Tourism - Research Page:] Hello. what can I help you with today?
+[Tourist 3:] Is there any zoos around here?
+[Tech for Tourism - Research Page:] We don't have any zoos in northern Arizona. The closest you'll find is Bearizona in Williams, 30 minutes west of Flagstaff, which is a drive through wildlife park.
+[Tourist 3:] Do you know if it is safe to drive through with a rental car?
+[Tech for Tourism - Research Page:] Yes it is, but if you are concerned about the car they do have a Wild Ride Bus Tour option scheduled a couple times a day. What's really nice about the bus tour is that they will talk to you about the animals that you see in the park.
+[Tourist 3:] Sweet! thanks
+[Tech for Tourism - Research Page:] Not a problem!

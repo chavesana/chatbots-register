@@ -1,0 +1,8 @@
+[T:] Excuse me, here is my claim tag, but I can't find my baggage. 
+How many pieces of baggage have you lost? 
+Just one piece. 
+Can you tell me the features of your baggage? 
+It's a big leather suitcase with my name ' Lily ' on it. 
+Don't worry. We will look it for you right now. 
+Thank you.
+

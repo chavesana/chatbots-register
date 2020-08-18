@@ -1,0 +1,6 @@
+[G:] Good evening, sir. 
+[T:] May I have the key for Room 358, please? 
+[G:] Certainly. Oh, you have a message here. 
+[T:] Thank you. Is there any mail for me? 
+[G:] No, there isn't at the moment.
+

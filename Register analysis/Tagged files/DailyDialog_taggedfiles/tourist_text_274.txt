@@ -1,0 +1,17 @@
+Really ^rb+emph+++=Really?
+? ^zz++++=EXTRAWORD
+What ^wdt+who+whq++=What
+can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+do ^vb+do+vrb++=do?
+? ^zz++++=EXTRAWORD
+Ok ^rb+dspt+++=OK.
+ ^zz++++=EXTRAWORD
+Can ^md+pos+++=Can
+You ^pp2+pp2+++=you
+Give ^vb++++=give
+Me ^pp1o+pp1+++=me
+A ^at++++=a
+Fragile ^jj+atrb+++=fragile
+Label ^nn++++=label?
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,7 @@
+[G:] May I help you? 
+[T:] Can you recommend some popular tour? 
+[G:] How long is your journey? 
+[T:] Two weeks and I would like to go abroad. 
+[G:] The popular tour of the season is a 14 - days ' sightseeing to Venice. Are you interested in that city? 
+[T:] Yes, of course. I will book the tour.
+

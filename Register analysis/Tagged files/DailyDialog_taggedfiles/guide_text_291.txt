@@ -1,0 +1,17 @@
+8 ^zz++++=8
+hours ^nns++++=hours.
+. ^zz++++=EXTRAWORD
+Tokyo ^np+++??+=Tokyo
+is ^vbz+bez+vrb++=is
+8 ^zz++++=8
+hours ^nns++++=hours
+earlier ^rbr+tm+++=earlier
+than ^in++++=than
+london ^np++++=London.
+. ^zz++++=EXTRAWORD
+one ^cd++++=One
+day ^nn++++=day
+more ^rbr++++=more.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes.
+. ^zz++++=EXTRAWORD

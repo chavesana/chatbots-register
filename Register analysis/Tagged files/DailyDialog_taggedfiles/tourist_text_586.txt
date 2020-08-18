@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Can ^md+pos+++=Can
+you ^pp2+pp2+++=you
+book ^nn++++=book
+me ^pp1o+pp1+++=me
+a ^at++++=a
+double ^jj+atrb+++=double
+room ^nn++++=room
+for ^in++++=for
+february ^nr+nom+++=February
+22 ^cd++++=22?
+? ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+guess ^vb++++=guess
+so ^cs+sub+++=so.
+. ^zz++++=EXTRAWORD

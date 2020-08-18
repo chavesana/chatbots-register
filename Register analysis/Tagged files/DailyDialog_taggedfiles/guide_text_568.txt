@@ -1,0 +1,20 @@
+Good ^jj+atrb+++=Good
+evening ^nn++++=evening,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD
+can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+help ^vb++++=help
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+Just ^rb+emph+++=Just
+A ^at++++=a
+Minute ^nn++++=minute,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please.
+ ^zz++++=EXTRAWORD
+That ^dt+pdem+++=That's
+s ^vbz+bez+vrb++0=EXTRAWORD
+Right ^nn++++=right.
+ ^zz++++=EXTRAWORD

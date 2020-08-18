@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+yeah ^uh++++=yeah
+well ^rb++++=well
+we ^pp1a+pp1+++=we
+have ^vb+hv+vrb++=have
+one ^pn++++=one,
+, ^zz++++=EXTRAWORD
+the ^ati++++=the
+garden ^nn++++=garden,
+, ^zz++++=EXTRAWORD
+right ^jj++++=right
+across ^in+pl+++=across
+the ^ati++++=the
+tracks ^nns++++=tracks

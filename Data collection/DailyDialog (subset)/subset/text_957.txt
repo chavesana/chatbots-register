@@ -1,0 +1,16 @@
+[G:] Excuse me, sir. What would you like to eat, Chinese food or western food? 
+[T:] I'd like to have Chinese food. 
+[G:] Are you going to have this set course or have dinner in the dining room? 
+[T:] Right here, please. 
+[G:] Please put down the table in front of you. It's more comfortable that way. 
+[T:] Oh, thank you. So nice you are. 
+[G:] It's my pleasure. What would you like to drink, milk, tea, coffee, orange juice or iced water? 
+[T:] I want a cup of bean milk. Do you have any? 
+[G:] Yes, here you are. Enjoy your meal. 
+[T:] Thanks a lot. Oh, excuse me. Can I take two value meals? And I want some chili paste. 
+[G:] OK, enjoy yourself, sir. 
+[T:] Oh, sorry to bother you. I want to know what kind of meat it is. 
+[G:] It is beef. Do you like it? 
+[T:] That's OK. Thanks very much. 
+[G:] You are welcome. Please press that button if you need any help. 
+[T:] OK.

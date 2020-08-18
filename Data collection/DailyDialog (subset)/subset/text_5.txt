@@ -1,0 +1,7 @@
+[G:] May I help you? 
+[T:] I don't feel well. I need an airsickness bag. 
+[G:] Yes, madam. There's one in the seat pocket. Here you are. 
+[T:] Thank you. 
+[G:] Should I bring you some water? 
+[T:] Yes, please.
+

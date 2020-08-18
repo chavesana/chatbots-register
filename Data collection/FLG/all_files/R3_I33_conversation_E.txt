@@ -1,0 +1,9 @@
+[Tourist 33:] hi
+[Tech for Tourism - Research Page:] Hello.
+How can I help/
+[Tourist 33:] Where is the best restaurant downtown?
+[Tech for Tourism - Research Page:] Tell me a little about your food preferences? Fancy burgers? Mexican? Thai?
+[Tourist 33:] let's say asian
+[Tech for Tourism - Research Page:] I would say Karma Sushi across the street. Pato Thai on San Francisco is another good option.
+[Tourist 33:] and are there any thrift shops near here?
+[Tech for Tourism - Research Page:] There is the Garden Thrift store on the other side of the railroad tracks on Beaver Street.

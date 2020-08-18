@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+No ^at++++=No.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+have ^vb+hv+vrb++=have
+nothing ^pn++++=nothing.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+they ^pp3a+pp3+++=they
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD
+ok ^rb+dspt+++=OK.
+. ^zz++++=EXTRAWORD

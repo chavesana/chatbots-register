@@ -1,0 +1,17 @@
+Room ^nn++++=Room
+service.what ^nn+++??+=service.what
+can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+do ^vb+do+vrb++=do
+for ^in++++=for
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+ok ^rb+dspt+++=OK.
+. ^zz++++=EXTRAWORD
+someone ^pn++++=Someone
+will ^md+prd+++=will
+be ^vb+be+vrb++=be
+there ^rn+pl+++=there
+right ^nn++++=right
+away ^rp+pl+++=away.
+. ^zz++++=EXTRAWORD

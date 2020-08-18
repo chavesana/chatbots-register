@@ -1,0 +1,11 @@
+[G:] Good morning. May I speak to Mr. Black, please? 
+[T:] Speaking. 
+[G:] This is the Front Desk. I'm afraid that the air conditioning in your room needs repair. We would like to request you to change your room. We are very sorry for the inconvenience. 
+[T:] 0K. Well, I suppose I have no choice. What do you want me to do? 
+[G:] What time is the most convenient for you to change rooms, sir? 
+[T:] I'm going out in about half an hour. 
+[G:] What time will you be back? 
+[T:] Oh, around seven o'clock, I suppose. 
+[G:] We could move your luggage while you are out, but could you take any valuables with you? You may pick up your new room key No. 216 from the Front Desk when you return. 
+[T:] OK. I'll do that. 
+[G:] Thank you very much, sir.

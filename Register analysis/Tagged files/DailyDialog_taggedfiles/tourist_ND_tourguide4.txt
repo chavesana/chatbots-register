@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+[ ^zz++++=[T:]
+t ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+there ^ex+pex+++=There
+are ^vb+ber+vrb++=are
+so ^ql++++=so
+many ^ap++++=many
+chinese ^jj+atrb+++=Chinese
+people ^nns++++=people
+in ^in++++=in
+vancouver ^np+nom+++=Vancouver.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,7 @@
+[G:] Passport and disembarkation card, please. 
+[T:] Here you are. 
+[G:] What is your purpose of visiting? 
+[T:] Sightseeing. 
+[G:] How long are you staying here? 
+[T:] Nine days. 
+[G:] All right. Thank you.

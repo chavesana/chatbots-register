@@ -1,0 +1,7 @@
+[G:] New York Airport.May I help you? 
+Yes. I am calling to make sure if flight CG877 will arrive on time? 
+Hold on a moment please... Sorry, the flight from London has been delayed. It departed two hours later than scheduled.The whether in London was really bad. 
+You mean it will arrive two hours later than usual? 
+So far we could only deduce this way.If you want further information, would you please call us 1 hour later? 
+OK, thank you.
+

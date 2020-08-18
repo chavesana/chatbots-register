@@ -1,0 +1,10 @@
+[T:] I'd like to reserve a room. 
+Which date would that be? 
+For the night of April 18th, for one night. 
+I'm afraid our hotel is fully booked on that night. Is it possible for you to change your reservation date? 
+No, I'm afraid not. 
+We might have cancellations. Could you call us again some other day? 
+Sure, but if you do have any cancellations, could you let me know as soon as possible? 
+I'm very sorry, sir, but we are unable to do that. We would appreciate it very much if you could call us instead. 
+OK, thanks.
+

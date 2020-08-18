@@ -1,0 +1,13 @@
+[Tourist 7:] Hi
+[Tech for Tourism - Research Page:] Hello. How can I help you?
+[Tourist 7:] Where can  park for more than 15 minutes?
+Free
+[Tech for Tourism - Research Page:] There is two hour free parking on Rte 66, on the side streets east of San Francisco on the Southside, and there is free parking in the neighborhoods west of City Hall. Paid parking downtown is $1 per hour, pay with a credit card at the kiosks located throughout downtown by entering your license plate #. The parking system tracks your license plate and knows that you paid (no receipt given).
+[Tourist 7:] Can you send me a map of how to get there from the visitor center?
+[Tech for Tourism - Research Page:] I do not have that information specifically, but hopefully the attached link will help. <link>
+[Tourist 7:] 
+Where are the nearest used bookstores to the visitor center?
+with map?
+[Tech for Tourism - Research Page:] The Starlight bookstore on Leroux sells used books,15 N Leroux St, Flagstaff, AZ 86001. It is across the street from the visitor's center to the north. You can get a map of Flagstaff at the visitor's center to further help navigate.
+[Tourist 7:] 
+OK, thanks for your help!

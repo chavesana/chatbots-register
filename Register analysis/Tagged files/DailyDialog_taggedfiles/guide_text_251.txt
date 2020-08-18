@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+It ^pp3+it+++=It
+is ^vbz+bez+vrb++=is
+unnecessary ^jj+pred+++=unnecessary.
+. ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I'll
+will ^md+prd+++=EXTRAWORD
+see ^vb+vprv+tht0++=see
+you ^pp2+pp2+++=you
+off ^rb+phrv+++=off
+at ^rb++++=at
+the ^ati++++=the
+airport ^nn++++=airport.
+. ^zz++++=EXTRAWORD

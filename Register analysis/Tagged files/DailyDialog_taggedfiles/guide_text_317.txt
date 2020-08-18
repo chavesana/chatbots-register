@@ -1,0 +1,17 @@
+Here ^rn+pl+++=Here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD
+Take ^vb++++=Take
+the ^ati++++=the
+number ^nn++++=number
+5 ^zz++++=5
+train ^nn++++=train
+and ^cc++++=and
+get ^vb++++=get
+off ^rb+phrv+++=off
+at ^in++++=at
+the ^ati++++=the
+united ^jj+atrb+++=United
+squire ^nn++++=Squire.
+. ^zz++++=EXTRAWORD

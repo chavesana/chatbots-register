@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Which ^whp+who+++=Which
+train ^nn++++=train
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+like ^vb++++=like?
+? ^zz++++=EXTRAWORD
+may ^md+pos+++=May
+i ^pp1a+pp1+++=I
+have ^vb+hv+vrb++=have
+your ^pp$+pp2+++=your
+name ^nn++++=name?
+? ^zz++++=EXTRAWORD

@@ -1,0 +1,12 @@
+[T:] Do you have any vacancies? 
+[G:] Yes, we have a nice room on the sixth floor. 
+[T:] How much is it? 
+[G:] 200 yuan a night. 
+[T:] OK. Dose it include breakfast? 
+[G:] Yes. And could I have your name? 
+[T:] Kate Green. 
+[G:] How long do you want to stay? 
+[T:] 5 days. And could you send a bellboy to pick up my luggage? 
+[G:] Sure. We'll be there in a few minutes. 
+[T:] Could you keep my valuables? 
+[G:] We'd like to. You may call the attendant if you need any help.

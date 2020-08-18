@@ -1,0 +1,8 @@
+[T:] Good evening. This is Peter in Room 310. 
+[G:] Good evening. May I help you? 
+[T:] I'm going to Beijing early tomorrow morning. And I'd like to request an early morning call. Will that give you much trouble? 
+[G:] Oh, no, never. What's the exact time you'd like us to call you tomorrow morning? 
+[T:] Well, my train is due to take off at 7:25 a.m. I've no idea how long it'll take to drive to the railway station. 
+[G:] It won't take long. 20 minutes is enough. Is that OK if I call you at 6:30 a.m.? 
+[T:] OK, thank you. 
+[G:] It's a pleasure. Good night. Have a good sleep.

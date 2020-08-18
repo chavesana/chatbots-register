@@ -1,0 +1,25 @@
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+am ^vb+bem+vrb++=am.
+. ^zz++++=EXTRAWORD
+You ^pp2+pp2+++=You
+must ^md+nec+++=must
+be ^vb+be+vrb++=be
+Tom ^np++++=Tom.
+. ^zz++++=EXTRAWORD
+Nice ^jj++++=Nice
+to ^to+jcmp+++=to
+meet ^vbi++++=meet
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD
+Be ^vb+be+vrb++=Be
+Careful ^jj+pred+++=careful,
+ ^zz++++=EXTRAWORD
+Tom ^np++++=Tom.
+ ^zz++++=EXTRAWORD
+Those ^dt+pdem+++=Those
+Are ^vb+ber+vrb++=are
+Pretty ^rb++++=pretty
+Heavy ^jj+pred+++=heavy.
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Front ^jjb+atrb+++=Front
+Desk ^nn++++=Desk.
+. ^zz++++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+what ^wdt+who+++=what
+time ^nn++++=time
+would ^md+prd+++=would
+you ^pp2+pp2+++=you
+like ^in++++=like
+a ^at++++=a
+wake ^vb++++=wake-up
+- ^zz++++=EXTRAWORD
+up ^rp++++=EXTRAWORD
+call ^vb++++=call?
+? ^zz++++=EXTRAWORD

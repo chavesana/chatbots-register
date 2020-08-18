@@ -1,0 +1,159 @@
+---
+title: "Dimension analysis"
+author: "Ana Paula Chaves Steinmacher"
+date: "April 4, 2019"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+library(ggplot2)
+library(dplyr)
+library(ggradar)
+library(ggiraphExtra)
+
+library(converse)
+
+data('dailydialog', package = 'converse')
+data('mine_to_dailydialog', package = 'converse')
+data('our_updated', package = 'converse')
+
+alldata <- rbind(dailydialog, our_updated, mine_to_dailydialog)
+```
+
+##Hypothesis
+
+$H_0:$ Under the same interactional context, the register used by tourist assistants vs dailydialog is the same.
+
+##Start by analyzing the dimensions
+
+```{r echo=FALSE}
+dd_flg <- alldata %>% filter(source != "translation")
+dd_flg_mod <- alldata %>% filter(source != "our")
+```
+
+Descriptive statistics:
+
+```{r echo=FALSE}
+#Descriptive statistics
+
+stats <- data.frame(alldata %>% 
+  group_by(source) %>%
+  summarise(mean_dim1 = mean(dim_1),
+            sd_dim1 = sd(dim_1),
+            mean_dim2 = mean(dim_2),
+            sd_dim2 = sd(dim_2),
+            mean_dim3 = mean(dim_3),
+            sd_dim3 = sd(dim_3),
+            mean_dim4 = mean(dim_4),
+            sd_dim4 = sd(dim_4),
+            mean_dim5 = mean(dim_5),
+            sd_dim5 = sd(dim_5),
+            ))
+
+stats
+```
+
+## Plotting the dimensions
+```{r warning=FALSE, error=FALSE, message=FALSE, echo=FALSE}
+#per source
+dim_radar_mean_guide <- data.frame(group = c("dailydialog", "FLG", "FLG_mod"),
+                                     dim_1 = c(stats$mean_dim1),
+                                     dim_2 = c(stats$mean_dim2),
+                                     dim_3 = c(stats$mean_dim3),
+                                     dim_4 = c(stats$mean_dim4),
+                                     dim_5 = c(stats$mean_dim5))
+g <- ggRadar(data=dim_radar_mean_guide, aes(color=group)) +  ggtitle("Mean - Tour Guide")
+#ggsave(g, file="plot.png")
+```
+
+
+## Multivariate analysis
+
+```{r}
+#Model that compares DailyDialog to FLG (orignal data)
+fit <- manova(cbind(dim_1, dim_2, dim_3, dim_4, dim_5) ~ source, data = dd_flg)
+summary(fit, test = "Wilks")
+summary.aov(fit)
+
+#Model that compares DailyDialog to FLG_mod (modified data)
+fit <- manova(cbind(dim_1, dim_2, dim_3, dim_4, dim_5) ~ source, data = dd_flg_mod)
+summary(fit, test = "Wilks")
+summary.aov(fit)
+```
+
+## Confirm the inference with permutation manova
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+#dimension analysis of DailyDialog vs. FLG
+dim <- dd_flg %>% select(individual, source, dim_1, dim_2, dim_3, dim_4, dim_5)
+
+library(vegan)
+
+set.seed(36) #reproducible results
+
+dim.div <- adonis(dim[,3:7]~source, data=dd_flg, method="euclidean", permutations = 10000)
+dim.div$aov.tab
+
+#dimension analysis of DailyDialog vs. FLG
+dim <- dd_flg_mod %>% select(individual, source, dim_1, dim_2, dim_3, dim_4, dim_5)
+
+dim.div <- adonis(dim[,3:7]~source, data=dd_flg_mod, method="euclidean", permutations = 10000)
+dim.div$aov.tab
+```
+
+## Dimension 1 - ANOVA
+
+```{r echo=FALSE}
+dim_1.model <- lm(dim_1~source, data=dd_flg)
+summary(dim_1.model)
+
+dim_1.model <- lm(dim_1~source, data=dd_flg_mod)
+summary(dim_1.model)
+```
+
+## Dimension 2 - ANOVA
+
+```{r echo=FALSE}
+dim_2.model <- lm(dim_2~source, data=dd_flg)
+summary(dim_2.model)
+
+dim_2.model <- lm(dim_2~source, data=dd_flg_mod)
+summary(dim_2.model)
+```
+
+## Dimension 3 - ANOVA
+
+```{r echo=FALSE}
+dim_3.model <- lm(dim_3~source, data=dd_flg)
+summary(dim_1.model)
+
+dim_3.model <- lm(dim_3~source, data=dd_flg_mod)
+summary(dim_3.model)
+```
+
+## Dimension 4 - ANOVA
+
+```{r echo=FALSE}
+dim_4.model <- lm(dim_4~source, data=dd_flg)
+summary(dim_4.model)
+
+dim_4.model <- lm(dim_4~source, data=dd_flg_mod)
+summary(dim_4.model)
+```
+
+## Dimension 5 - ANOVA
+
+```{r echo=FALSE}
+dim_5.model <- lm(dim_5~source, data=dd_flg)
+summary(dim_5.model)
+
+dim_5.model <- lm(dim_5~source, data=dd_flg_mod)
+summary(dim_5.model)
+```

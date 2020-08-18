@@ -1,0 +1,7 @@
+[T:] Can I have this roll of film developed here? 
+[G:] Sure. Let's see it. 
+[T:] Here you are. 
+[G:] What size of prints would you like to have? 
+[T:] Regular will be fine. How long will it take? 
+[G:] Only four hours. 
+[T:] Good. I'll come back in the evening.

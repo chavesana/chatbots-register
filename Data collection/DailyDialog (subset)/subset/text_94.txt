@@ -1,0 +1,5 @@
+[T:] Excuse me, driver, you have kept us waiting for 15 minutes. Can't we start the tour right now? 
+[G:] I am sorry, sir, there are still 5 minutes remaining... OK, it's time. We will take a roll call before starting the fantasy sightseeing. 
+[T:] Finally. How long does the tour last? 
+[G:] For about 3 hours. Enjoy your trip.
+

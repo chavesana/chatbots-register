@@ -1,0 +1,10 @@
+[Tourist 24:] Hi
+[Tech for Tourism - Research Page:] Hello. how can I help you?
+[Tourist 24:] What is your favorite Grand Canyon spot?
+[Tech for Tourism - Research Page:] I personally love the Desert View Watchtower's viewpoint of the Grand Canyon. It's at the east entrance to the south rim, and not only is the building itself really lovely, but you're able to see the Colorado River going through the canyon from that point and it's beautiful.
+[Tourist 24:] Which one is the best way to visit, take a tour or rent a car?
+[Tech for Tourism - Research Page:] It really depends. A tour will obviously limit your time, but you'll learn a lot more about the Grand Canyon and its history, plus you have the bonus of not needing to drive yourself, so you'll be able to focus more on your surroundings. If you rent a car, you'll be able to set your own schedule and if there is a particular location you want to visit you won't be limited by the tour.
+[Tourist 24:] Will the tours take me to the main spots? Like the one you suggested?
+[Tech for Tourism - Research Page:] They should, and when you contact them you can ask if they go to the watchtower. Two I'd recommend are Grand Canyon Adventures and All-Star Grand Canyon Tours.
+[Tourist 24:] I'll check it out. thank you
+[Tech for Tourism - Research Page:] you're welcome

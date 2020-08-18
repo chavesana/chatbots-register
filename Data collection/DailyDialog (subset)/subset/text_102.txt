@@ -1,0 +1,5 @@
+[T:] Have you a full-day trip? 
+[G:] Yes, of course. There are various forms of travel. 
+[T:] Do I have to book the tour right now? 
+[G:] There is no need. We have the tour everyday.
+

@@ -1,0 +1,180 @@
+---
+title: "DailyDialog Transfer-Sentence Vallidation"
+author: "Ana Paula Chaves Steinmacher"
+date: "2/12/2020"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r loadingData, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(surveystats)
+library(ggplot2)
+library(rcompanion) #for groupwisePercentile() function
+library(lme4) #for mixed effect model lmer()
+library(lmerTest) #interface for lme4 that shows the pvalues
+library(latex2exp)  # for LaTeX mathematical notation
+
+data("content.preservation")
+data("naturalness")
+```
+
+# Content Preservation
+
+```{r content, echo=FALSE}
+#calculating the .25 lower quantile
+grp.quantile <- groupwisePercentile(score ~ question, bca=FALSE, tau=.25, data = content.preservation)
+grp.quantile <- grp.quantile %>%
+  select(question, Percentile)
+
+#density plot with cutting line
+ggplot(content.preservation, aes(x = score))+
+  geom_density(show.legend = FALSE)+
+  facet_wrap(question~.,ncol = 9)+
+  geom_vline(data=grp.quantile, aes(xintercept=Percentile), #percentile line is blue (should be to the right)
+             colour="blue", show.legend = FALSE)+ 
+  geom_vline(aes(xintercept=75),                            #cut off line is red
+             colour="tomato", linetype="dashed", show.legend = FALSE)+
+      theme_bw()+theme(panel.spacing=grid::unit(0, "lines"))
+```
+
+##Some statistics
+
+H0: $$\mu = 75$$ ; Ha: $$\mu < 75$$
+
+We fitted a model with the score as response variable and no fixed effect, we only care about the intercept (the 1 in the model). To support H0, the intercept must be above 75, and 75 must not be within the confidence interval. The model also has two random effects: the questions and the participants.
+
+```{r}
+model <- lmer(score ~ 1 + (1|question) + (1|pid), data=content.preservation)
+summary(model)
+#estimates for question and pid
+#ranef(model)
+
+#random effects
+ranova(model)
+LetterResults <- emmeans::emmeans( model, ~ 1) %>%
+  multcomp::cld(Letters=letters)
+```
+
+The model shows that the estimated value for similarity is `r summary(model)$coef[1]` with confidence intervals (`r LetterResults$lower.CL`, `r LetterResults$upper.CL`), which is a good similarity rate. The BLEU score for Machine Translated data is 51.45 (calculated from https://www.letsmt.eu/Bleu.aspx), which is above the threshold for good, fluent translations (citation: wolk2015neural).
+
+The random effects show that the variability is mostly explained by the participants, rather than the pure error (residual).
+
+```{r}
+cp.plot <- content.preservation %>%
+  mutate( y.hat.question   = predict(model, re.form= ~ (1|question)),  # Include question Random effect
+          y.hat.question   = round( y.hat.question, digits=2),
+          y.hat.pid        = predict(model, re.form= ~ (1|pid)),  # Include pid Random effect
+          y.hat.pid        = round( y.hat.pid, digits=2),)
+
+#creating the plot por every question
+ggplot(cp.plot, aes(y = score, x=question)) +
+  geom_point() +
+  theme(legend.position="top",
+        legend.text = element_text(size=4),
+        legend.title = element_blank(),
+        legend.key.size = unit(.4,"line")) +
+  guides(col = guide_legend(ncol = 8)) + #this line is not working
+  geom_hline(aes(yintercept=y.hat.pid),                            #random effect of pid is red
+             color="tomato", linetype="dashed", show.legend = FALSE) +
+  facet_wrap(. ~ pid, ncol = 14, labeller = label_both) +
+  geom_hline(aes(yintercept=y.hat.question),                            #random effect of pid is blue
+             color="blue", linetype="dashed", show.legend = FALSE)
+```
+
+#Naturalness
+
+```{r naturalness, echo=FALSE}
+#boxplot with all the items per question, separate into original vs. modified
+ggplot(naturalness, aes(y=score, x=item, fill=group))+
+  facet_wrap(. ~ question, ncol=10)+
+  geom_boxplot()+ theme(legend.position="top")
+```
+
+## Descriptive Stats
+
+### Turning scores into an ordinal factor
+
+Score (reduced) is the aggregation of the Likert-scale responses from 1-7 into three groups, namely, negative answers (1-3), neutral answer (4), and positive answers (5-7).
+
+```{r, message=FALSE, warning=FALSE}
+#overall stats
+summary(naturalness)
+
+library(psych)
+xt <- xtabs(~ group + score.reduced, data=naturalness)
+xt
+
+```
+
+###Median for the questions (ignoring items)
+```{r descstas, echo=FALSE, warning=FALSE, message=FALSE}
+desc.stats <- naturalness %>%
+  filter(group == "original") %>%
+  group_by(question) %>%
+  summarise(med.o = median(score))
+
+desc.stats <- cbind(desc.stats, naturalness %>%
+    filter(group == "translated") %>%
+    group_by(question) %>%
+    summarise(med.t = median(score)) %>%
+    select(med.t))
+
+desc.stats <- desc.stats %>%
+  mutate(diff = med.o-med.t)
+
+desc.stats
+
+#Barplot of differences between medians per question
+barplot(desc.stats$diff,
+        col="dark gray",
+        xlab="Observation",
+        ylab="Difference (Median Original – Median Modified)")
+```
+
+## Some statistics
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(ordinal)
+library(car)
+library(RVAideMemoire)
+library(emmeans)
+
+nat <- naturalness %>%
+  filter(item=="natural") %>%
+  select(-item)
+
+well.wr <- naturalness %>%
+  filter(item=="well.written") %>%
+  select(-item)
+
+meaning <- naturalness %>%
+  filter(item=="meaningful") %>%
+  select(-item)
+
+complete <- naturalness %>%
+  filter(item=="complete") %>%
+  select(-item)
+
+model.nat <- clmm(score.reduced ~ group + (1|group:question) + (1|pid),
+            data = nat)
+summary(model.nat)
+
+model.well.wr <- clmm(score.reduced ~ group + (1|group:question) + (1|pid),
+            data = well.wr)
+summary(model.well.wr)
+
+model.meaning <- clmm(score.reduced ~ group + (1|group:question) + (1|pid),
+            data = meaning)
+summary(model.meaning)
+
+model.complete <- clmm(score.reduced ~ group + (1|group:question) + (1|pid),
+            data = complete)
+summary(model.complete)
+```

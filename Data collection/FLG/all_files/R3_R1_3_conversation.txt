@@ -1,0 +1,21 @@
+[Tourist:] Hello, I am visiting Flagstaff this coming weekend and I am looking for some ideas of things to do
+[Tech for Tourism - Research Page:] Hello there! My name is <Tour Guide>. What kinds of things are you interested in doing?
+[Tourist:] We really enjoy being outside, mountain biking, hiking etc. so we are looking for some recommendations for outdoor recreation activities
+[Tech for Tourism - Research Page:] Okay. What kind of hiking do you like to do? We have hundreds of miles of trails, of all lengths and levels of difficulty.
+[Tourist:] We'd enjoy a nice long hike -- any difficulty is fine.  Preferably something with some good views!
+[Tech for Tourism - Research Page:] We have a lot of great views - the big one that everyone wants to do is Humphreys Peak. The trail is strenuous and about a 6-8 hour roundtrip hike, but definitely worth the trek! It is the tallest point in Arizona. For something shorter, you could hike the Elden Lookout trail on Mount Elden and get great views of the volcano fields to the east of town.
+[Tech for Tourism - Research Page:] Another great hike that gets you away into nature is the Bear Jaw/Abineau loop. It's also a more difficult trail, on the north side of the moutnains and even in June there can be snow up at the top, so it's a very refreshing and different perspective of the area.
+[Tourist:] Oh that sounds cool!  How long does that hike take?  Any recommendations for post-hike places to eat or grab a beer?
+[Tech for Tourism - Research Page:] The last time I did Bear Jaw/Abineau, it was about 5-6 hours, if I remember correctly. We stopped for a while at the stop of the trail for a break and to take in the views.
+As for post-hike restaurants, we have some really great burger places - Diabolo Burger is in the center of town, or for a brewery you could go to the Lumberyard for a local beer and burger.
+[Tourist:] Awesome.  How about camping?  Are there any good places to camp that are not too far from town but also close to one of the hikes you've mentioned?
+[Tech for Tourism - Research Page:] Would you prefer hosted campsites, or are you interested in doing disbursed camping in the forest?
+[Tourist:] Dispersed camping in the forest sounds great
+[Tech for Tourism - Research Page:] ok perfect. There is a motor vehicle use map that the USDA prints once a year that shows all of the allowed disbursed camping. There are quite a few areas on the forest roads on the way to Bear Jaw/Abineau where you would be able to camp. If you want a printed copy, you can pick that up either at the Flagstaff Visitor Center or at either of the forest service offices in Flagstaff.
+[Tech for Tourism - Research Page:] If you just want a digital copy, you can find that on this webpage: <link>
+[Tourist:] Great thank you so much this really helps
+[Tech for Tourism - Research Page:] The digital version is a little different from the printed map. On the printed map, any forest roads in grey that have dots on the sides of the road allow disbursed camping up to 300 feet off the road. No dots means 30 feet. I don't use the digital map often, so you would have to look at the key to see for that one.
+[Tech for Tourism - Research Page:] Is there anything else I can help you with today?
+[Tourist:] Ok. Great.  I think that is it, thank you for your help.
+[Tech for Tourism - Research Page:] Thank you! Have a good rest of your day.
+[Tourist:] You too :_

@@ -1,0 +1,12 @@
+[Tourist 31:] hi there
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 31:] Do you know where I can find cultural events?
+[Tech for Tourism - Research Page:] There is a weekly happenings calendar inside the Visitor's Center on the counter. There's also a website <<link>>
+There is music this evening at the Museum of Northern Arizona.
+[Tourist 31:] Is there any night club in town?
+we like live music and dancing
+[Tech for Tourism - Research Page:] You might like the Museum Club on Rte. 66, that has more of a line dancing feel to it. The State Bar across the street has live music and dancing on most extended weekend nights.
+[Tourist 31:] are they opened every day?
+[Tech for Tourism - Research Page:] yes
+[Tourist 31:] sounds good
+[Tourist 31:] thank you

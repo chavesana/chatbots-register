@@ -1,0 +1,10 @@
+[Tourist 1:] What's the best restaurant downtown
+[Tech for Tourism - Research Page:] My name is <Tour Guide>. To answer your question, what kind of food are you looking for?
+[Tourist 1:] Anything
+[Tech for Tourism - Research Page:] We have 85 locally-owned and operated restaurants in the downtown area. Is this for breakfast or lunch? To give you an idea, we have diners, southwest, Mexican, Italian, pizza, cafes, vegetarian, and so on.
+[Tourist 1:] Tahi
+[Tech for Tourism - Research Page:] We have some really great Thai restaurants downtown. If you're looking for very traditional Thai with fish sauce, Swaddee is on Aspen Ave, and then Pato Thai is right up San Francisco St, about a half block up from the Hotel Monte Vista.
+[Tourist 1:] Thank you
+[Tech for Tourism - Research Page:] Not a problem! Is there anything else that I can help you with today?
+[Tourist 1:] Nothing else thank you
+[Tech for Tourism - Research Page:] Okay! Thank you!

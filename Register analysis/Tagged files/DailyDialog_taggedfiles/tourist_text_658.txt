@@ -1,0 +1,17 @@
+Really ^rb+emph+++=Really?
+? ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+did ^vbd+dod+aux++=didn't
+n't ^xnot++not++0=EXTRAWORD
+expect ^vb+vprv+tht0++=expect
+that ^tht+vcmp+++=that.
+. ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+should ^md+nec+++=should
+have ^vb+hv+aux++=have
+booked ^vprf+++xvbn+=booked
+the ^ati++++=the
+tickets ^nns++++=tickets
+in ^rp++++=in
+advance ^nn+nom+++=advance.
+. ^zz++++=EXTRAWORD

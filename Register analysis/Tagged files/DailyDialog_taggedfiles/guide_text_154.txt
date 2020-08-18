@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+I ^pp1a+pp1+++=I
+like ^vb++++=like
+fishing ^vbg+++xvbg+=fishing
+too ^rb++++=too.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+usually ^rb+down+++=usually
+fish ^nn++++=fish
+near ^in+pl+++=near
+the ^ati++++=the
+lake ^nn++++=lake.
+. ^zz++++=EXTRAWORD
+what ^wdt+who+++=What
+a ^at++++=a
+shame ^nn++++=shame.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,10 @@
+[G:] Excuse me, madam. May I see your ticket, please? 
+[T:] I'm afraid I have lost my ticket. Can I buy one again? 
+[G:] Where are you going? 
+[T:] I'm going to Nanchang. 
+[G:] Where did you begin your journey? 
+[T:] At Huangshan. 
+[G:] OK. Here you are. 
+[T:] And by the way, what time shall we get to Nanchang? 
+[G:] We'll get there around 7:45 in the morning. 
+[T:] Thanks.

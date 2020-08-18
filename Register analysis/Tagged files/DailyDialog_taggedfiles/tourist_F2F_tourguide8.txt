@@ -1,0 +1,17 @@
+No ^at++++=No.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+immigrated ^vbd+++xvbnx+=immigrated
+here ^rn+pl+++=here
+three ^cd++++=three
+years ^nns++++=years
+ago ^rb++++=ago.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+love ^vb++++=love
+my ^pp$+pp1+++=my
+new ^jj+atrb+++=new
+life ^nn++++=life.
+. ^zz++++=EXTRAWORD

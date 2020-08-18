@@ -1,0 +1,7 @@
+[T:] Have you a bus tour round the city? 
+[G:] Yes, of course. Do you want to join the day tour or the night tour? 
+[T:] Day tour. How much does that cost? 
+[G:] $20. 
+[T:] Is lunch included? 
+[G:] Of course. You will have the local specialties.
+

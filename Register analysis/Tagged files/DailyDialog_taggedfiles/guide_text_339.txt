@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+here ^rn+pl+++=here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD
+it ^pp3+it+++=It's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+free ^jj++++=free
+of ^in++++=of
+charge ^nn++++=charge.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,5 @@
+[T:] Hi, is this the Bread and Cheese Deli? 
+Yes, ma ’ am. How may I help you? 
+I need to place an order for a couple of sandwiches and drinks. Can you deliver? 
+Yes, we do deliveries for orders over $15, ma ’ am.
+

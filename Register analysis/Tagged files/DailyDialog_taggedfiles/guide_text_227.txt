@@ -1,0 +1,25 @@
+Welcome ^nn++++=Welcome
+aboard ^rp+pl+++=aboard.
+. ^zz++++=EXTRAWORD
+Let ^j+++xvbn+=Let
+me ^pp1o+pp1+++=me
+have ^vb+hv+vrb++=have
+a ^at++++=a
+look ^nn++++=look
+at ^in++++=at
+your ^pp$+pp2+++=your
+boarding ^xvbg+++xvbg+=boarding
+pass ^vb++++=pass.
+. ^zz++++=EXTRAWORD
+It ^pp3+it+++=It's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+E ^zz++++=E
+ ^zz++++=6,
+ ^zz++++=EXTRAWORD
+The ^ati++++=the
+Sixth ^od++++=sixth
+Seat ^nn++++=seat
+By ^in++++=by
+The ^ati++++=the
+Aisle ^nn++++=aisle.
+ ^zz++++=EXTRAWORD

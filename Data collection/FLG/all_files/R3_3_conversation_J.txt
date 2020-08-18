@@ -1,0 +1,15 @@
+[Tourist 3:] Hi
+[Tech for Tourism - Research Page:] Hello
+[Tourist 3:] Do you think that 3 days is enough time to have a good overview of Flagstaff and Sedona?
+[Tech for Tourism - Research Page:] Yeah You can spend one day in Sedona and two days in Flagstaff and get a good Overview if you are planning to visit Grand Canyon I Would add one more day to you itinerary if possible.
+[Tourist 3:] What should I do in Flagstaff?
+[Tech for Tourism - Research Page:] What are your interests?
+[Tourist 3:] We are mostly into hikes, trails and parks
+We can hike for about 4 to 6 hours
+[Tech for Tourism - Research Page:] There are some great hikes up on the San Francisco Peaks such as The Aspen Nature Loop, and The Kachina Trail.
+For Parks we have three National Monuments that are great places to visit Sunset Crater, Walnut Canyon and Wupataki.
+[Tourist 3:] How long is the hike on the San Francisco Peaks?
+Which one do you suggest?
+[Tech for Tourism - Research Page:] Kachina Trail is 5 miles each way and the Aspen Nature Loop is 2.5 miles so it would depend on how long you want to hike both have great views and nice Aspen stands to walk through.
+[Tourist 3:] Great
+thanks

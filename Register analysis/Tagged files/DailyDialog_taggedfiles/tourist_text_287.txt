@@ -1,0 +1,25 @@
+How ^wrb+who+++=How
+long ^rb++++=long
+have ^vb+hv+aux++=have
+we ^pp1a+pp1+++=we
+been ^vprf+ben+aux+xvbn+=been
+flying ^vbg+++xvbgx+=flying?
+? ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+always ^rb++++=always
+have ^vb+hv+vrb++=have
+trouble ^nn++++=trouble
+with ^in++++=with
+jet ^np++++=jet
+lag ^nn++++=lag.
+. ^zz++++=EXTRAWORD
+By ^in++++=By
+The ^ati++++=the
+Way ^nn++++=way,
+ ^zz++++=EXTRAWORD
+What ^wdt+who+++=what's
+s ^vbz+bez+vrb++0=EXTRAWORD
+The ^ati++++=the
+Time ^nn++++=time
+Now ^rn+tm+++=now?
+ ^zz++++=EXTRAWORD

@@ -1,0 +1,15 @@
+[G:] Abby Park Hotel. Can I help you? 
+[T:] Yes, I would like to book a room for my wife and myself. 
+[G:] Certainly sir. Could I have your arrival and departure dates? 
+[T:] We will be arriving on Tuesday next week and staying for two days. 
+[G:] We have a double room for you with a nice view of the park. Would that be OK? 
+[T:] Yes, that would be great. How much is the room? 
+[G:] It is ninety-five pounds per night. It is a double room with a bathroom. There is a fridge, coffee maker and a television in the room. 
+[T:] Does the bathroom have a bath or a shower? 
+[G:] All our bathrooms have full size baths with a shower attachment. 
+[T:] Does the room have an Internet connection? 
+[G:] Yes, all our rooms have complimentary wireless Internet. 
+[T:] Excellent. Do you serve breakfast in the hotel? 
+[G:] Yes, breakfast is included in the price. Our guests have the choice of a full English breakfast or a continental breakfast. 
+[T:] That's great. Can I book the room? 
+[G:] Certainly, Sir.

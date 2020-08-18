@@ -1,0 +1,11 @@
+[Tourist 19:] Hi
+Do you know where I can find cultural events?
+[Tech for Tourism - Research Page:] the Navajo Festival is this weekend at the Museum of Northern Arizona
+[Tourist 19:] How much does it cost?
+[Tech for Tourism - Research Page:] it is regular museum admission $12 for adults
+[Tourist 19:] Is there any Japanese restaurant in town?
+[Tech for Tourism - Research Page:] other than Sushi there is Sakura Or for Sushi there are many such as Karma, Teppan Fuji, and Hiros
+[Tourist 19:] Which one is closest?
+[Tech for Tourism - Research Page:] Karma is right across the street.
+[Tourist 19:] thanks!
+[Tech for Tourism - Research Page:] you are welcome

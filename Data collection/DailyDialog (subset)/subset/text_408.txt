@@ -1,0 +1,6 @@
+[T:] I want to reserve rooms for my colleagues. 
+What kind of rooms do you want? 
+A single room with a bath and one double room facing the lake. 
+No problem. Your room numbers are 201 and 204. 
+Thank you.
+

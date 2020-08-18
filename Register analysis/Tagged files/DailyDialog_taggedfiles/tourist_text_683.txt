@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Good ^jj+atrb+++=Good
+evening ^nn++++=evening.
+. ^zz++++=EXTRAWORD
+Is ^vbz+bez+vrb++=Is
+the ^ati++++=the
+kitchen ^nn++++=kitchen
+open ^jj++++=open
+now ^rn+tm+++=now?
+? ^zz++++=EXTRAWORD
+it ^pp3+it+++=It
+s ^zz++++=s
+ok ^rb+dspt+++=ok,
+, ^zz++++=EXTRAWORD
+good ^jj+atrb+++=good
+night ^nn++++=night.
+. ^zz++++=EXTRAWORD

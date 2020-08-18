@@ -1,0 +1,5 @@
+[Tourist 4:] Hello
+[Tech for Tourism - Research Page:] Hello
+How can I help you?
+[Tourist 4:] Is it possible to get the train to the Grand Canyon from Flagstaff or I must go to Williams?
+[Tech for Tourism - Research Page:] You must go to Williams but you can take Arizona Shuttle to get there if you need transportation.

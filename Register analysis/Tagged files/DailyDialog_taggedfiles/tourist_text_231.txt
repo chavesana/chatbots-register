@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Chicken ^nn++++=Chicken,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please.
+. ^zz++++=EXTRAWORD
+Thank ^vb++++=Thank
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD
+oh ^uh++++=Oh,
+, ^zz++++=EXTRAWORD
+can ^md+pos+++=can
+i ^pp1a+pp1+++=I
+have ^vb+hv+vrb++=have
+another ^ppls++++=another
+drink ^nn++++=drink?
+? ^zz++++=EXTRAWORD

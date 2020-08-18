@@ -1,0 +1,8 @@
+[T:] Good morning, sir. Is there a bank near here? 
+There is one. 5 blocks away from here? 
+Well, that's too far.Can you change some money for me? 
+Surely, of course. What kind of currency have you got? 
+RIB. 
+How much would you like to change? 
+1000 Yuan.Here you are.
+

@@ -1,0 +1,12 @@
+[G:] Front desk. May I help you? 
+[T:] I'm going to check out tomorrow but will be back in a week's time. Can I leave my luggage here? 
+[G:] Yes, sure. We do have a storage service. When will you be checking out tomorrow? 
+[T:] About nine-thirty in the morning. 
+[G:] Then shall we arrange the bellboy to pick up your luggage at 9:00? 
+[T:] Sure. 
+[G:] May I have your room number, please? 
+[T:] 1218. 
+[G:] 1218. We'll collect you luggage at 9:00 tomorrow. Would you then come to the Front Desk to get your storage receipt, please? 
+[T:] Thank you very much, bye! 
+[G:] You're welcome. Goodbye.
+

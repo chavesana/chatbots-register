@@ -1,0 +1,10 @@
+[Tourist 28:] Hello
+[Tech for Tourism - Research Page:] Hello.
+How can I help?
+[Tourist 28:] I am traveling with my wife on our honeymoon through flagstaff for a couple nights. Can you tell me what your best restaurants are?
+[Tech for Tourism - Research Page:] I think Josephine's has a good menu and nice scenery. The Cottage Place and Tinderbox are two other choices for a quiet romantic dinner.
+[Tourist 28:] Thank you
+Oh, one more question
+I heard that you have good breweries
+[Tech for Tourism - Research Page:] We do - 9 of them. Grab an Ale Trail map in the visitor's center. Most are within walking distance.
+[Tourist 28:] thanks

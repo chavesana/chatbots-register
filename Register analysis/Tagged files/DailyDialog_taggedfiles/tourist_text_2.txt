@@ -1,0 +1,17 @@
+What ^wdt+who+++=What
+are ^vb+ber+vrb++=are
+my ^pp$+pp1+++=my
+choices ^nns++++=choices
+for ^in++++=for
+lunch ^nn++++=lunch?
+? ^zz++++=EXTRAWORD
+Fish ^nn++++=Fish
+With ^in++++=with
+Noodles ^nns++++=noodles,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please.
+ ^zz++++=EXTRAWORD
+Coffee ^nn++++=Coffee,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please.
+ ^zz++++=EXTRAWORD

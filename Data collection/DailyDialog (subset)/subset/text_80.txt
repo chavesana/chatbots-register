@@ -1,0 +1,6 @@
+[T:] Is the right counter to check in for this flight? 
+[G:] Yes, it is. Please put your luggage on this scale. 
+[T:] OK. Is the plane on schedule? 
+[G:] Yes, it is. How many pieces of hand luggage do you have? 
+[T:] Two.
+

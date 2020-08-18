@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes.
+. ^zz++++=EXTRAWORD
+The ^ati++++=The
+porter ^nn++++=porter
+will ^md+prd+++=will
+go ^vb++++=go
+and ^cc+phrs+++=and
+help ^vb++++=help
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD
+ok ^rb+dspt+++=OK,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD

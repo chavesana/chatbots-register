@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Certainly ^rb++++=Certainly.
+. ^zz++++=EXTRAWORD
+no.sir ^np++++=No.sir.
+. ^zz++++=EXTRAWORD
+if ^cs+cnd+++=If
+only ^rb+down+++=only
+you ^pp2+pp2+++=you
+check ^vb+vprv+++=check
+out ^rp+pl+++=out
+before ^in++++=before
+15:00 ^cd++++=15:00

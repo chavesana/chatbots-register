@@ -1,0 +1,10 @@
+[T:] Hello.Is this room service? 
+Yes.May I help you? 
+This is room 1425.We asked for the room service an hour ago. 
+We're very sorry to cause you a lot of inconvenience. 
+What's the matter? 
+We're rather busy right now.It will take another 15 minutes. 
+Is it really going to take that long? Will you rush the order? 
+I'm afraid it would take 15 minutes at most. 
+Ah, well, we have no choice.
+

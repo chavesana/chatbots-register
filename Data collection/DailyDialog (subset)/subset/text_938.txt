@@ -1,0 +1,14 @@
+[T:] Excuse me, I need to get to Cambridge today. 
+[G:] Would you like to go by train or by bus? 
+[T:] I am not sure, which one is better? 
+[G:] The bus is cheaper but also slower. It will take about two-and-a-half hours. 
+[T:] And how long does the train take? 
+[G:] If you take the fast train, it will take about 50 minutes. 
+[T:] Where do I catch the train? 
+[G:] The trains for Cambridge leave from King's Cross Station. They run approximately every half hour. Most trains to Cambridge go from Platform 9. 
+[T:] How do I get to King's Cross? 
+[G:] The best way is to take an underground tube train directly to King's Cross. The Underground station is just round the corner from here. 
+[T:] Can you show me on the map? 
+[G:] It is very easy. Just turn right when you leave and then turn right again at the first crossroads. The entrance to the Underground station is about 50 meters further on. 
+[T:] Thank you very much. 
+[G:] You're welcome.

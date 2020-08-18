@@ -1,0 +1,8 @@
+[G:] The hotel operator. Anything I can do for you? 
+[T:] I've been trying to get through to the booking office for the last ten minutes. But the line has been engaged all the time. Why is it taking so long? 
+[G:] I'm sorry to hear that. I'm afraid it is often the case during the peak hours. Shall I ask them to call you when the line is free? 
+[T:] OK. Please do so if it is not troublesome. 
+[G:] No trouble at all. May I know your name and room number? 
+[T:] I'm Du Juan, in Room 312. 
+[G:] I see. Wait in the room, please. 
+[T:] Thank you for your kindness.

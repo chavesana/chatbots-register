@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes.what ^np+++??+=Yes.What
+can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+do ^vb+do+vrb++=do
+for ^in++++=for
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+am ^vb+bem+aux++=am
+sorry.sir.we ^nn++++=sorry.sir.We
+will ^md+prd+++=will
+send ^vb++++=send
+someone ^pn++++=someone
+immediately ^cs+tm+++=immediately.
+. ^zz++++=EXTRAWORD

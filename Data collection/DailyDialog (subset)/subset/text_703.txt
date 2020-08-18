@@ -1,0 +1,9 @@
+[T:] Hello, is this house keeper? 
+Yes, Madam, may I help you? 
+This room 117, and we have just checked in. 
+Yes? 
+Our room hasn't been cleaned up yet.So would you send one of your house keepers to clean up our room. 
+Oh, yes. Madam, we'll come right away then. Your room number and your name, please? 
+Our room number is 117 and my name is Terry Chen. 
+Thank you, would you hang up and wait?
+

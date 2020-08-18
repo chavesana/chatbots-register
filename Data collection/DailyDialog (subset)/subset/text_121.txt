@@ -1,0 +1,6 @@
+[G:] Front Desk. What can I do for you? 
+[T:] This is Room 320. Can I have a morning call tomorrow? 
+[G:] What time do you want us to wake you up? 
+[T:] Seven, please. 
+[G:] OK. I've set it up for you. 
+[T:] Thank you.

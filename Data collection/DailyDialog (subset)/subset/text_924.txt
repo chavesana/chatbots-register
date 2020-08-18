@@ -1,0 +1,11 @@
+[T:] Excuse me. Does this hotel have a fitness facility? 
+Yes, we try to accommodate all needs of our patrons, including fitness. 
+Where is your fitness facility located? 
+The gym is just below the lobby. Take the elevator or the stairs. You can't miss it. 
+Is there an additional surcharge for the gym? 
+No, the gym is free to guests. Take your room key, however, so you can get in. 
+What time is the gym open, and what time does it close? 
+The gym is open seven days a week, twenty-four hours a day. 
+Do you offer trainer services along with the gym? 
+Unfortunately, no. If you want a trainer, you'll have to use another gym.
+

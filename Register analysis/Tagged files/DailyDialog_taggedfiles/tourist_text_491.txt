@@ -1,0 +1,24 @@
+Good ^jj+atrb+++=Good
+morning ^nn++++=morning,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+am ^vb+bem+vrb++=am
+ready ^jj+pred+++=ready
+to ^to+jcmp+++=to
+check ^vbi+vprv+++=check
+out ^rp+pl+++=out
+now ^rn+tm+++=now.
+. ^zz++++=EXTRAWORD
+May ^md+pos+++=May
+I ^pp1a+pp1+++=I
+Have ^vb+hv+vrb++=have
+My ^pp$+pp1+++=my
+Bill ^nn++++=bill
+Now ^rn+tm+++=now?
+ ^zz++++=EXTRAWORD
+Cash ^nn++++=Cash,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please.
+ ^zz++++=EXTRAWORD

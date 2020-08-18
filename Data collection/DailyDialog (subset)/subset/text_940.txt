@@ -1,0 +1,7 @@
+[T:] Hi, Madam, I'm new here, could you tell me where is boarding gate? 
+[G:] What's your flight number? 
+[T:] Wait a second, please. Oh, it's CA193. 
+[G:] Are you a transfer passenger, sir? 
+[T:] Yes. 
+[G:] Then the north line is the right track for you to take. 
+[T:] It's so nice of you.

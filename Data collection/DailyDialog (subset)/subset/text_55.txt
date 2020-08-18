@@ -1,0 +1,15 @@
+[G:] Can I help you? 
+[T:] Is This where I pay the airport tax? 
+[G:] Yes, sir. Just as the sign says. How many? 
+[T:] I'm sorry, but I've never done this before. How many what? 
+[G:] How many people are you paying the tax for? 
+[T:] My wife and me. The two of us. 
+[G:] 100 yuan each, so you owe me 200 yuan. 
+[T:] Oh, OK. Here's 200 yuan. 
+[G:] Here are your two receipts. 
+[T:] Thanks. What shall I do then? 
+[G:] Just give these receipts to the lady at the door to immigration. Don't worry, she'll ask for them from you. 
+[T:] Oh, I guess I'm a little confused. 
+[G:] We are all the same the first time we travel overseas. You guys have a nice trip. 
+[T:] Thanks a lot.
+

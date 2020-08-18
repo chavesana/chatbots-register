@@ -1,0 +1,17 @@
+Sorry ^uh++++=Sorry,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD
+Dinners ^nns+nom+++=Dinners
+are ^vb+ber+vrb++=are
+available ^jj+pred+++=available
+20 ^cd++++=20
+minutes ^nns++++=minutes,
+, ^zz++++=EXTRAWORD
+drinks ^nns++++=drinks
+are ^vb+ber+aux++=are
+served ^vbd+++xvbn+=served
+throughout ^in++++=throughout
+the ^ati++++=the
+flight ^nn++++=flight.
+. ^zz++++=EXTRAWORD

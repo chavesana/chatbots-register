@@ -1,0 +1,9 @@
+[Tourist 17:] Hi
+[Tech for Tourism - Research Page:] how can I help you?
+[Tourist 17:] Is it worth to visit Sedona?
+[Tech for Tourism - Research Page:] Yeah Sedona is really beautiful and a great day trip from Flagstaff.
+[Tourist 17:] Is there any National Parks there?
+[Tech for Tourism - Research Page:] No it is national Forest and there are some State Parks if you have the National Park Pass it will cover parking in the National Forest areas.
+[Tourist 17:] What are some interesting natural landmarks to see?
+[Tech for Tourism - Research Page:] oak Creek Canyon, Cathedral Rock, Bell Rock, and Chimney Rock are some of the most iconic areas.
+[Tourist 17:] Thank you

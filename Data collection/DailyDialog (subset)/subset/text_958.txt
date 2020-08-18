@@ -1,0 +1,12 @@
+[G:] Maintenance Department. May I come in? 
+[T:] Come in, please. 
+[G:] Did you call us? 
+[T:] Yes. The television is not working properly. 
+[G:] What's the problem? 
+[T:] The remote control doesn't work. I turned on the television, but I can't change the channel. 
+[G:] Let me have a look. I think the batteries should be changed. Let me replace them with new ones. Now, it's working. 
+[T:] That's great. 
+[G:] Is there anything else I can do for you? 
+[T:] No, thanks. 
+[G:] If you have any problems, just call us. 
+[T:] OK. Thank you.

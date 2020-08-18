@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+I ^pp1a+pp1+++=I
+booked ^vbd+++xvbnx+=booked
+a ^at++++=a
+double ^jj+atrb+++=double
+room ^nn++++=room
+for ^in++++=for
+tonight ^nr+tm+++=tonight.
+. ^zz++++=EXTRAWORD
+my ^pp$+pp1+++=My
+name ^nn++++=name
+is ^vbz+bez+vrb++=is
+ruth ^np++++=Ruth
+joy ^nn++++=Joy.
+. ^zz++++=EXTRAWORD

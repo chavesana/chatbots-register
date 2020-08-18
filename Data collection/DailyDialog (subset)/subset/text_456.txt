@@ -1,0 +1,8 @@
+[G:] Hello, is there anything I can do for you? 
+Yes. I would like to check in. 
+Have you made a reservation? 
+Yes. I am Belen. 
+So your room number is 201. Are you a member of our hotel? 
+No, what's the difference? 
+Well, we offer a 10 % charge for our members.
+

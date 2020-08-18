@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Under ^in++++=Under
+which ^whp+rel+pied++=which
+category ^nn++++=category
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+intend ^vb++++=intend
+to ^to+vcmp+++=to
+apply ^vbi++++=apply?
+? ^zz++++=EXTRAWORD
+so ^ql++++=So
+that ^dt+pdem+++=that's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+the ^ati++++=the
+family ^nn++++=Family
+reunification ^nn+nom+++=Reunification.
+. ^zz++++=EXTRAWORD

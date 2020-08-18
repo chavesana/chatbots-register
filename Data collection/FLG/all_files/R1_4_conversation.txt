@@ -1,0 +1,22 @@
+[Tourist:] Hi
+[Tech for Tourism - Research Page:] Hello there! My name is <Tour Guide>. What can I help you with today?
+[Tourist:] I'm new in flagstaff. I just came from Calofornia and I drove. So I'm too tired tonight and I need a place for night.  But I don't know any place around here
+[Tech for Tourism - Research Page:] What kind of accommodation are you looking for?
+[Tourist:] A hotel or maybe airbnb,  but not too expensive.
+[Tech for Tourism - Research Page:] Okay, we definitely have some options that would fit that. If you're comfortable with a hostel, we have the Motel du Beau and the Grand Canyon International Hostel in downtown Flagstaff, or if you're looking more for a traditional hotel you can stay at hotels like the Super 8, Days Inn, Knights Inn, etc. Prices for all Flagstaff hotels change pretty much daily, but you can easily search online for prices if any of those interest you.
+[Tourist:] Cool I will search for that. I have more questions,  next I need some cool place for lunch or dinner. But I don't them at all.
+[Tech for Tourism - Research Page:] What kind of food do you like?
+We have most cuisines in downtown Flagstaff. ðŸ<sup>TM</sup>,
+[Tech for Tourism - Research Page:] There are quite a few local breweries in the downtown district, like Mother Road and the Lumberyard, that also serve food. We have great BBQ and southwestern style restaurants as well!
+[Tourist:] Oh I had to say that I have problem with spicy foods and I can't eat them
+So which one you think is suitable for me?
+[Tech for Tourism - Research Page:] Ok that's fine!
+There are some very good options that aren't spicy. We have Mix on the Square, which is a soup and sandwich kind of restaurant, and Beaver Street Brewery is an American-Italian restaurant as well as being one of our local breweries.
+[Tourist:] Cool mix on the square sounds good,  where is the exact location?
+[Tech for Tourism - Research Page:] Their address is 120 N Leroux, and they're right in the center of downtown Flagstaff in the Old Town Shops.
+[Tourist:] Cool.  I came here to visit sedona and grand canyon,  however, I'm alone and I'm looking for some friends too. That would be great if I can join others or find some friends for my trip or hangouts.  Do you think you can join me with someone?
+[Tech for Tourism - Research Page:] For that, I would definitely recommend staying at one of the hostels in downtown Flagstaff. There are always international and younger travellers looking for groups to go places with, and it's a great way to connect with other people.
+[Tourist:] Do you know any hostels in flagstaff?
+[Tech for Tourism - Research Page:] Yes, the two that are downtown are the Motel du Beau and the Grand Canyon International Hostel.
+[Tourist:] Cool thank you,  I don't have any further question.  I got my answers
+[Tech for Tourism - Research Page:] Okay perfect, I'm happy to help!

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+ten ^cd++++=ten
+fifteen ^cd++++=fifteen
+a.m ^nn+++??+=a.m.
+. ^zz++++=EXTRAWORD
+Sorry.you ^np+++??+=Sorry.You
+have ^md"++pmd"++=have
+to ^md+nec+++=to
+buy ^vb++++=buy
+your ^pp$+pp2+++=your
+ticket ^nn++++=ticket
+at ^in++++=at
+the ^ati++++=the
+next ^rb++++=next
+counter ^nn++++=counter.
+. ^zz++++=EXTRAWORD

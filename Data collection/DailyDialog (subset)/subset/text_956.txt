@@ -1,0 +1,8 @@
+[G:] Seat 30B is right here, sir. You may take your seat. I'll put your bag in the above compartment. 
+[T:] Thank you, miss. Will dinner be served on the plane? 
+[G:] Yes, sir. I'll bring you a menu shortly after we take off. 
+[T:] That would be nice. Could you also get me a pillow and a blanket, please? 
+[G:] Here you are. 
+[T:] How long will this flight last? 
+[G:] It is a six-hour flight with an-hour layover in Los Angles. 
+[T:] Good. I'll have plenty of time to nap on the plane.

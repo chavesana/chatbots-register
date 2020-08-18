@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+this ^dt+pdem+++=this
+is ^vbz+bez+vrb++=is
+holiday ^nn++++=Holiday
+inn ^nn++++=Inn
+reservation ^nn+nom+++=reservation.
+. ^zz++++=EXTRAWORD
+yes.your ^np++++=Yes.Your
+name ^nn++++=name,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please?
+? ^zz++++=EXTRAWORD

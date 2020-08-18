@@ -1,0 +1,21 @@
+[G:] Dutton Hotels. How may I help you today? 
+[T:] I wanted to check rates and availability for your San Francisco location. 
+[G:] Certainly, I can help you with that. Will that be the downtown or waterfront location? 
+[T:] The waterfront location. 
+[G:] What date do you plan to check in? 
+[T:] I'd like to check in on October 12th and check out the 15th. 
+[G:] Okay, let me see what we have. For how many? 
+[T:] One. And, if possible, I'm looking for a non-smoking room. 
+[G:] Sure, we have a non-smoking queen with an ocean view for $189 or a standard room with a courtyard view for $139 a night. 
+[T:] I'd like to book the standard room. 
+[G:] Okay, your last name? 
+[T:] Rama. 
+[G:] And, your first name? 
+[T:] Jeff. 
+[G:] Okay, I have you booked in a standard non-smoking queen, checking in on October 12th and departing the 15th. What major credit card would you like to use to guarantee the reservation? 
+[T:] A Visa. 
+[G:] The number and expiration? 
+[T:] It's 7388-2424- 3535-1818 and the expiration is 05/08. 
+[G:] Your confirmation number is PD672. Is there anything else I help you with? 
+[T:] No, that's all. Thanks. 
+[G:] Have a nice day and thanks you for calling Dutton Hotels.

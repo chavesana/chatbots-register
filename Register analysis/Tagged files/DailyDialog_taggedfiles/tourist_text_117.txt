@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+What ^wdt+who+++=What
+for ^cs+sub+++=for?
+? ^zz++++=EXTRAWORD
+Ok ^rb+dspt+++=OK.
+. ^zz++++=EXTRAWORD
+But ^cc+cls+++=But
+I ^pp1a+pp1+++=I
+Hope ^vb++++=hope
+It ^pp3+it+++=it
+Will ^md+prd+++=won't
+N't ^xnot++not++0=EXTRAWORD
+Take ^vb++++=take
+Too ^rb++++=too
+Long ^rb++++=long.
+ ^zz++++=EXTRAWORD

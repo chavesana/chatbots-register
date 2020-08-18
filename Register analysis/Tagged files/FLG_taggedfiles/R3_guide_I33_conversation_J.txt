@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+you ^pp2+pp2+++=you
+drive ^vb++++=drive
+right ^nn++++=right
+to ^to+ncmp+++=to
+the ^ati++++=the
+base ^nn++++=base
+of ^in++++=of
+the ^ati++++=the
+crater ^nn++++=crater
+you ^pp2+pp2+++=you
+welcome ^nn++++=welcome

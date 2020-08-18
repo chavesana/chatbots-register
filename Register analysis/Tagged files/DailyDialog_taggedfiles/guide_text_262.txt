@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Please ^uh++++=Please
+Show ^vb+vprv+tht0++=Show
+your ^pp$+pp2+++=your
+ticket ^nn++++=ticket
+and ^cc++++=and
+passport ^nn++++=passport.
+. ^zz++++=EXTRAWORD
+which ^whp+who+++=Which
+flight ^nn++++=flight
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+want ^vb++++=want
+to ^to+vcmp+++=to
+change ^vb++++=change?
+? ^zz++++=EXTRAWORD

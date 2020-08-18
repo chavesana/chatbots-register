@@ -1,0 +1,8 @@
+[G:] Housekeeping. May I help you? 
+[T:] Yeah, the people in the next room are a little loud. Could you do something about it? 
+[G:] Of course. What room are you in, sir? 
+[T:] I'm in Room 215. 
+[G:] And do you know which room the noise is coming from? 
+[T:] I don't know the number, but it's definitely the room that's next to the stairs. 
+[G:] Thank you. We'll take care of it. Please let us know if there's anything else we can do to make your stay more comfortable. 
+[T:] OK, thanks. I really appreciate it.

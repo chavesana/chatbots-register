@@ -1,0 +1,17 @@
+Excuse ^nn++++=Excuse
+me ^pp1o+pp1+++=me,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD
+My ^pp$+pp1+++=My
+baggage ^nn+nom+++=baggage
+is ^vbz+bez+vrb++=is
+badly ^rb++++=badly
+damaged ^jj+pred+++=damaged.
+. ^zz++++=EXTRAWORD
+where ^wrb+who+whq++=Where
+can ^md+pos+++=can
+i ^pp1a+pp1+++=I
+get ^vb++++=get
+it ^pp3+it+++=it?
+? ^zz++++=EXTRAWORD

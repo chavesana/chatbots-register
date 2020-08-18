@@ -1,0 +1,11 @@
+[T:] Hi, sir. Could you tell me where the Hilton Hotel is? 
+[G:] Well, there are two Hilton Hotels around here. Which one is your destination? 
+[T:] Eh, let me see. Sorry, I can't remember it, because I've been there only once, accompanied by my friends. 
+[G:] Then, it would be a little bit harder to find out your way. Do you remember the name of the street, or one or two landmarks? 
+[T:] A bookstore, probably. With a yellow and orange logo. 
+[G:] Good, any other clues? 
+[T:] I remembered there is a very busy street several miles away. I waited for the traffic light for a very long time. 
+[G:] Oh, is there a bank near there, Standard Charted possibly? 
+[T:] Oh, yeah, I got it, there is a bank My friend exchanged her money there. 
+[G:] That's the second branch hotel of Hilton. Walk straight down and you will see the bookstore you just mentioned. Turn left, I believe, you will get it. 
+[T:] Great! Many thanks!

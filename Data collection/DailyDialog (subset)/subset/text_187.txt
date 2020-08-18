@@ -1,0 +1,9 @@
+[G:] Sunshine Hotel. 
+[T:] Have you got a single room for Monday evening, please? 
+[G:] With or without private bathroom? 
+[T:] With private room, please. 
+[G:] Sorry, we haven't got any. But we have a room without private bath room. 
+[T:] How much does it cost? 
+[G:] 160 yuan. 
+[T:] Could you book it for me? 
+[G:] Of course yes.

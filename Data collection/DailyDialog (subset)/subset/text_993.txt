@@ -1,0 +1,4 @@
+[T:] How much does it cost to hire a motorbike? 
+[G:] For 3 days $300, for 7 days $600. 
+[T:] Good. I think I'll hire one for 7 days. 
+[G:] Okay. I'll write up the paperwork.

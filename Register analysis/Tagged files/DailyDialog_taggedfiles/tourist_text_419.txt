@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+It ^pp3+it+++=It
+is ^vbz+bez+vrb++=is
+very ^ql+amp+++=very
+nice ^jj++++=nice.
+. ^zz++++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+Order ^to++++=order
+Room ^nn++++=room
+Service ^nn++++=service?
+ ^zz++++=EXTRAWORD
+Good ^jj++++=Good.
+ ^zz++++=EXTRAWORD
+Ok.thanks ^np++++=OK.thanks.
+ ^zz++++=EXTRAWORD

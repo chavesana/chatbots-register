@@ -1,0 +1,9 @@
+[Tourist 44:] Hi there, I was thinking of taking the train to the grand canyon. Can I take the train from Flagstaff?
+[Tech for Tourism - Research Page:] Hello. The train to the Grand Canyon leaves from Williams, 30 minutes west of Flagstaff on I-40. The train here in Flagstaff goes east-west along Route 66 and goes Chicago to Los Angeles.
+[Tourist 44:] Do I have to drive to Williams or there are other transportations?
+[Tech for Tourism - Research Page:] You would need to drive or take a taxi to Williams, or you can take the Arizona Shuttle there.
+[Tourist 44:] Arizona Shuttle?
+[Tech for Tourism - Research Page:] Yes, it costs around $35 each way on the shuttle. You might get a better price with a taxi.
+[Tourist 44:] I see.
+Thank you
+[Tech for Tourism - Research Page:] You're welcome.

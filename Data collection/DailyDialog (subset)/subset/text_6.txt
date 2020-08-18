@@ -1,0 +1,10 @@
+[T:] You are from the travel agency, aren't you? 
+[G:] Yes, are you Mr James? 
+[T:] Yes, I am. Are you Miss Li from the travel agency? 
+[G:] That's right. 
+[T:] Do you mind telling me your name? 
+[G:] Of course not. My name is Li Ping. Is this all your baggage? 
+[T:] Yes, it is. I usually travel light. 
+[G:] Welcome to Hong Kong. I'll go and get the car. Could you please wait a few minutes? 
+[T:] Sure, and I'm glad to meet you. Thanks for your help.
+

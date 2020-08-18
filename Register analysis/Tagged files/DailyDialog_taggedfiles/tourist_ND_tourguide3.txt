@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+[ ^zz++++=[T:]
+t ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+Would ^md+prd+++=Would
+you ^pp2+pp2+++=you
+please ^uh++++=please
+tell ^vb++++=tell
+me ^pp1o+pp1+++=me
+what ^wdt+who+++=what
+places ^nns++++=places
+are ^vb+ber+aux++=are
+worth ^in++++=worth
+visiting ^vbg+++xvbg+=visiting?
+? ^zz++++=EXTRAWORD

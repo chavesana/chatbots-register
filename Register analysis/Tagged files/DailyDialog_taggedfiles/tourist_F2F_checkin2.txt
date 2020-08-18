@@ -1,0 +1,18 @@
+Here ^rn+pl+++=Here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD
+Just ^rb+emph+++=Just
+this ^dt+dem+++=this
+one ^pn++++=one.
+. ^zz++++=EXTRAWORD
+Aisle ^nn++++=Aisle,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please.
+ ^zz++++=EXTRAWORD
+What ^wdt+who+++=What's
+s ^vbz+bez+vrb++0=EXTRAWORD
+The ^ati++++=the
+Gate ^nn++++=gate
+Number ^nn++++=number?
+ ^zz++++=EXTRAWORD

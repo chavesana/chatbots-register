@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Where ^wrb+who+++=Where
+do ^vb+do+vrb++=do
+you ^pp2+pp2+++=you
+intend ^vb++++=intend
+to ^to+vcmp+++=to
+go ^vbi++++=go?
+? ^zz++++=EXTRAWORD
+that ^dt+pdem+++=That's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+beautiful ^jj++++=beautiful.
+. ^zz++++=EXTRAWORD

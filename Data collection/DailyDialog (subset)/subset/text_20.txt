@@ -1,0 +1,8 @@
+[G:] Room Service. May I help you? 
+[T:] This is Room 603. I'm afraid that the heating system doesn't work. It's very cold here. 
+[G:] Have you switched on the radiator? 
+[T:] Yes. I have switched it on for a long time. The room is still very cold. 
+[G:] We're terribly sorry for that. We'll send our staff io fix it now. Or do you want to change your room? 
+[T:] I prefer not to move first. 
+[G:] OK. Is it convenient for us to come now? 
+[T:] Yes, please.

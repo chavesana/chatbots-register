@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Where ^wrb+who+++=Where
+can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+park ^npl++++=park
+my ^pp$+pp1+++=my
+car ^nn++++=car?
+? ^zz++++=EXTRAWORD
+okay ^rb+dspt+++=Okay.
+. ^zz++++=EXTRAWORD
+here ^rn+pl+++=Here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD

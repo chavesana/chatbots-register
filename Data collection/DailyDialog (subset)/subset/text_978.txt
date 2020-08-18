@@ -1,0 +1,8 @@
+[T:] Hello, I have a reservation for a double. 
+[G:] What's your last name? 
+[T:]  It's Smith. Here is my driver's license. 
+[G:] Yes, I do show your reservation. How could you like to pay for the room? 
+[T:] I'd like to put it on my VISA. 
+[G:] Fine. Here is your room key, here is also a map of our hotel. The swimming pool, gym and sauna are all located on first floor. 
+[T:] Great, is our room ready yet? 
+[G:] Yes. If you want to order room service, just press 0 on your phone, and that will connect you with the front desk.

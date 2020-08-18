@@ -1,0 +1,11 @@
+[G:] Northwest Airline. 
+Hello, I'd like to reconfirm my flight. 
+May I have your flight No., PLS? 
+My flight No. is 102 leaving Baiyun Airport at fourteen twenty. 
+Yes, that's our regular flight to Shanghai. What's your name, PLS? 
+I am Jason Armstrong. My first initial is J. 
+One minute. Oh, yes, here we are. You are flying economy class, aren ’ t you? 
+Yes, that's right. 
+Okay, you are all set, Mr. Armstrong. Enjoy your flight! 
+Thanks!
+

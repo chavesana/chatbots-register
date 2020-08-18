@@ -1,0 +1,7 @@
+[T:] Excuse me. What's the actual flight time from here to San Francisco? 
+[G:] It's about twelve hours. 
+[T:] Can you tell me what time we're arriving? 
+[G:] Sure. Let me see... at 6:15 a.m. local time. 
+[T:] I see. 
+[G:] And that'll be 10:15 p.m. Beijing time.
+

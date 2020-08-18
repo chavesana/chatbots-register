@@ -1,0 +1,12 @@
+[G:] Hilton Hotel. Can I help you? 
+Yes. I'd like to make a room reservation. 
+Fine. Beginning when? 
+Two weeks from Thursday, for three nights. 
+That's the twenty-fourth of June? 
+Right. 
+Your name, please? 
+Robert Hamlin. 
+Single or double? 
+Double. 
+You're all set. That's a double room for the twenty-fourth, twenty-fifth and twenty-sixth of June, in the name of Hamlin.
+

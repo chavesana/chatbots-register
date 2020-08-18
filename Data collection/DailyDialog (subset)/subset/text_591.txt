@@ -1,0 +1,11 @@
+[G:] Good morning! What can I do for you? 
+[T:] I'm thinking of travelling to Suzhou in July. Could you recommend some tourist programs for that? 
+[G:] With pleasure. We arrange two kinds of tourist programs for Suzhou, a six-day tour by train and a five-day flying journey. 
+[T:] How much does a six-day tour by train cost? 
+[G:] Five hundred yuan. 
+[T:] Does that include hotels and meals? 
+[G:] Oh, yes, and admission tickets for places of interest as well. 
+[T:] That sounds reasonable. What about the five-day flying journey? How much is that? 
+[G:] Eight hundred and fifty yuan. 
+[T:] Covering all expenses? 
+[G:] Yes. But there is no half fare for children. They must pay full fare.

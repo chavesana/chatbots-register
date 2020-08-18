@@ -1,0 +1,10 @@
+[G:] Good morning. Can I help you? 
+Good morning. I'd like to make a reservation to Guangzhou for August 2. 
+Just a moment, please. I'm sorry, sir. There is no ticket available on that day. But we have flights for Guangzhou the next day. 
+May I inquire about the departure time? 
+A 9:12 flight in the morning and a 14:00 flight in the afternoon. 
+When will the plane reach for the morning flight? 
+At 13:15. 
+OK. I'd like to book a ticket for this one. 
+All right, sir. Please reconfirm your ticket no later than 12 o'clock two days before the flight ; otherwise, your reservation will automatically be cancelled.
+

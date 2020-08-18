@@ -1,0 +1,17 @@
+What ^wdt+who+++=What's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+wrong ^jj++++=wrong
+with ^in++++=with
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+It ^pp3+it+++=It's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+just ^rb+emph+++=just
+around ^in++++=around
+the ^ati++++=the
+comer.would ^nn++++=comer.Would
+you ^pp2+pp2+++=you
+need ^vb++++=need
+some ^dti++++=some
+pills ^nns++++=pills?
+? ^zz++++=EXTRAWORD

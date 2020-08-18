@@ -1,0 +1,9 @@
+[T:] To which gate do I need to go to catch connecting flight 101 to New York City? 
+[G:] Go to gate 18. The plane is now boarding. You must hurry. 
+[T:] Show me the fastest way to get there. 
+[G:] Instead of walking, you can take this shuttle to get you there faster. 
+[T:] Do you think the plane will leave without me? 
+[G:] No, I ’ ll call the attendants at the gate. I will tell them you ’ re on your way. 
+[T:] Thank you so much. I would really appreciate that. 
+[G:] You are welcome. Have a safe trip.
+

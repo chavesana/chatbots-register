@@ -1,0 +1,7 @@
+[Tourist 3:] Hi
+[Tech for Tourism - Research Page:] What can I help you with today?
+[Tourist 3:] Where would I be able to get free food.
+[Tech for Tourism - Research Page:] Typically there is only free food during various festivals and events downtown, like the monthly Art Walk. If you're in need, there is the Food Bank located at 3805 E Huntington Drive on the east side of town.
+There are a number of inexpensive food options downtown, though. I know that Fratelli's has slices of pizza that are usually around $3, and the pastries at Macy's Cafe and Mozelle's are reasonably priced, too.
+Did you have any other questions?
+[Tourist 3:] Ok thank you so much. That was all.

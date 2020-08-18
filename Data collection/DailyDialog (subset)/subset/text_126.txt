@@ -1,0 +1,8 @@
+[G:] Do you want to settle the bill now? 
+Yes. Do you accept traveler's checks? 
+Yes, we do. 
+Very good. 
+Do you have any identification? 
+Yes, I have my driver's license. 
+Fine.
+

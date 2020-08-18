@@ -1,0 +1,7 @@
+[Tourist 10:] Hello
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 10:] Are there any vegetarian friendly restaurants in or near downtown?
+[Tech for Tourism - Research Page:] Yes, there are! Macy's European Coffee House is a vegetarian restaurant and cafe on S Beaver St, and most restaurants have vegetarian options as well.
+[Tech for Tourism - Research Page:] There is also the Red Curray Vegan restaurant on N San Francisco St.
+[Tourist 10:] Thank you
+[Tech for Tourism - Research Page:] You're welcome!

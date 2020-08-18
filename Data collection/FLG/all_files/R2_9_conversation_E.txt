@@ -1,0 +1,8 @@
+[Tourist 9:] Hi
+[Tech for Tourism - Research Page:] Hello. How can I help?
+[Tourist 9:] Are there any vegetarian friendly restaurants in or near downtown?
+[Tech for Tourism - Research Page:] Red Curry Kitchen is a good vegan restaurant, 10 N San Francisco St, as well as Whyld Ass Restaurant 121 E. Birch Ave (just east of San Francisco). A lot of restaurants offer vegetarian options, including the locally-made Tepa vegetarian burgers.
+[Tourist 9:] Thank you!
+Are there also any parks with playgrounds close by?
+[Tech for Tourism - Research Page:] Thorpe Park is your closest option with playground equipment. Santa Fe Ave. & Thorpe Park Rd. going towards Lowell Observatory.
+[Tourist 9:] Great! Thanks!

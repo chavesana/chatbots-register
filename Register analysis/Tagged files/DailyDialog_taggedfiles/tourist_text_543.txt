@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+a ^at++++=a
+suitcase ^nn++++=suitcase
+and ^cc++++=and
+carry ^vb++++=carry-on.
+- ^zz++++=EXTRAWORD
+on ^in+strn+++=EXTRAWORD
+. ^zz++++=EXTRAWORD
+thank ^vb++++=Thank
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD

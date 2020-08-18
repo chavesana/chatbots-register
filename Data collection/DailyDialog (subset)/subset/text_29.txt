@@ -1,0 +1,11 @@
+[G:] Good morning, Room Service. May I help you? 
+[T:] I'd like to have lunch in my room. 
+[G:] OK, sir. We offer two types of lunch, Chinese food and western food. Which one would you prefer? 
+[T:] What does a Chinese food have? 
+[G:] Rice, egg, beef and vegetables. 
+[T:] That will be fine. I'll take it. 
+[G:] I see. May I have your name and room number, please? 
+[T:] Sure, it's White in Room 204. 
+[G:] Let me confirm your order, Mr. White in Room 204, Chinese food. Is that right? 
+[T:] Exactly. 
+[G:] Your order will be ready soon, thank you for calling.

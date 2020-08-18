@@ -1,0 +1,6 @@
+[T:] Hello. Is there a room available tonight? 
+[G:] What kind of room do you have in mind? 
+[T:] I ’ d like a twin room, please. 
+[G:] Hold on, please. I'm afraid we're fully booked.The only room available at the moment is a suite. 
+[T:] Oh, I see. Thank you anyway.
+

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Steward ^nn++++=Steward!
+! ^zz++++=EXTRAWORD
+May ^md+pos+++=May
+I ^pp1a+pp1+++=I
+have ^vb+hv+vrb++=have
+a ^at++++=a
+magazine ^nn++++=magazine
+or ^cc++++=or
+something ^pn++++=something?
+? ^zz++++=EXTRAWORD
+one ^pn++++=One
+in ^in++++=in
+english ^jj++++=English,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please.
+. ^zz++++=EXTRAWORD

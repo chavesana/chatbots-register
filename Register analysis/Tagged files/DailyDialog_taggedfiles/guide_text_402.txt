@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Surely ^rb++++=Surely
+of ^in+emph+++=of
+course ^nn+emph"+++=course.
+. ^zz++++=EXTRAWORD
+Yes ^uh++++=Yes.
+. ^zz++++=EXTRAWORD
+How ^wrb+who+++=How
+Long ^rb++++=long
+Would ^md+prd+++=would
+You ^pp2+pp2+++=you
+Like ^vb++++=like
+Us ^pp1o+pp1+++=us
+To ^to++++=to
+Keep ^vb++++=keep
+It ^pp3+it+++=it?
+ ^zz++++=EXTRAWORD

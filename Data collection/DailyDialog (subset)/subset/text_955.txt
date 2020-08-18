@@ -1,0 +1,10 @@
+[T:] I'm sorry, I've lost my tags and receipt. What can I do about it? 
+[G:] I see. What is your baggage? And do you remember the tag's number or color? 
+[T:] It's a suitcase. Its colour is blue. 
+[G:] Could you give me a description of your case? 
+[T:] It's like this, it's square with a leather cover. 
+[G:] I'll check it for you. I've found it. Is this yours? 
+[T:] Yes, it is the right one 
+[G:] Will you show me your key card, please? 
+[T:] Here it is. 
+[G:] All right. Now you can take your case away

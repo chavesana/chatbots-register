@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+It ^pp3+it+++=It
+should ^md+nec+++=should
+be ^vb+be+vrb++=be
+3 ^zz++++=3
+that ^dt+pdem+++=That's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+right ^jj++++=right.
+. ^zz++++=EXTRAWORD
+welcome ^jj++++=Welcome
+to ^in+jcmp+++=to
+great ^jj+atrb+++=Great
+britain ^np++++=Britain.
+. ^zz++++=EXTRAWORD

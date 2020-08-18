@@ -1,0 +1,23 @@
+Yes ^uh++++=Yes.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+Would ^md+prd+++=Would
+like ^vb++++=like
+make ^vb++++=make
+a ^at++++=a
+reservation ^nn+nom+++=reservation
+to ^in++++=to
+Huston ^np+++??+=Huston
+for ^in++++=for
+tomorrow ^nr+tm+++=tomorrow.
+. ^zz++++=EXTRAWORD
+Oh ^uh++++=Oh,
+ ^zz++++=EXTRAWORD
+That ^dt+pdem+++=that's
+s ^vbz+bez+vrb++0=EXTRAWORD
+Quite ^rb++++=quite
+Convenient ^jj++++=convenient.
+ ^zz++++=EXTRAWORD
+Thank ^vb++++=Thank
+You ^pp2+pp2+++=you.
+ ^zz++++=EXTRAWORD

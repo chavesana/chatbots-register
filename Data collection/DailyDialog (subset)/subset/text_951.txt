@@ -1,0 +1,8 @@
+[T:] Excuse me. Where can I buy some cigarettes? 
+[G:] There is a shop on the ground floor. It sells both Chinese and foreign cigarettes. 
+[T:] Can I also get some souvenirs there? 
+[G:] Yes, sir. There is a counter selling all kinds of souvenirs 
+[T:] By the way, where is the men's room? 
+[G:] There is one at the end of the corridor. 
+[T:] Thank you. 
+[G:] You are welcome.

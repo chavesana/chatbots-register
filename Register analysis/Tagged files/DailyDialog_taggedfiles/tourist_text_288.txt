@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Excuse ^nn++++=Excuse
+me ^pp1o+pp1+++=me,
+, ^zz++++=EXTRAWORD
+how ^wrb+who+++=how
+long ^rb++++=long
+is ^vbz+bez+vrb++=is
+the ^ati++++=the
+flight ^nn++++=flight
+to ^in++++=to
+phoenix ^nn++++=Phoenix?
+? ^zz++++=EXTRAWORD
+is ^vbz+bez+vrb++=Is
+that ^dt+dem+++=that
+phoenix ^nn++++=Phoenix
+time ^nn++++=time?
+? ^zz++++=EXTRAWORD

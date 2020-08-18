@@ -1,0 +1,7 @@
+[G:] Good evening, this is housekeeping. May I help you? 
+[T:] Yes. This is room 207. There isn't any hot water in my bath room. Can you send somebody here, and do something about it? 
+[G:] Yes, sir. We'll be there shortly. 
+[T:] I am glad you are here! See if you can find the problem. 
+[G:] Everything is OK now. 
+[T:] Thank you for repairing it. 
+[G:] You are welcome. It's our job to keep things running smoothly.

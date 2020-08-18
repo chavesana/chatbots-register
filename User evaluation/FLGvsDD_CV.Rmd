@@ -1,0 +1,301 @@
+---
+title: "FLG vs. Daily Dialog"
+author: "Ana Paula Chaves Steinmacher"
+date: "3/17/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r loadingData, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(surveystats) #data package exists inside the Text Modification folder
+library(ggplot2)
+library(mlmRev) #for glmer
+
+data(feat_users_pref)
+```
+
+```{r}
+#preparing the data...
+feat_users_pref <- feat_users_pref %>%
+  filter(choice != "NONE") %>%
+  select(-question, -do_pro, -pro_dem, -emphatic, -pro_it, -sub_conj_caus, -pro_nom, -hedge, -amplifr, 
+         -wh_ques, -wh_cls, -vb_past, -vb_perfect, -wh_rel_obj, -wh_rel_pipe, -coord_conj_phrs, -sub_conj_othr,
+         -adv_place, -adv, -infinitive, -split_aux, -passive_short, -passive_by, -passive_postnom,
+         -vb_be, -mod_poss, -vb_public, -mod_necess, -jj_pred) %>%
+  droplevels()
+
+feat_users_pref <- feat_users_pref %>%
+  mutate(social_or_1_na = is.na(social_orientation_1),
+         social_or_2_na = is.na(social_orientation_2))
+
+feat_users_pref$social_orientation_1[is.na(feat_users_pref$social_orientation_1)]<-0
+feat_users_pref$social_orientation_2[is.na(feat_users_pref$social_orientation_2)]<-0
+
+
+#ORIGINAL=O=NEGATIVE
+#TRANSLATED=1=POSITIVE
+appropriateness <- feat_users_pref %>%
+  filter(construct == "APPROP") %>%
+  select(-construct) %>%
+  mutate(choice=unclass(choice)-1)
+
+credibility <- feat_users_pref %>%
+  filter(construct == "CREDIB") %>%
+  select(-construct) %>%
+  mutate(choice=unclass(choice)-1)
+
+ux <- feat_users_pref %>%
+  filter(construct == "UX") %>%
+  select(-construct) %>%
+  mutate(choice=unclass(choice)-1)
+```
+
+# Cross-validation algorithm
+
+```{r}
+library(glmnet)
+library(data.table)
+#library(pROC)
+library(randomForest)
+
+#create a column with the fold number (random at first)
+n.folds <- 10
+#head(fold.vec)
+
+#initializing the lists
+model.list = list()
+pred.err.dt.list = list()
+pred.acc.dt.list = list()
+roc.dt.list = list()
+coeff.dt.list = list()
+
+#list of input matrix
+data.X.list <- list(
+  appropriateness = as.matrix(appropriateness[c(1:27, 29:206)]), #features + individual + pid + social orientation
+  credibility = as.matrix(credibility[c(1:27, 29:206)]), #features + individual + pid + social orientation
+  ux = as.matrix(ux[c(1:27, 29:206)]) #features + individual + pid + social orientation
+  )
+
+#list of outputs matrix
+data.y.list <- list(
+  appropriateness = appropriateness$choice,
+  credibility = credibility$choice,
+  ux = ux$choice
+  )
+
+#for each fold, do the following
+for(test.fold in 1:n.folds){
+  #for each dataset in the data.X.list
+  for(data.name in names(data.X.list)){
+    set.seed(1)
+    fold.vec <- rep(sample(1:n.folds), l=nrow(data.X.list[[data.name]]))
+    
+    #setting one fold as the test set (the remaining goes to train set)
+    is.test <- fold.vec == test.fold
+    is.train <- !is.test
+    
+    data.X <- data.X.list[[data.name]]
+    data.y <- data.y.list[[data.name]]
+    
+    #build the train sets as two vectors
+    x.train = data.X[is.train,]
+    y.train = data.y[is.train]
+    
+    #build the train sets as a single table
+    train.dt <- data.table(label=y.train, x.train, check.names=FALSE)
+    
+    #identify the most frequent class
+    most.frequent.class <- DescTools::Mode(y.train)
+    
+    #select the test set for prediction
+    x.test = data.X[is.test,]
+    y.test = data.y[is.test]
+    
+    #fit cv.glmnet
+    model.list$glmnet = cv.glmnet(x=x.train, y=y.train, family = "binomial", 
+                        standardize = FALSE, type.measure = "class")
+    #fit for random forest
+    model.list$rf = party::cforest(label ~ .,  data=train.dt)
+    
+    #fit xgboost
+    model.list$xgboost <- xgboost::xgb.train(
+      params=list(objective="binary:logistic", eval_metric="auc"),data=xgboost::xgb.DMatrix(
+        x.train, label=y.train), nrounds=50)
+    
+    
+    #list of predicted class vectors
+    pred.prob.list <- list(
+      baseline=as.matrix(rep(most.frequent.class, nrow(x.test)))#predicts always the most frequent class
+      )
+    
+    predict.list <- list(
+      glmnet = predict(model.list$glmnet, x.test, type="response"),
+      rf = sapply(party::treeresponse(model.list$rf, as.data.frame(x.test)), "[", 1),
+      xgboost = predict(model.list$xgboost, x.test)
+    )
+
+    #model.name <- names(model.list)[1]
+    for(model.name in names(model.list)){
+      #get the model fit
+      cvfit = model.list[[model.name]]
+      #plot(cvfit)
+      cvfit.coeff <- NULL
+      #save the coefficients
+      if(model.name=="glmnet"){ #no coeffs for non linear models
+        cvfit.coeff <- as.data.frame(as.matrix(coef(cvfit)))
+        #make the row names the first column
+        cvfit.coeff <- setDT(cvfit.coeff, keep.rownames = TRUE)[]
+        names(cvfit.coeff) <- c("predictor", "coeff")
+        coeff.dt.list[[paste(test.fold, data.name, model.name)]] <- 
+          data.table(test.fold, data.name, model.name, cvfit.coeff)
+      }
+      
+      #calculate prediction
+      pred.class <- predict.list[[model.name]]
+
+      #confusion matrix
+      #table(y.test, pred.class)
+      
+      ##add the prediction to the list
+      pred.prob.list[[paste(model.name)]] <- pred.class
+    }
+    #model <- names(pred.prob.list)[1]
+    for(model in names(pred.prob.list)){
+      pred.prob <- pred.prob.list[[model]]
+      #compute the ROC curve
+      roc.df <- WeightedROC::WeightedROC(unclass(factor(pred.prob)), y.test)
+      roc.dt.list[[paste(test.fold, model, data.name)]] <-
+        data.table(test.fold, model, data.name,roc.df)
+      
+      #compute prediction error (when the prediction != test is TRUE)
+      pred.class <- as.vector(ifelse(pred.prob < 0.5, 0, 1))
+      is.pred.error <- pred.class != y.test
+      #percentage of predictions that are incorrect
+      err.percent <- mean(pred.class != y.test)*100
+      pred.err.dt.list[[paste(test.fold, model, data.name)]] <- 
+        data.table(test.fold, model, data.name, err.percent)
+
+      #compute prediction accuracy and AUC
+      accuracy.percent <- mean(y.test == pred.class)
+      auc <- WeightedROC::WeightedAUC(roc.df)
+      is.fp <- pred.class==1 & y.test==0
+      is.tp <- pred.class==1 & y.test==1
+      
+      pred.acc.dt.list[[paste(test.fold, model, data.name)]] <- 
+        data.table(test.fold, model, data.name, accuracy.percent, auc,
+                   FPR=sum(is.fp)/sum(y.test==0),
+                   TPR=sum(is.tp)/sum(y.test==1)
+                   )
+    }
+  }
+}
+
+pred.err.dt <- do.call(rbind, pred.err.dt.list)
+pred.acc.dt <- do.call(rbind, pred.acc.dt.list)
+roc.dt <- do.call(rbind, roc.dt.list)
+coeff.dt <- do.call(rbind, coeff.dt.list)
+```
+
+#Visualization-AUC and Accuracy
+
+```{r}
+pred.acc.dt$model<-factor(pred.acc.dt$model, levels = c("xgboost", "rf", "glmnet", "baseline"))
+
+#plotting the accuracy
+gg <- ggplot() +
+  geom_point(aes(
+    x=accuracy.percent, y=model#, color=model
+  ),data=pred.acc.dt)+
+  facet_grid(data.name ~.)+
+  theme_bw()+theme(panel.spacing=grid::unit(0, "lines"))
+gg
+
+#plotting the AUC
+gg <- ggplot() +
+  geom_point(aes(
+    x=auc, y=model
+  ),data=pred.acc.dt)+
+  facet_grid(data.name ~ .)+
+  theme_bw()+theme(panel.spacing=grid::unit(0, "lines"))
+gg
+```
+
+#Visualization - ROC
+
+```{r}
+#remove the baseline model from the plot
+
+pred.acc.dt.plot <- pred.acc.dt %>%
+  filter(model != "baseline")
+roc.dt.plot <- roc.dt %>%
+  filter(model != "baseline")
+
+#plotting the ROC curves
+gg <- ggplot()+
+  geom_abline(slope = 1,intercept = 0)+
+  geom_path(aes(
+    x=FPR, y=TPR, group=test.fold, color=data.name
+  ), data=roc.dt.plot)+
+  coord_equal()+
+  geom_point(aes(
+    x=FPR, y=TPR),
+    data=pred.acc.dt.plot)+
+  facet_grid(model ~ data.name)+
+  theme_bw()+theme(panel.spacing=grid::unit(0, "lines"))
+gg
+```
+
+#Visualization - GLMNET Coefficients
+```{r}
+#plotting the coefficients
+coeff.dt.plot <- coeff.dt %>%
+  filter(coeff!=0 & predictor!="(Intercept)") %>%
+  group_by(predictor, data.name, model.name) %>%
+  mutate(non.zero=n()) %>%
+  arrange(non.zero, coeff)
+
+for(model in unique(coeff.dt.plot$model.name)){
+  for(construct in names(data.X.list)){
+    #plotting one construct at a time
+    data.plot <- coeff.dt.plot %>% filter(data.name==construct & model.name==model) %>% droplevels()
+    data.plot$predictor<-forcats::fct_reorder(
+      factor(data.plot$predictor, levels = unique(data.plot$predictor)),
+      data.plot$coeff, .fun = mean)
+    gg <- ggplot()+
+      geom_point(aes(
+        y=predictor, x=coeff
+        ), data=data.plot)+
+      
+      geom_vline(xintercept = 0, colour="red")+
+      facet_grid(non.zero ~ ., scales="free", space="free")+
+      theme_bw()+theme(panel.spacing=grid::unit(0, "lines"))+
+      labs(x=construct)
+    print(gg)
+  }
+}
+```
+
+#Coefficients - means
+
+```{r}
+coeff.dt %>% group_by(data.name, predictor) %>%
+  filter(predictor != "(Intercept)" & coeff != 0) %>%
+  summarise(mean=mean(coeff),
+            sd = sd(coeff),
+            n.folds = n()) %>%
+  select(predictor, mean, sd, n.folds) %>%
+  arrange(predictor)
+```
+
+
+#Demographics
+
+```{r}
+data(demographics)
+summary(demographics)
+```

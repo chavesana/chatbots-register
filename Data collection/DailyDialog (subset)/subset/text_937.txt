@@ -1,0 +1,10 @@
+[T:] Is there a daily passenger ship to Dalian? 
+[G:] Yes. 
+[T:] How many days does it take to Dalian? 
+[G:] About one day. It arrives in Dalian at 10:00 a.m. tomorrow. 
+[T:] How many ports do we call at on our passage to Qingdao? 
+[G:] Four ports. 
+[T:] The ship is going very fast. 
+[G:] Perhaps she makes about 25 knots an hour. 
+[T:] The sea is calm and peaceful. A sea trip is always enjoyable in fine weather like this. 
+[G:] Yes. I hope it will remain fine all the way.

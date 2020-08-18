@@ -1,0 +1,5 @@
+[G:] Royal Hotel, can I help you? 
+[T:] Yes. I urgently need a room for tomorrow night, and do you have any vacancies? 
+[G:] Yes, we have. What kind of room would you like? 
+[T:] I'd like a suite with an ocean view, please. 
+[G:] No problem, sir.

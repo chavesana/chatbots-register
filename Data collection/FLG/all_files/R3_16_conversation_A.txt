@@ -1,0 +1,7 @@
+[Tourist 16:] hello
+I have 1 hour only. What should I do?
+[Tech for Tourism - Research Page:] Hello. With only one hour, I would recommend visiting downtown Flagstaff. You can easily spend an hour wandering around. The majority of the downtown has kept its original historic buildings, and there are also dozens of beautiful murals by local artists to see and most everything downtown is locally owned and operated.
+If you want to go a little further out, you can go up to Lowell Observatory. It's a 5 minute drive up the hill and they do tours during the day.
+[Tourist 16:] How long is the tour?
+[Tech for Tourism - Research Page:] It's about 30-45 minutes, but you can always leave or wander around on your own if you prefer.
+[Tourist 16:] Ok, Thanks

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+would ^md+prd+++=would
+like ^vb++++=like
+to ^to+vcmp+++=to
+make ^vbi++++=make
+a ^at++++=a
+reservation ^nn+nom+++=reservation
+for ^in++++=for
+may ^md+pos+++=May
+3rd ^cd++++=3rd.
+. ^zz++++=EXTRAWORD
+only ^rb+down+++=Only
+one ^pn++++=one.
+. ^zz++++=EXTRAWORD

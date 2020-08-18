@@ -1,0 +1,24 @@
+I ^pp1a+pp1+++=I
+would ^md+prd+++=would
+like ^vb++++=like
+to ^to+vcmp+++=to
+check ^vbi+vprv+++=check
+in ^rb+phrv+++=in.
+. ^zz++++=EXTRAWORD
+Here ^rn+pl+++=Here
+are ^vb+ber+vrb++=are
+my ^pp$+pp1+++=my
+ticket ^nn++++=ticket
+and ^cc++++=and
+baggage ^nn+nom+++=baggage.
+. ^zz++++=EXTRAWORD
+Well ^rb+cnj+++=Well,
+ ^zz++++=EXTRAWORD
+Can ^md+pos+++=can
+I ^pp1a+pp1+++=I
+Put ^vbd+++xvbn+=put
+Something ^pn++++=something
+In ^in++++=in
+This ^dt+dem+++=this
+Handbag ^nn++++=handbag?
+ ^zz++++=EXTRAWORD

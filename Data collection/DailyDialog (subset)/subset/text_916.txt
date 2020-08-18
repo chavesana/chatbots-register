@@ -1,0 +1,11 @@
+[T:] Hello. My name is John Sandals, and I've got a reservation. 
+May I see some identification, sir, please? 
+Sure. Here you are. 
+Thank you so much. Have you got a credit card, Mr. Sandals? 
+I sure do. How about American Express? 
+Unfortunately, at the present time we take only MasterCard or VISA. 
+No American Express? Okay, here's my VISA. 
+Thank you, sir. You'll be in room 507, nonsmoking, with a queen-size bed. Do you approve, sir? 
+Yeah, that'll be fine. 
+That's great. This is your key, sir. If you need anything at all, anytime, just dial zero.
+

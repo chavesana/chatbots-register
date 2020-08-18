@@ -1,0 +1,6 @@
+[Tourist 38:] Hello
+[Tech for Tourism - Research Page:] Hello. What can I help you with?
+[Tourist 38:] where do I pay for parking here at the visitor center?
+Where can I find a good ice cream shopping?
+[Tech for Tourism - Research Page:] For parking, you can pay by card at the kiosk on the sidewalk. It's $1/hour to park downtown.
+There are two options for ice cream downtown - The Flagstaff Chocolate Company does traditional scoop ice cream, and the Sweet Shop Nut House has gelato.

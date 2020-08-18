@@ -1,0 +1,10 @@
+[Tourist 27:] Hi
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 27:] Is rafting allowed at Grand Canyon?
+[Tech for Tourism - Research Page:] There are private rafting guides that go through the Grand Canyon, but those are often booked out years in advance. You wouldn't be able to bring a personal kayak down to the river..
+[Tourist 27:] I see...
+We like adventure sports. Is there any site in Flagstaff for this?
+[Tech for Tourism - Research Page:] Flagstaff Extreme at the Ft. Tuthill Park has a good adventure course. You could do a half day river trip from Page, AZ relatively easily.
+[Tourist 27:] Are they expenive?
+[Tech for Tourism - Research Page:] It's about $100 <<link>> The Flagstaff Extreme is $52. A pamphlet is inside the visitor's center.
+[Tourist 27:] thank you

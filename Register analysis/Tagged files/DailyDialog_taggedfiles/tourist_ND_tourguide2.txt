@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+[ ^zz++++=[T:]
+t ^zz++++=EXTRAWORD
+: ^zz++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+no ^at++++=No.
+. ^zz++++=EXTRAWORD
+what ^wdt+who+whq++=What
+is ^vbz+bez+aux++=is
+that ^dt+dem+++=that
+street ^npl++++=street
+charming ^jj++++=charming
+for ^in+strn+++=for?
+? ^zz++++=EXTRAWORD

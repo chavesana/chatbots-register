@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Would ^md+prd+++=Would
+you ^pp2+pp2+++=you
+like ^in++++=like
+a ^at++++=a
+smoking ^jj++++=smoking
+or ^cc++++=or
+non ^&fw++++=non-smoking
+- ^zz++++=EXTRAWORD
+smoking ^vbg+++xvbg+=EXTRAWORD
+room ^nn++++=room?
+? ^zz++++=EXTRAWORD

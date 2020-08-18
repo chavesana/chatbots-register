@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+I ^pp1a+pp1+++=I
+would ^md+prd+++=would
+like ^vb++++=like
+to ^to+vcmp+++=to
+check ^vbi+vprv+++=check
+out ^rp+pl+++=out.
+. ^zz++++=EXTRAWORD
+can ^md+pos+++=Can
+i ^pp1a+pp1+++=I
+pay ^vb++++=pay
+by ^in++++=by
+credit ^nn++++=credit
+card ^nn++++=card?
+? ^zz++++=EXTRAWORD

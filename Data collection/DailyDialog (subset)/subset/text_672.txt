@@ -1,0 +1,8 @@
+[T:] I'd like to reconfirm my plane reservation. 
+What flight are you taking? 
+Flight 201. 
+And what's your name? 
+Anderson. 
+Everything is in order. Please check in at the airport an hour before flight time. 
+Thank you.
+

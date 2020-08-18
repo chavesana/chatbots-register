@@ -1,0 +1,11 @@
+[Tourist 29:] Hi
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 29:] What restaurants in Flagstaff are good for kids?
+[Tech for Tourism - Research Page:] There are a few options to choose from. Are you looking for more local restaurants, chains, fast food, etc?
+[Tourist 29:] I'd say local
+[Tech for Tourism - Research Page:] Okay. For local restaurants, a couple of good options would be Beaver Street Brewery, Charly's Pub and Grill, and Big Foot BBQ.
+[Tourist 29:] Are they all in downtown?
+[Tech for Tourism - Research Page:] Yes, all of those options are downtown. I can give you other options outside of downtown if you want?
+[Tourist 29:] No, downtown is better. Thanks
+[Tech for Tourism - Research Page:] Okay perfect. Is there anything else I can help you with?
+[Tourist 29:] That's all, thank you

@@ -1,0 +1,5 @@
+[G:] Do you have any seat preferences, sir? 
+[T:] Yes, could you put me in the non-smoking section? 
+[G:] Yes. Would you like a window seat? 
+[T:] If one's available, please. But not over the wing.
+

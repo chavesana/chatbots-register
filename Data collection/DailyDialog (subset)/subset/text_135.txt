@@ -1,0 +1,8 @@
+[T:] I'd like to order room service to room 927, please. 
+[G:] How can I help you? 
+[T:] I'd like to two roast beef sandwiches and one fruit salad, please. 
+[G:] Will that be all, sir? 
+[T:] No, could I also get some extra towels and soap too? We went to the pool today and used up our two clean towels. 
+[G:] I'll have someone bring that up right away. How would you like to pay for the dinner? 
+[T:] Just put it on with the rest of my hotel bill. 
+[G:] All right, sir. You should receive your dinner in about ten minutes.

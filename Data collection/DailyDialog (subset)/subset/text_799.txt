@@ -1,0 +1,7 @@
+[T:] I have a reservation for a single with a bath. 
+We're sorry, but single rooms have been occupied. 
+What's the room rate? It's little expensive for me.Do you have any other room? 
+Then, how about this room with just a shower? 
+May I see the room? I'll take this room. Is the rate for a room only? 
+No, sir.The tax is included.
+

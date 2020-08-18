@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Rather ^rb++++=Rather
+nice ^jj++++=nice.
+. ^zz++++=EXTRAWORD
+it ^pp3+it+++=It
+was ^vbd+bedz+aux++=was
+raining ^vbg+++xvbg+=raining
+when ^wrb+who+++=when
+i ^pp1a+pp1+++=I
+left ^nn++++=left
+new ^jj+atrb+++=New
+york ^np++++=York.
+. ^zz++++=EXTRAWORD

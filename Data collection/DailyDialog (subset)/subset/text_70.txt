@@ -1,0 +1,7 @@
+[T:] Steward! 
+[G:] Yes, ma'am? 
+[T:] May I have a magazine or something? 
+[G:] Certainly. Just a moment. I'll be right back with one. Which do you prefer, one in English or in Chinese? 
+[T:] One in English, please. 
+[G:] All right, ma'am.
+

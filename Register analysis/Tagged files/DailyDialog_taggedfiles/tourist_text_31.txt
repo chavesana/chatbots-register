@@ -1,0 +1,17 @@
+I ^pp1a+pp1+++0=I'd
+'d ^md+prd+aux++=EXTRAWORD
+like ^vb++++=like
+to ^to+vcmp+++=to
+check ^vbi+vprv+++=check
+out ^rp+pl+++=out.
+. ^zz++++=EXTRAWORD
+No ^at++++=No.
+ ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I'd
+Had ^vbd+hvd+vrb++=EXTRAWORD
+Like ^vb++++=like
+To ^to+vcmp+++=to
+Do ^vb+do+vrb++=do
+That ^dt+pdem+++=that
+Now ^rn+tm+++=now.
+ ^zz++++=EXTRAWORD

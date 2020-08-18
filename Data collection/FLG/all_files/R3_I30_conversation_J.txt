@@ -1,0 +1,8 @@
+[Tourist 30:] Hi
+Should I go to the Grand Canyon or Sedona?
+What is my best choice?
+[Tech for Tourism - Research Page:] If you have never been to either I would go to Grand Canyon
+[Tourist 30:] Where is the best view spot of the Grand Canyon?
+[Tech for Tourism - Research Page:] That would really be an opinion everyone has their favorite. I would say the most iconic view is Mather point or the views from the historic village.
+[Tourist 30:] Right
+thanks

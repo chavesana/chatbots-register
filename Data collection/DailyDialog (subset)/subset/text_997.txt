@@ -1,0 +1,6 @@
+[G:] Please bring your baggage here for inspection.
+[T:] Here you are, officer. 
+[G:] Is all your baggage here? 
+[T:] Yes, a camera bag, a travel bag and a suitcase. 
+[G:] Have you got anything to declare? 
+[T:] No. I have only personal effects.

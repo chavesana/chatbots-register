@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Of ^in+emph+++=Of
+course ^nn+emph"+++=course.
+. ^zz++++=EXTRAWORD
+With ^in++++=With
+pleasure ^nn++++=pleasure.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+Think ^vb+vprv+tht0++=think
+We ^pp1a+pp1+++=we
+Should ^md+nec+++=should
+Go ^vb++++=go
+To ^to++++=to
+The ^ati++++=the
+Palace ^npl++++=palace
+First ^od++++=first.
+ ^zz++++=EXTRAWORD

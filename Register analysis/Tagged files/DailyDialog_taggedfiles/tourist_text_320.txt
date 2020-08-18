@@ -1,0 +1,24 @@
+What ^wdt+who+++=What
+type ^nn++++=type
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+have ^vb+hv+vrb++=have
+in ^in++++=in
+your ^pp$+pp2+++=your
+mind ^nn++++=mind?
+? ^zz++++=EXTRAWORD
+Thirty ^cd++++=Thirty
+dollars ^nns++++=dollars
+a ^at++++=a
+day ^nn++++=day.
+. ^zz++++=EXTRAWORD
+No ^at++++=No,
+ ^zz++++=EXTRAWORD
+You ^pp2+pp2+++=you
+Have ^md"++pmd"++=have
+To ^md+nec+++=to
+Pay ^vb++++=pay
+It ^pp3+it+++=it
+By ^in++++=by
+Yourself ^ppl+pp2+++=yourself.
+ ^zz++++=EXTRAWORD

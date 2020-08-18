@@ -1,0 +1,4 @@
+[Tourist 18:] hi
+[Tech for Tourism - Research Page:] How can I help you?
+[Tourist 18:] Are there restaurants here in downtown?
+[Tech for Tourism - Research Page:] Yes there are over 90 restaurants downtown, is there a type of food you are in the mood for?

@@ -1,0 +1,6 @@
+[G:] May I help you? 
+[T:] Yes. I have to stay in your cry for just one day, can you suggest a short tour? 
+[G:] Are you interested in the natural landscape or the human landscape? 
+[T:] I would prefer the first one. 
+[G:] Sure. We have a one-day trip along the river. It's quite beautiful.
+

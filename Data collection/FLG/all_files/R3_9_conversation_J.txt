@@ -1,0 +1,7 @@
+[Tourist 9:] Hello
+What is Flagstaff known for?
+[Tech for Tourism - Research Page:] Hello.
+Flagstaff is known for discovering Pluto and training for the Apollo Missions and being the city to stay in when visiting Grand Canyon.
+[Tourist 9:] What is the altitude of Flagstaff?
+[Tech for Tourism - Research Page:] 7000 feet
+[Tourist 9:] Thank you

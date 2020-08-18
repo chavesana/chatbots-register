@@ -1,0 +1,6 @@
+[Tourist 17:] HI
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 17:] ARE THERE ANY THRIFT SHOPS NEAR HERE?
+[Tech for Tourism - Research Page:] There are a few thrift shops in Flagstaff, but the closest one to the Visitor Center is right across the train tracks on Beaver St, called The Garden Thrift.
+[Tourist 17:] THANK YOU
+[Tech for Tourism - Research Page:] You're welcome.

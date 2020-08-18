@@ -1,0 +1,6 @@
+[T:] Excuse me, what's the price of a single room? 
+That's $50 for a single night. 
+Are meals included? 
+Yes, of course. Can I make a reservation for you? 
+Fine, I want to book one for overnight.
+

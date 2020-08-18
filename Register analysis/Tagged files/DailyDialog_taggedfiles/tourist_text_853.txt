@@ -1,0 +1,17 @@
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+need ^vb++++=need
+a ^at++++=a
+wake ^vb++++=wake-up
+- ^zz++++=EXTRAWORD
+up ^rp++++=EXTRAWORD
+call ^vb++++=call
+tomorrow ^nr+tm+++=tomorrow
+at ^in++++=at
+seven ^cd++++=seven
+thirty ^cd++++=thirty.
+. ^zz++++=EXTRAWORD
+room ^nn++++=Room
+1019 ^cd++++=1019.
+. ^zz++++=EXTRAWORD

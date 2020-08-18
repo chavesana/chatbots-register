@@ -1,0 +1,15 @@
+[T:] Excuse me, is this the Guyon Travel Agency? 
+[G:] Yes, sir. What can I do for you? 
+[T:] I want to travel to the ancient town in the south of China. Would you please tell me something about it? 
+[G:] Sure. There's network of canals. And there are white walls, black tiles, small bridges, flowing rivers, flagstones roads, blue sky and white clouds. Few places have preserved the past like this place. Walking on the ancient road makes us back to our sense. 
+[T:] Wonderful. That's just what I expect, where is my first place if I go there? 
+[G:] Zhouzhuang. 
+[T:] How long does the tour take? 
+[G:] It's about two days. 
+[T:] what's the cost? 
+[G:] It's about 300 yuan. 
+[T:] I know. Thank you very much. 
+[G:] That's all right. May you have a good trip! 
+[T:] Thank you. 
+[G:] My pleasure.
+

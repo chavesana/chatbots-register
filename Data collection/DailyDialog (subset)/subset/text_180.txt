@@ -1,0 +1,8 @@
+[T:] Is this the right counter to check in for this flight? 
+Yes, it is. Please put your luggage on the scale. 
+Your luggage is overweight. The free allowance for luggage is 20 kilos. 
+Oh, can I keep this little suitcase as hand-luggage? 
+OK, in this way it's just below the limit. 
+Here's your ticket and your boarding card. 
+All right. I will begin boarding soon.
+

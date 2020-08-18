@@ -1,0 +1,17 @@
+Do ^vb+do+aux++=Do
+you ^pp2+pp2+++=you
+have ^vb+hv+vrb++=have
+maps ^nns++++=maps
+of ^in++++=of
+downtown ^rn++++=downtown
+area ^nn++++=area?
+? ^zz++++=EXTRAWORD
+how ^wrb+who+++=How
+much ^rb++++=much
+is ^vbz+bez+vrb++=is
+it ^pp3+it+++=it?
+? ^zz++++=EXTRAWORD
+thanks ^rb+dspt+++=Thanks
+so ^ql++++=so
+much ^ap++++=much.
+. ^zz++++=EXTRAWORD

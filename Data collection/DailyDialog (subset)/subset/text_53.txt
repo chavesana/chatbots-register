@@ -1,0 +1,13 @@
+[G:] Good morning, sir. Are you checking out now? 
+[T:] Yes. Steven Smith, room 609. 
+[G:] Fine. This is your bill, Mr. Smith. Four nights at 100 dollars each, and here are the meals that you had in our hotel. That makes a total of 660 dollars. 
+[T:] Can I pay by credit card? 
+[G:] Certainly. May I have your card, please? 
+[T:] Here you are. 
+[G:] Please sign your name here. 
+[T:] OK. Is it possible to leave my luggage here until I'm ready to leave this afternoon? I'd like to say goodbye to some of my friends. 
+[G:] Yes, we'll keep it for you. How many pieces of your luggage? 
+[T:] Just three. I'll be back at 3:00 p.m. 
+[G:] That's fine. Have a nice day! 
+[T:] Thank you. See you later.
+

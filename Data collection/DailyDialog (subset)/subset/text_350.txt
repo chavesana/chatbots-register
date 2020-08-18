@@ -1,0 +1,9 @@
+[T:] I'd like to pay my bill now. 
+Your name and room number, please? 
+Tom Wilson in Room 306. 
+Have you used any hotel services this morning? 
+No. 
+OK. You have stayed for four nights at 90 US dollars each, and here are the meals that you had at the hotel. That makes a total of 660 US dollars. 
+Can I pay by credit card? 
+Of course. Please sign your name here.
+

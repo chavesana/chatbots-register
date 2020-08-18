@@ -1,0 +1,12 @@
+[T:] Excuse me. What time does the next train to London leave? 
+[G:] At 10:30. 
+[T:] Is it a direct train to London? 
+[G:] Yes, it is. 
+[T:] OK. Two tickets to London, please. 
+[G:] Single or return? 
+[T:] Single, please. How much in total? 
+[G:] 10 pounds. 
+[T:] Here you are. Which platform should I go to wait for the train? 
+[G:] It's platform 5. 
+[T:] OK. Thank you. 
+[G:] You are welcome.

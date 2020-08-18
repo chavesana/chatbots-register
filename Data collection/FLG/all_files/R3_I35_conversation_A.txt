@@ -1,0 +1,9 @@
+[Tourist 35:] Hello
+I am traveling with my wife on our honeymoon through flagstaff for a couple nights. Can you tell me what your best restaurants are?
+[Tech for Tourism - Research Page:] Hello. What kind of restaurants are you both interested in?
+[Tourist 35:] My favorite food is Mexican and hers is Pizza but we will be traveling to Sedona and Phoenix as well so not mandatory to eat either of those while visiting
+[Tech for Tourism - Research Page:] Ok. Do you want something a little more middle/high-end? One really nice traditional Italian pizzaria in the downtown area is called Pizzicletta. They do personal-sized pizzas and open at 3pm.
+That one is in the mid-price point, not expensive.
+There is also Criollo Latin Kitchen, which has a great twist but isn't exactly Mexican food, so it would be different.
+[Tourist 35:] Got it. I will try them. Thank you
+[Tech for Tourism - Research Page:] You're welcome!

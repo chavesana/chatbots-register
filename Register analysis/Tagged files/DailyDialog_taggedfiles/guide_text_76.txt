@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+No ^at++++=No,
+, ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I'm
+am ^vb+bem+vrb++=EXTRAWORD
+not ^xnot++not++=not.
+. ^zz++++=EXTRAWORD
+that ^dt+pdem+++=That's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+all ^abn++++=all
+right ^nn++++=right.
+. ^zz++++=EXTRAWORD

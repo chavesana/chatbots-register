@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Excuse ^nn++++=Excuse
+me ^pp1o+pp1+++=me,
+, ^zz++++=EXTRAWORD
+Miss ^vb++++=Miss.
+. ^zz++++=EXTRAWORD
+Can ^np++++=Can
+you ^pp2+pp2+++=you
+show ^nn++++=show
+me ^pp1o+pp1+++=me
+my ^pp$+pp1+++=my
+seat ^nn++++=seat?
+? ^zz++++=EXTRAWORD
+thanks ^rb+dspt+++=Thanks
+a ^at++++=a
+lot ^nn++++=lot.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+of ^in+emph+++=of
+course ^nn+emph"+++=course.
+. ^zz++++=EXTRAWORD
+Sure ^uh++++=Sure.
+ ^zz++++=EXTRAWORD
+Here ^rn+pl+++=Here
+You ^pp2+pp2+++=you
+Are ^vb+ber+vrb++=are.
+ ^zz++++=EXTRAWORD
+:00 ^cd++++=1:00
+A ^at++++=a
+M ^zz++++=m.
+ ^zz++++=EXTRAWORD

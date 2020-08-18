@@ -1,0 +1,3 @@
+[G:] Would you like a smoking or non-smoking room? 
+Non-smoking, please.
+

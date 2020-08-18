@@ -1,0 +1,6 @@
+[G:] May I help you? 
+[T:] Yes. I'm a transit passenger for this flight. Can you tell me where to go? 
+[G:] Let me see. Oh, you're at the wrong gate. Your plane leaves from Gate No. 8. 
+[T:] Really? I hope it hasn ’ t left without me. 
+[G:] No, don ’ t worry. Just follow me.
+

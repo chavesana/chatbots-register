@@ -1,0 +1,14 @@
+[G:] Good afternoon, ma'am. May I help you? 
+[T:] Yes. Can I deposit valuables here? 
+[G:] Of course, you can. Please put your articles in this bag and seal it. 
+[T:] OK. 
+[G:] Thank you. Here is your tag. 
+[T:] Would you tell me the rate per day for depositing my bag? 
+[G:] Sure, madam. Only one dollar. 
+[T:] When does the cloakroom close? 
+[G:] This cloakroom is open until 10 p.m. 
+[T:] Oh, dear! I won't be back until about 11:30 tonight. Where can I pick up my bag? 
+[G:] We will transfer your bag to the Lobby Floor Cloakroom. You may collect it there, madam. 
+[T:] I see. Thanks a lot. 
+[G:] You're welcome.
+

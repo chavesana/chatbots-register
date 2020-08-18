@@ -1,0 +1,4 @@
+[G:] Hotel front desk. 
+[T:] Hi, I'd like to leave a wake-up call. 
+[G:] For what time? 
+[T:] Please wake me up at 6 am.

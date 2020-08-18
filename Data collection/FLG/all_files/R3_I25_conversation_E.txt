@@ -1,0 +1,9 @@
+[Tourist 25:] Hello
+[Tech for Tourism - Research Page:] Hello.
+How can I help?
+[Tourist 25:] Where is the historic center of the city?
+[Tech for Tourism - Research Page:] You are basically in the middle of it. On either side of the tracks is the Downtown Historic District and Southside Historic District.
+The neighborhoods of Townsite and La Plaza Vieja are the original neighborhoods to the slight west.
+[Tourist 25:] Is it interesting to walk around in this part of the city?
+[Tech for Tourism - Research Page:] Yes. There are self-guided walking tours inside the visitor's center that gives history of buildings and a public art map as well.
+[Tourist 25:] thank you

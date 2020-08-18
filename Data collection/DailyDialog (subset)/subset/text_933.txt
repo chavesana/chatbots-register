@@ -1,0 +1,5 @@
+[G:] Reservation, may I help you? 
+[T:] Yes, I would like to make a reservation for May 3rd. 
+[G:] For how many people? 
+[T:] Only one. 
+[G:] May I have your name?

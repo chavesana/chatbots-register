@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Tea ^nn++++=Tea
+and ^cc++++=and
+silk ^nn++++=silk.
+. ^zz++++=EXTRAWORD
+preferably ^rb++++=Preferably
+at ^in++++=at
+the ^ati++++=the
+big ^jj+atrb+++=big
+department ^nn+nom+++=department
+stores ^nns++++=stores.
+. ^zz++++=EXTRAWORD

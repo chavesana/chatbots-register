@@ -1,0 +1,6 @@
+[T:] Excuse me. Would you mind trading seats with me? 
+[G:] Not at all. 
+[T:] Oh, thank you. That ’ s very kind of you. 
+[G:] You ’ re welcome. I prefer a window seat. 
+[T:] Oh, you do? Good. Looking out of the window sometimes scares me. So I prefer to be the man in the middle.
+

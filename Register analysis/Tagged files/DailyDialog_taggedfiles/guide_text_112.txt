@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+You ^pp2+pp2+++=You
+can ^md+pos+++=can
+find ^vb+vprv+tht0++=find
+one ^pn++++=one
+at ^in++++=at
+the ^ati++++=the
+ticket ^nn++++=ticket
+office ^nn++++=office.
+. ^zz++++=EXTRAWORD
+you ^pp2+pp2+++=You
+are ^vb+ber+vrb++=are
+welcome ^jj+pred+++=welcome.
+. ^zz++++=EXTRAWORD

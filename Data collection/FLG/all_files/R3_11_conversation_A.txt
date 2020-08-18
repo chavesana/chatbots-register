@@ -1,0 +1,12 @@
+[Tourist 11:] Hi
+[Tech for Tourism - Research Page:] Hello. what can I help you with?
+[Tourist 11:] Should I go to the Grand Canyon or Sedona? What is my best choice?
+[Tech for Tourism - Research Page:] It really depends on what you're interested in because they are very different locations. Did you want to hike, whichever one you go to?
+or more sightsee?
+[Tourist 11:] Sightsee
+[Tech for Tourism - Research Page:] Okay. Do you have a National Parks pass? (This will help with my recommendation)
+[Tourist 11:] Yes we do
+[Tech for Tourism - Research Page:] Okay perfect! In that case, I would definitely recommend going to the Grand Canyon. It is included in your national park pass, and you can easily spend a full day there. Once you park, you can take the free shuttle buses around the canyon and are able to access most of the park that way.
+The only exception is the Desert View Watchtower, which I highly recommend.
+[Tourist 11:] Thank you
+[Tech for Tourism - Research Page:] You're welcome!

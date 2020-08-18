@@ -1,0 +1,6 @@
+[T:] Hello, I am calling to confirm my reservation for a single room. 
+On which day? 
+This Friday. 
+Well, let me check for you. Yes, you are booked already. It's a single room with a bath, facing the south. 
+That's right. Thank you.
+

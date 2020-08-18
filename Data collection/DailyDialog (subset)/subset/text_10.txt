@@ -1,0 +1,8 @@
+[G:] May I help you, sir? 
+[T:] Yes, I'd like some information about the trains to Beijing. 
+[G:] When do you want to go? 
+[T:] On July 7, I have to be there well before twelve o'clock. 
+[G:] There's a train at 7 a.m. It'll get you there at 11 a.m. But there are many stops along the way. 
+[T:] And I have to get up early, too. Are there any non-stop trains to Beijing? 
+[G:] Yes, there is one at 8: 30 a.m. That arrives at 11:35 a.m.
+

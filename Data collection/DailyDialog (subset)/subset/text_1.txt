@@ -1,0 +1,6 @@
+[T:] I'd like to make a reservation to Los Angels for next Monday. 
+[G:] Just a second and I'll check the schedule. 
+[T:] I'll need an economy ticket with an open return. 
+[G:] American Airlines has a flight leaving at 9:25 a.m. 
+[T:] I guess that's OK. What time should I check in? 
+[G:] You have to be there two hours before departure time.

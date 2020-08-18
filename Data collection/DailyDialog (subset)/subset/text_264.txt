@@ -1,0 +1,7 @@
+[G:] Speed Airlines Reservation. May I help you? 
+Yes. Do you have any flight to Paris on 15th? I want one leaving in the afternoon. 
+Yes. Flight DP336 leaves at 15:16. Is that all right? 
+Is it a direct flight? 
+No, Sir.It has an hour layover in London. 
+Well, I don't think I want it.
+

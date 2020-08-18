@@ -1,0 +1,17 @@
+???? ^+++??+=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Half ^abn++++=Half
+past ^jjb++++=past
+11 ^cd++++=11.
+. ^zz++++=EXTRAWORD
+no ^at++++=No,
+, ^zz++++=EXTRAWORD
+it ^pp3+it+++=it's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+an ^at++++=an
+express ^nn++++=express.
+. ^zz++++=EXTRAWORD

@@ -1,0 +1,17 @@
+I ^pp1a+pp1+++=I
+need ^vb++++=need
+your ^pp$+pp2+++=your
+help ^nn++++=help.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+locked ^vbd+++xvbnx+=locked
+myself ^ppl+pp1+++=myself
+out ^rp+pl+++=out.
+. ^zz++++=EXTRAWORD
+what ^wdt+who+whq++=What
+do ^vb+do+aux++=do
+you ^pp2+pp2+++=you
+suggest ^vb+vpub+tht0++=suggest
+i ^pp1a+pp1+++=I
+do ^vb+do+vrb++=do?
+? ^zz++++=EXTRAWORD

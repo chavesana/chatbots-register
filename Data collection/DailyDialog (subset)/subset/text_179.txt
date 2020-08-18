@@ -1,0 +1,18 @@
+[G:] Hello, China Southern Airlines. Can I help you? 
+Yes, could I make a reservation to New York on July 21st, next Friday? 
+Sorry, there is no flight available on July 21st. 
+That's too bad. What's the earliest flight available? 
+I can give you a reservation on flight No CZ 387 on July 22nd. 
+What about the fight schedule? 
+It departs at 12:10 and arrives at 15:10 next day. 
+Is it a non-stop flight? 
+Yes. 
+Sounds good. I'd like to take this flight. 
+Would you prefer first class or economy class? 
+Economy class. 
+And your name, please? 
+Edward Smith. 
+Mr. Smith, you can get things fixed through our agencies in Guangzhou. Do remember to bring your passport with you. 
+Yes, many thanks. Goodbye. 
+Bye.
+

@@ -1,0 +1,4 @@
+[G:] What would you like for dessert, sir? We have a choice of cake or ice cream. 
+[T:] No, thank you. I don't need any. You see, I'm on a diet. 
+[G:] oh, well, perhaps you'd like a cup of coffee or tea instead. 
+[T:] Yes, coffee, please.

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+2 ^zz++++=2
+hours ^nns++++=hours.
+. ^zz++++=EXTRAWORD
+The ^ati++++=The
+plane ^nn++++=plane
+must ^md+nec+++=must
+fuel ^vb++++=fuel
+before ^cs+sub+++=before
+flying ^vbg+++xvbg+=flying
+to ^in++++=to
+paris ^np++++=Paris.
+. ^zz++++=EXTRAWORD
+surely ^rb++++=Surely
+of ^in+emph+++=of
+course ^nn+emph"+++=course.
+. ^zz++++=EXTRAWORD

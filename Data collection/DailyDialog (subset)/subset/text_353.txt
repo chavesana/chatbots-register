@@ -1,0 +1,7 @@
+[T:] We'll take the route No. 10. 
+Fine. How many people are there in your party? 
+Just two. How much does the trip cost? 
+$200 for double. 
+Is there any chance of a lower price? 
+I am afraid not. Right now it's the tour season.
+

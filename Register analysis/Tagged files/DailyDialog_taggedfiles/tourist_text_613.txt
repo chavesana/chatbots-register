@@ -1,0 +1,24 @@
+I ^pp1a+pp1+++=I
+have ^md"++pmd"++=have
+to ^md+nec+++=to
+check ^vb+vprv+++=check
+out ^rp+pl+++=out
+now ^rn+tm+++=now.
+. ^zz++++=EXTRAWORD
+My ^pp$+pp1+++=My
+name ^nn++++=name
+is ^vbz+bez+vrb++=is
+Ruth ^np++++=Ruth
+Carson ^np++++=Carson.
+. ^zz++++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+Have ^vb+hv+vrb++=have
+My ^pp$+pp1+++=my
+Bill ^nn++++=bill,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please?
+ ^zz++++=EXTRAWORD
+Thank ^vb++++=Thank
+You ^pp2+pp2+++=you.
+ ^zz++++=EXTRAWORD

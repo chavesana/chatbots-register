@@ -1,0 +1,5 @@
+[T:] Could I make a reservation for Flight 10 to Tokyo? 
+I'm sorry, but everything is taken. 
+How about the next flight-tomorrow at two o'clock? 
+Yes, I can give you a reservation on that.
+

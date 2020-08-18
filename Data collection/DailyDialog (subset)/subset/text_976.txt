@@ -1,0 +1,7 @@
+[G:] Good afternoon madam. What can I do for you? 
+[T:] Hi. I want to check out. My room is 1005. 
+[G:] OK. Please hold on a minute. So you checked in on Monday and stayed 3 nights in single room 1005. Is that right? 
+[T:] Yes. Can I have a look at my bill? 
+[G:] OK. Here you are. If there are no questions, could we have your signature in the blank below? 
+[T:] OK. I would like to have my receipt report, please. 
+[G:] Here it is. We are pleased to serve you here and we look forward to seeing you again. Wish you have a good day.

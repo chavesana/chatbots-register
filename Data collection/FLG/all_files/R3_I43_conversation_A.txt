@@ -1,0 +1,12 @@
+[Tourist 43:] hello
+What restaurants in Flagstaff are good for eating alone?
+[Tech for Tourism - Research Page:] Hello. What style of food do you like?
+[Tourist 43:] Do you have good mexican food?
+[Tech for Tourism - Research Page:] There are a number of great Mexican restaurants in Flagstaff, but you'll have to drive. I would recommend Agave, Salsa Brava, and La Fonda's are all good options.
+You can also get some Mexican food at Charly's Pub and Grill in the Weatherford Hotel.
+[Tourist 43:] Is this one in downtown?
+And what tourist places open late?
+[Tech for Tourism - Research Page:] Charly's is located downtown, yes.
+Most of the area attractions close at 5pm, but Lowell Observatory is open until 10pm on weekdays and is great for stargazing.
+[Tourist 43:] Thank you
+[Tech for Tourism - Research Page:] You're welcome!

@@ -1,0 +1,9 @@
+[G:] Can I see your ticket please? 
+[T:] Here you are. 
+[G:] Ok, Mr. Smith. Do you have any bags to check? 
+[T:] Just this one. 
+[G:] And would you prefer a window seat or an aisle seat? 
+[T:] Aisle, please. 
+[G:] Boarding time is 10:20 am. 
+[T:] What's the gate number? 
+[G:] Gate 29C. Have a nice flight.

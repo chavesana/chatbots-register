@@ -1,0 +1,7 @@
+[G:] How long are you staying? 
+[T:] Four weeks. 
+[G:] May I ask what brought you here? 
+[T:] I'm here on business. 
+[G:] What line of business are you in? 
+[T:] I import canned food.
+

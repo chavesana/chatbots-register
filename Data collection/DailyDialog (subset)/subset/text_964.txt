@@ -1,0 +1,9 @@
+[T:] Could you check my list to see whether I have forgotten anything? 
+[G:] No problem. But how? 
+[T:] I will open the suitcase and you read through the list. 
+[G:] Ok. I am done. You have nothing on the list left behind. But I suggest you take sneakers with you. 
+[T:] Why? 
+[G:] It is necessary for you to walk on the street. Otherwise, it will be not good to wear high heeled shoes. 
+[T:] That makes sense. I will do it. 
+[G:] You do need to take some medicines with you. Just in case. 
+[T:] Good idea.

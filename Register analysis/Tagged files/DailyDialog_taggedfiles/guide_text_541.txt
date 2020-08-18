@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Let ^vb+++xvbn+=Let
+me ^pp1o+pp1+++=me
+see ^vb+vprv+++=see
+what ^wdt+who+++=what's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+available ^jj++++=available.
+. ^zz++++=EXTRAWORD
+africa ^np++++=Africa
+airline ^nn++++=Airline
+551 ^cd++++=551
+leaves ^vbz++++=leaves
+at ^in++++=at
+9:00 ^cd++++=9:00
+pm ^nn++++=pm.
+. ^zz++++=EXTRAWORD

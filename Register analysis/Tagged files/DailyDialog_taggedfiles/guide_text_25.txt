@@ -1,0 +1,17 @@
+My ^pp$+pp1+++=My
+pleasure ^nn++++=pleasure.
+. ^zz++++=EXTRAWORD
+How ^wrb+who+whq++=How
+do ^vb+do+vrb++=do
+you ^pp2+pp2+++=you
+want ^vb++++=want
+me ^pp1o+pp1+++=me
+to ^to++++=to
+do ^vbi++++=do
+it ^pp3+it+++=it?
+? ^zz++++=EXTRAWORD
+ready ^jj++++=Ready?
+? ^zz++++=EXTRAWORD
+say ^vb+vpub+++=Say
+cheese ^nn++++=cheese.
+. ^zz++++=EXTRAWORD

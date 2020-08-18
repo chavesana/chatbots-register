@@ -1,0 +1,6 @@
+[Tourist 5:] Hi, where can  park for more than 15 minutes?
+Free
+[Tech for Tourism - Research Page:] You can park along Route 66 for 2 hours or park outside of downtown and walk into  downtown either west of Sitgreves Street or North of Cherry
+[Tourist 5:] Can you send me a map of how to get there?
+[Tech for Tourism - Research Page:] Here is a link to the Parking map: <<link>>
+[Tourist 5:] Awsome,  thanks

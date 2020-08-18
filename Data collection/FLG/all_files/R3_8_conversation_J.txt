@@ -1,0 +1,10 @@
+[Tourist 8:] Hello
+[Tech for Tourism - Research Page:] How can I help you?
+[Tourist 8:] Can you advise on a nearby camping ground?
+Dog friendly and with drinking water
+Tents only
+[Tech for Tourism - Research Page:] The only tent only campgrounds in Northern Arizona is Manzinita Campground in Oak Creek Canyon between here and Sedona, but there are some great National Forest campgrounds up here as well that would allow RVs just no hookups
+[Tourist 8:] Can you suggest one of them?
+[Tech for Tourism - Research Page:] Bonito Campground near Sunset Crater is nice and so is Canyon Vista Campground on lake Mary Rd.
+[Tourist 8:] Thank you
+[Tech for Tourism - Research Page:] you are welcome

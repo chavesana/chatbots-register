@@ -1,0 +1,8 @@
+[G:] Good morning. Ru Via Hotel, Room Reservation. Can I help you? 
+Yes. This is Peter calling from New York, I have to change the date of reservation. 
+How and in whose name has the reservation been made? 
+By telephone and in my name. 
+Please wait a moment. I'll check it in the computer. Thanks for your waiting. You've booked 10 standard rooms for trade negotiation for March 5th, 6th and 7th, is it correct? 
+Right, but the negotiation has been postponed until 5th to 7th of April. Do you think it's possible for us to change the reservation? 
+Let me check the reservation list. Fortunately, we have just 10 standard rooms available for the three days.
+

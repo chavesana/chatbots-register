@@ -1,0 +1,4 @@
+[T:] Can you book me a single room on March 31? 
+Sorry, I'm afraid the hotel is full on those dates.Shall I contact another hotel for you? 
+Yes, please.
+

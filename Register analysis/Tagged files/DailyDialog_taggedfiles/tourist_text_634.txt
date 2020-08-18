@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Excuse ^nn++++=Excuse
+me.does ^nns+++??+=me.Does
+this ^dt+dem+++=this
+train ^nn++++=train
+go ^vb++++=go
+to ^in++++=to
+brooklyn ^np++++=Brooklyn?
+? ^zz++++=EXTRAWORD
+do ^vb+do+aux++=Do
+you ^pp2+pp2+++=you
+know ^vb+vprv+++=know
+when ^wrb+who+whcl++=when
+it ^pp3+it+++=it
+leaves ^nns++++=leaves?
+? ^zz++++=EXTRAWORD

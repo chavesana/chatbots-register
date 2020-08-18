@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Not ^xnot++not++=Not
+at ^in++++=at
+all ^abn++++=all.
+. ^zz++++=EXTRAWORD
+You ^pp2+pp2+++=You
+Re ^in++++=re
+Welcome ^nn++++=welcome.
+ ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+Prefer ^vb+vprv+++=prefer
+A ^at++++=a
+Window ^nn++++=window
+Seat ^nn++++=seat.
+ ^zz++++=EXTRAWORD

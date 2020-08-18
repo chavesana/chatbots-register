@@ -1,0 +1,16 @@
+[G:] Good afternoon. What can I do for you? 
+[T:] I booked a room here. 
+[G:] Your name, please? 
+[T:] Brown, Jason Brown. 
+[G:] Wait for a minute, Mr. Brown, a single room with bath from today to the fifteenth. 
+[T:] That's right 
+[G:] Would you like to register now? 
+[T:] Yes. 
+[G:] Could you fill out this registration form, please? 
+[T:] OK. Is this all right? 
+[G:] Yes. Thank you. May I see your passport, please? 
+[T:] Here you are. 
+[G:] Thank you. Will you be paying in cash or by credit card? 
+[T:] In cash. 
+[G:] Your room number is 210. The bellboy will show you the way there. I hope you enjoy your stay. 
+[T:] Thanks.

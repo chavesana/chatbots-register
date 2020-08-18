@@ -1,0 +1,13 @@
+[Tourist 20:] hello
+What are some not to be missed tourist destinations in Flagstaff?
+[Tech for Tourism - Research Page:] Hello. It depends on what you're interested in: history, museums, outdoors, shopping, local, monuments?
+[Tourist 20:] We like outdoor
+if it includes hiking, Imoderate level
+[Tech for Tourism - Research Page:] Okay.
+How long a hike would you be interested in?
+[Tourist 20:] we can hike for 2-4 hours and we like good scenic views
+[Tech for Tourism - Research Page:] Okay! I would recommend the Fatman's Loop/Elden Lookout trails in that case. Beautiful views and easy to moderate.
+[Tourist 20:] What time of the day is the best?
+[Tech for Tourism - Research Page:] This time of year, you can do these hikes in the middle of the day and it's still lovely. It can get pretty cold in the mornings, but that can be nice for a good midday view of the surrounding area.
+[Tourist 20:] Got it. Thank you
+[Tech for Tourism - Research Page:] you're welcome!

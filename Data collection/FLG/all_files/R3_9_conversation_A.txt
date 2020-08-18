@@ -1,0 +1,9 @@
+[Tourist 9:] hi
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 9:] Can I leave my car parked here at the Visitor Center to walk around?
+[Tech for Tourism - Research Page:] The Visitor Center has 30 minute free parking on the West lot, and it is monitored. You can park on the East side of the building for $1/hour, and there is a kiosk to pay for your parking on the sidewalk close to the building and lot.
+[Tourist 9:] Where can I find a clean, public restroom?
+[Tech for Tourism - Research Page:] The Old Town Shops is a small indoor shopping mall just two blocks away from the Visitor Center and they have good public restrooms.
+It is located on Heritage Square.
+[Tourist 9:] Thanks
+[Tech for Tourism - Research Page:] you're welcome!

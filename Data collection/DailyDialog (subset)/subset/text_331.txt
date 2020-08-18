@@ -1,0 +1,12 @@
+[G:] Can I help you? 
+Wait a minute, please. 
+Have you made a reservation? 
+No, I'd like to book a single room with one double bed. 
+How long will you be staying? 
+2 nights, how much does it cost? 
+A single room costs you $85 / day. 
+Does the charge include everything? 
+Yes. 
+Do you require a deposit? 
+No, You can pay when you check out.
+

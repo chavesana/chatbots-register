@@ -1,0 +1,14 @@
+[Tourist 5:] hi there
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 5:] Sure
+[Tech for Tourism - Research Page:] How can I help?
+[Tourist 5:] Im looking for some ideas of things to do.
+[Tech for Tourism - Research Page:] Tell me a little about your interests. Do you like hiking & outdoor activities?
+[Tourist 5:] yes! we really enjoy being outside, mountain biking, hiking etc
+[Tech for Tourism - Research Page:] There are 50 miles of trails within Flagstaff - get a Flagstaff Urban Trails Map within the visitor's center. There are also good mountain biking trails near Ft. Tuthill County Park and on some of the Forest Service trails.
+[Tourist 5:] We'd enjoy a nice long hike -- any difficulty is fine. Preferably something with some good views! Do you have any specific suggestion?
+[Tech for Tourism - Research Page:] I'd also check out our 3 area national monuments - Sunset Crater, Wupatki, and Walnut Canyon. Most of their hikes are shorter, but nice scenery and Native American artifacts.
+Humphreys will be the most challenging with a rewarding view, followed by Mt. Elden. Specific elevation gain, mileage, etc. is within the visitor's center. Make sure to check weather prior as we frequently have thunderstorms and lightening this time of year.
+[Tourist 5:] Oh that sounds cool!  Any recommendations for post-hike places to eat or grab a beer?
+[Tech for Tourism - Research Page:] To do both, I would recommend Historic Brewing on San Francisco or Dark Sky Brewing on Beaver St. For a large menu selection with beer, Lumberyard is another good choice. Check out the Ale Trail map in the visitor's center.
+[Tourist 5:] Awsome! Thank you so much!

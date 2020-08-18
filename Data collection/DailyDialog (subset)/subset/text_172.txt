@@ -1,0 +1,10 @@
+[G:] Reservation Center, Air China. Can I help you? 
+Yes. I'm coming to confirm my ticket. 
+May I have your name, please? 
+My name is Zu Ping. In fact, I have a reservation on Flight No. 125 for Zhenjiang, leaving Beijing at 2:00 p.m. tomorrow. Now I'd like to make a change of my travel schedule. Is it possible to change my booking to the day after tomorrow? 
+Certainly. 
+Do you have a seat available on the same flight the day after tomorrow? 
+Yes. You are reconfirmed on Flight No. 125 for Zhenjiang, leaving Beijing at 2:00 p.m. on January 15th. 
+Thanks a lot. 
+You are welcome.
+

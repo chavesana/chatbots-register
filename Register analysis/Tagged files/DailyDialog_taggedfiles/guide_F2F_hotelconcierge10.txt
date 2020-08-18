@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Here ^rn+pl+++=Here's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+your ^pp$+pp2+++=your
+bill ^nn++++=bill.
+. ^zz++++=EXTRAWORD
+Certainly ^rb++++=Certainly.
+ ^zz++++=EXTRAWORD
+Goodbye ^nn++++=Goodbye.
+ ^zz++++=EXTRAWORD
+Hope ^vb++++=Hope
+To ^to+vcmp+++=to
+See ^vb+vprv+tht0++=see
+You ^pp2+pp2+++=you
+Again ^rb+tm+++=again.
+ ^zz++++=EXTRAWORD

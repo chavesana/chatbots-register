@@ -1,0 +1,6 @@
+[G:] Hello. Front desk. How can I help you? 
+Good evening. Is the kitchen open now? 
+I ’ m sorry. The kitchen is closed after midnight. 
+It ’ s ok, good night. 
+Good night.
+

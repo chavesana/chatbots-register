@@ -1,0 +1,7 @@
+[T:] Excuse me. What's the time difference between Beijing and San Francisco? 
+[G:] 16 hours. Beijing is 16 hours ahead. 
+[T:] Are we losing or gaining a day on the way to America? 
+[G:] We are gaining a day. 
+[T:] So does it mean we're arriving on the same day? 
+[G:] That's right.
+

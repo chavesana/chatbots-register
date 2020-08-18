@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Four ^cd++++=Four
+weeks ^nns++++=weeks.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I'm
+'m ^vb+bem+vrb++0=EXTRAWORD
+here ^rn+pl+++=here
+on ^in++++=on
+business ^nns+nom+++=business.
+. ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+import ^nn++++=import
+canned ^xvbn+++xvbn+=canned
+food ^nn++++=food.
+. ^zz++++=EXTRAWORD

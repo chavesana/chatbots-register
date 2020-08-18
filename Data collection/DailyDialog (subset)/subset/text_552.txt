@@ -1,0 +1,8 @@
+[G:] Hello, Room Reservation Service. May I help you? 
+Yes. This is Mrs.Davinson. I'd like to reserve a two-room suite for tonight. 
+Let me see. Yeah, There are two such rooms left. May I have your name please? 
+Mrs.Davinson. Mary Davison. M-A-R-Y, mary. D-A-V-I-N-S-O-N. Davison. 
+OK. I've got it. 
+Thank you. Good-bye. 
+Good-bye.
+

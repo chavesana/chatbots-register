@@ -1,0 +1,20 @@
+Operator ^nn++++=Operator.
+. ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I'll
+'ll ^md+prd+++0=EXTRAWORD
+be ^vb+be+vrb++=be
+happy ^jj+pred+++=happy
+to ^to+jcmp+++=to
+try ^vbi++++=try.
+. ^zz++++=EXTRAWORD
+May ^md+pos+++=May
+I ^pp1a+pp1+++=I
+Have ^vb+hv+vrb++=have
+Your ^pp$+pp2+++=your
+Name ^nn++++=name
+And ^cc++++=and
+Room ^nn++++=room
+Number ^nn++++=number,
+ ^zz++++=EXTRAWORD
+Please ^uh++++=please?
+ ^zz++++=EXTRAWORD

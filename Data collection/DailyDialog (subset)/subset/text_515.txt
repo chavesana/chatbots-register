@@ -1,0 +1,11 @@
+[G:] Elegance Hotel, is there anything I can do for you? 
+[T:] Hello, I would like to make a reservation for four nights next week, from Tuesday to Friday. 
+[G:] All right, single or double room? 
+[T:] Single room with a bath room, please. I would like a room with a view of the whole city. 
+[G:] All right. We have a single room available right now. 
+[T:] What's the rate, please? 
+[G:] 578 yuan a night, plus VAT, including air-conditioner and TV. 
+[T:] Does that include breakfast? Can I make calls on outside line? 
+[G:] Yes, it includes English breakfast. For the phone, I am afraid you can not. 
+[T:] OK, that's fine. Could you hold it for me? 
+[G:] Would you like to confirm the reservation?

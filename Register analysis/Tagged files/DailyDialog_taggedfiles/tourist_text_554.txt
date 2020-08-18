@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+go ^vb++++=go
+to ^in++++=to
+my ^pp$+pp1+++=my
+room ^nn++++=room,
+, ^zz++++=EXTRAWORD
+now ^rn+dspt+++=now?
+? ^zz++++=EXTRAWORD
+thank ^vb++++=Thank
+you ^pp2+pp2+++=you,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir.
+. ^zz++++=EXTRAWORD

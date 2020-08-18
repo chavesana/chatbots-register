@@ -1,0 +1,17 @@
+Do ^vb+do+aux++=Do
+you ^pp2+pp2+++=you
+have ^vb+hv+vrb++=have
+any ^dt++++=any
+luggage ^nn+nom+++=luggage?
+? ^zz++++=EXTRAWORD
+Here ^rn+pl+++=Here's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+your ^pp$+pp2+++=your
+boarding ^nn++++=boarding
+pass ^vb++++=pass.
+. ^zz++++=EXTRAWORD
+have ^vb+hv+vrb++=Have
+a ^at++++=a
+nice ^jj+atrb+++=nice
+flight ^nn++++=flight.
+. ^zz++++=EXTRAWORD

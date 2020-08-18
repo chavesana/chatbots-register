@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+here ^rn+pl+++=here's
+'s ^vbz+bez+vrb++0=EXTRAWORD
+your ^pp$+pp2+++=your
+key ^nn++++=key.
+. ^zz++++=EXTRAWORD
+the ^ati++++=The
+bellboy ^nn++++=bellboy
+will ^md+prd+++=will
+take ^vb++++=take
+you ^pp2+pp2+++=you
+to ^to++++=to
+your ^pp$+pp2+++=your
+room ^nn++++=room.
+. ^zz++++=EXTRAWORD

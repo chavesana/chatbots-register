@@ -1,0 +1,7 @@
+[Tourist 39:] Hi there
+[Tech for Tourism - Research Page:] Hello. What can I help you with?
+[Tourist 39:] I am afraid of heights. Should I go to Grand Canyon anyways?
+[Tech for Tourism - Research Page:] You can still go to the Grand Canyon. I would recommend going to Mather Point to see how you do first. It is completely fenced in and safe, so you can see how comfortable you are at that viewpoint.
+[Tourist 39:] Great
+Thank you
+[Tech for Tourism - Research Page:] You're welcome!

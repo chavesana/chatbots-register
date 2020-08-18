@@ -1,0 +1,7 @@
+[G:] Is there anything I can do? 
+[T:] Yes. I am thinking of a tour to Australia. 
+[G:] May I recommend the popular route? It's a seven days ' trip and cost $500. 
+[T:] That's really cheap. What are the fees included? 
+[G:] Everything, sir, including the air tickets, accommodation and gate tickets. 
+[T:] OK, I will take the tour.
+

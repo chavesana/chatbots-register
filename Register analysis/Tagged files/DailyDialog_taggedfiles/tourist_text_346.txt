@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Is ^vbz+bez+vrb++=Is
+there ^rn+pl+++=there
+a ^at++++=a
+bus ^nn++++=bus
+tour ^nn++++=tour?
+? ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I'd
+had ^vbd+hvd+aux++=EXTRAWORD
+prefer ^vb+vprv+++=prefer
+the ^ati++++=the
+night ^nn++++=night
+tour ^nn++++=tour.
+. ^zz++++=EXTRAWORD

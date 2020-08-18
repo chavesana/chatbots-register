@@ -1,0 +1,11 @@
+[G:] Hi! Can I help you? 
+Yes. We have reservations. 
+What's your name, sir? 
+Jack Bates. 
+Yes, sir. We have your reservation. Could you fill out these forms, please? 
+The reservation was for a double for three nights, wasn't it? 
+Yes, sir. That's correct. How will you pay your bill, cash or credit card? 
+Credit card. 
+Thank you, sir. You'll be staying in room 1910. Here are your keys. The bellhop will take your luggage upstairs. Have a nice stay, sir. 
+Thanks.
+

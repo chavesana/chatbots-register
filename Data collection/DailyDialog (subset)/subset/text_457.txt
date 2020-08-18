@@ -1,0 +1,7 @@
+[G:] Hello, have you made a reservation? 
+No, are there any vacant beds for us? 
+Of course.How do you like your room? 
+Just an ordinary one, six people living in a room. 
+OK, how long are you staying? 
+3 days.
+

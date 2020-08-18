@@ -1,0 +1,7 @@
+[T:] Hello. I want to reconfirm our flight to London. 
+Yes, sir. Did you call the airline? 
+Yes, I did. But I couldn't communicate with them in English.They speak only Spanish.So I need your help. 
+Certainly, sir. What is the flight number and when are you leaving? 
+We are taking IB 385 to London tomorrow at 1 p.m. 
+Oh, I see, sir. We have the airline office inside the hotel. They have an English-speaking staff. Just dial 35, please.
+

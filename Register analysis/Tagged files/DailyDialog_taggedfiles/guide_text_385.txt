@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Ok ^rb+dspt+++=OK,
+, ^zz++++=EXTRAWORD
+I ^pp1a+pp1+++=I
+will ^md+prd+++=will
+fetch ^vb++++=fetch
+the ^ati++++=the
+remote ^jj+atrb+++=remote
+control ^nn++++=control.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes.
+. ^zz++++=EXTRAWORD
+here ^rn+pl+++=Here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD

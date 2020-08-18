@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+Do ^vb+do+aux++=Do
+you ^pp2+pp2+++=you
+have ^vb+hv+vrb++=have
+a ^at++++=a
+Chinese ^jj+atrb+++=Chinese
+edition ^nn+nom+++=edition
+of ^in++++=of
+this ^dt+pdem+++=this?
+? ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I'll
+will ^md+prd+++=EXTRAWORD
+try ^vb++++=try
+to ^to+vcmp+++=to
+read ^vbd+vprv+tht0+xvbn+=read
+one ^pn++++=one.
+. ^zz++++=EXTRAWORD

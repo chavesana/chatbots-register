@@ -1,0 +1,7 @@
+[G:] Good morning, sir. May I help you? 
+[T:] Good morning. I'd like to pay my bill. 
+[G:] OK. In cash or by credit? 
+[T:] In cash. How much is the total charge? 
+[G:] Five hundred and thirty yuan altogether including charges for service. 
+[T:] Here you are. Thanks for your wonderful service. 
+[G:] Not at all. Welcome again.

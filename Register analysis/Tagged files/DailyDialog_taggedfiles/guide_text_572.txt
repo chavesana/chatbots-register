@@ -1,0 +1,17 @@
+How ^wrb+who+++=How
+long ^rb++++=long
+would ^md+prd+++=would
+you ^pp2+pp2+++=you
+stay ^vb++++=stay,
+, ^zz++++=EXTRAWORD
+sir ^npt++++=sir?
+? ^zz++++=EXTRAWORD
+would ^md+prd+++=Would
+you ^pp2+pp2+++=you
+please ^uh++++=please
+fill ^vb++++=fill
+in ^rb+phrv+++=in
+this ^dt+dem+++=this
+registration ^nn+nom+++=registration
+form ^nn++++=form?
+? ^zz++++=EXTRAWORD

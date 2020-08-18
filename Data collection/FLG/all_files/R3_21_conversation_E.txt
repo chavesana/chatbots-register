@@ -1,0 +1,13 @@
+[Tourist 21:] hello
+[Tech for Tourism - Research Page:] Hello.
+How can I help?
+[Tourist 21:] I need some cool place for dinner.
+Oh
+I had to say that I have problems with spicy foods
+I cant eat them
+Which one you think is suitable for me?
+[Tech for Tourism - Research Page:] Good to know. I would suggest Diablo Burger for fancy burgers. I also think Lumberyard, Historic, or Dark Sky Brewing have good food and craft beer as well. Don't go to Criollo or Martanne's.
+[Tourist 21:] Good. I just from California and I drove. I'm too tired and I need a place for the night
+Any suggestion?
+[Tech for Tourism - Research Page:] I would choose one of the hotels near Lucky Lane. They are not near downtown or the train if rest is what you need the most. Grab the visitor's guide inside the visitor's center, it will have all the phone numbers to make reservations.
+[Tourist 21:] Thanks

@@ -1,0 +1,12 @@
+[G:] Can I help you?
+[T:] Yes. I want to make a plane reservation to Shanghai, China. 
+[G:] May I have your name, please? 
+[T:] Feynman Black. I want to leave on October 15th. 
+[G:] OK. Let me see. Air China has a flight on October 15th at 10:00 in the morning. 
+[T:] Well, I need an economy ticket. 
+[G:] Single or return? 
+[T:] Single. How much? 
+[G:] Economy fare for single ticket from New York to Beijing is 400 dollars. 
+[T:] OK. Here you are. Is my ticket confirmed then? 
+[G:] Yes. Please arrive at the airport one hour before departure. 
+[T:] OK. Thank you.

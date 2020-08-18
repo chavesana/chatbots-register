@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Look ^vb++++=Look
+at ^in++++=at
+these ^dt+dem+++=these
+gorgeous ^jj+atrb+++=gorgeous
+paintings ^nns++++=paintings!
+! ^zz++++=EXTRAWORD
+why ^uh++++=Why
+not ^xnot++not++=not
+take ^vb++++=take
+a ^at++++=a
+picture ^nn++++=picture?
+? ^zz++++=EXTRAWORD

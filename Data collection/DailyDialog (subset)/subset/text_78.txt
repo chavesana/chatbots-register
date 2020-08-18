@@ -1,0 +1,6 @@
+[T:] Excuse me. May I have a bus map, please? 
+[G:] You mean one for the city? 
+[T:] Yes, within New York. 
+[G:] I'm afraid we don't have any. If I were you, I'd try one of the newspaper stands. 
+[T:] Thank you.
+

@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Good ^jj++++=Good.
+. ^zz++++=EXTRAWORD
+That ^dt+pdem+++=That's
+s ^vbz+bez+vrb++0=EXTRAWORD
+Excellent ^jj++++=excellent,
+ ^zz++++=EXTRAWORD
+Thanks ^rb+dspt+++=thanks
+For ^in++++=for
+All ^abn++++=all
+Your ^pp$+pp2+++=your
+Help ^nn++++=help.
+ ^zz++++=EXTRAWORD

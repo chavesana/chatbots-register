@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Could ^md+pos+++=Could
+you ^pp2+pp2+++=you
+fill ^vb++++=fill
+in ^rb+phrv+++=in
+this ^dt+dem+++=this
+form ^nn++++=form,
+, ^zz++++=EXTRAWORD
+please ^uh++++=please?
+? ^zz++++=EXTRAWORD
+have ^vb+hv+aux++=Have
+you ^pp2+pp2+++=you
+got ^vprf+++xvbn+=got
+any ^dt++++=any
+identification ^nn+nom+++=identification?
+? ^zz++++=EXTRAWORD

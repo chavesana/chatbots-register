@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+well ^rb++++=well
+we ^pp1a+pp1+++=we
+have ^vb+hv+vrb++=have
+one ^pn++++=one
+on ^in++++=on
+San ^np++++=San
+Francisco ^np++++=Francisco
+St ^npl++++=St.
+ ^zz++++=EXTRAWORD
+Just ^rb+emph+++=just
+North ^np+pl+++=north
+Of ^in++++=of
+Rte ^np++++=Rte.
+ ^zz++++=EXTRAWORD
+6 ^cd++++=66.
+ ^zz++++=EXTRAWORD

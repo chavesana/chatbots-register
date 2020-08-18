@@ -1,0 +1,21 @@
+[T:] I'd like to book a ticket to Shanghai. 
+When would you like to fly? 
+As soon as possible. Do you have a flight tomorrow? 
+I will check, please hold on. Sorry to say that flight is all booked up. Can I book you for the 3rd of September? 
+That will be OK. 
+How many people are there in your party? 
+Just me this time. 
+What class will you fly? First class? Business class? Or economy class? 
+Economy class will be fine. 
+Round trip or one way trip? 
+I would like to book a one way trip ticket. 
+How will you pay, cash or charge? 
+I would like to pay by check. 
+I am sorry, we do not accept checks. 
+I'll pay by charge card then. 
+Great. What name shall I put the reservation under? 
+Lucy Green. 
+You are booked, Ms. Green. 
+Thanks a lot. 
+It's a pleasure.
+

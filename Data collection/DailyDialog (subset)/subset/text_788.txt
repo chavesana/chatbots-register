@@ -1,0 +1,5 @@
+[G:] Good morning. Can I help you? 
+Yes. Do you have any seats available on a flight for Beijing leaving at 15 
+Sure we do. First-class or economy? 
+One economy, please.
+

@@ -1,0 +1,18 @@
+Good ^jj+atrb+++=Good
+morning ^nn++++=morning.
+. ^zz++++=EXTRAWORD
+Can ^md+pos+++=Can
+I ^pp1a+pp1+++=I
+help ^vb++++=help
+you ^pp2+pp2+++=you?
+? ^zz++++=EXTRAWORD
+Sure ^uh++++=Sure
+We ^pp1a+pp1+++=we
+Do ^vb+do+vrb++=do.
+ ^zz++++=EXTRAWORD
+First ^od++++=First-class
+ ^zz++++=EXTRAWORD
+Class ^nn++++=EXTRAWORD
+Or ^cc++++=or
+Economy ^nn++++=economy?
+ ^zz++++=EXTRAWORD

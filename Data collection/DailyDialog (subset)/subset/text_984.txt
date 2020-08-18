@@ -1,0 +1,7 @@
+[T:] What time does the train for Tibet leave? 
+[G:] It will leave at 3:00 p.m. 
+[T:] When does it arrive? 
+[G:] It should be due in at 7:30 a.m.tomorrow. 
+[T:] How much is the ticket? 
+[G:] It's 86 coach and 175 berths 
+[T:] One berth, please.

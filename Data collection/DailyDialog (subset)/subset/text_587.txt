@@ -1,0 +1,9 @@
+[G:] Reservations. Can I help you? 
+I'd like to book a room, please. 
+How long will you be staying, sir? 
+Four nights, from October 15th. 
+What kind of room do you want? 
+A single room with a bath, if possible. 
+A single room with a front view is 100 dollars per night, one with a rear is 80 dollars. 
+I'll take a front one.My name is John Brown. J-O-H-N B-R-O-W-N.
+

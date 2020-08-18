@@ -1,0 +1,7 @@
+[Tourist 31:] Hi
+I am traveling with my wife on our honeymoon through Flagstaff for a couple nights. Can you tell me what your best restaurants are?
+[Tech for Tourism - Research Page:] Is there any type of food you like or dislike?
+[Tourist 31:] My favorite food is Mexican and hers is Pizza but we will be traveling to Sedona and Phoenix as well so not mandatory to eat either of those while visiting
+[Tech for Tourism - Research Page:] Casa Duarante or El Capitan are great Mexican places for Pizza Pizzacletta is a good Neapolitan style pizza or Fratellis is a local favorite. Flagstaff is known for southwestern food Charlies or Kachina have a Navajo taco that is local to our area.
+[Tourist 31:] Thanks, we'll try them
+[Tech for Tourism - Research Page:] you are welcome

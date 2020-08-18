@@ -1,0 +1,6 @@
+[T:] Good morning, I would like to reserve a berth. 
+Which train do you like? 
+T112 to Washington please. 
+May I have your name? 
+That's Lincoln.
+

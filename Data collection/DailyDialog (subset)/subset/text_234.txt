@@ -1,0 +1,9 @@
+[T:] Excuse me. Can I get a ticket on the next flight to Frankfurt? 
+Sure.It will depart 2 hours later. 
+What's the fare for a single ticket? 
+That's $150. 
+Can you give me a special offer? 
+Of course.Right now it is the slack season, we will give you ten percent off. 
+How about a round trip? Could you offer us something more? 
+I am sorry, there is no difference.
+

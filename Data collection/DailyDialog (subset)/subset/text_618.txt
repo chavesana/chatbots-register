@@ -1,0 +1,11 @@
+[G:] Good morning! The Inland hotel. How may I help you? 
+Good morning. I ’ d like to book a room for Friday night and Saturday night. 
+Certainly. What kind of room would you like? 
+A single room please. I hope you ’ re not fully booked. 
+A single room? That ’ s fine. In whose name shall I make the booking? 
+Jones. According to your website, the nightly rate is $50, including breakfast. 
+We offer a 20 % discount for guests staying of Friday and Saturday. The total cost will be $80, including breakfast. 
+Thank you very much. I look forward to seeing you on Friday. 
+Could I just take your credit card number please? I should mention that there is a cancellation charge of $20. 
+That ’ s fine. My credit card number is...
+

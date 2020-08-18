@@ -1,0 +1,6 @@
+[T:] Excuse me, do you have a vacancy? 
+[G:] Let me see. Yes, we still have four left. 
+[T:] Well, I would like to book a single room. 
+[G:] How long would you stay? 
+[T:] 5 days. From Feb. 13 to 18.
+

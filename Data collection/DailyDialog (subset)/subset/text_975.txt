@@ -1,0 +1,6 @@
+[T:] Hello, receptionist? 
+[G:] Yes, sir. What's the matter? 
+[T:] Could I possibly have a room change? My room is right next to the street, and it's much too noisy. 
+[G:] Well, we are rather full, sir. I'm not sure if I'll be able to find a vacant room. 
+[T:] Could you please try? 
+[G:] OK, sir. I'll do my best.

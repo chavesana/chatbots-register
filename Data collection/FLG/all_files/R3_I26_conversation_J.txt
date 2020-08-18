@@ -1,0 +1,7 @@
+[Tourist 26:] Hello
+[Tech for Tourism - Research Page:] Hello
+[Tourist 26:] What are the best bars in Flagstaff? (great beer, great food, great experience)
+[Tech for Tourism - Research Page:] We have some great breweries for food as well as Beer you have: Beaver Street brewery, Lumberyard Brewery, Historic Brewery and Flagstaff Brewery.
+[Tourist 26:] Are they far from here?
+[Tech for Tourism - Research Page:] No they are right downtown inside the Visitor Center they have a downtown dining map that will show the locations.
+[Tourist 26:] Thanks

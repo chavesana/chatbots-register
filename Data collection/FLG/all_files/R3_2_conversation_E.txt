@@ -1,0 +1,9 @@
+[Tourist 2:] Hello
+[Tech for Tourism - Research Page:]
+Hello.
+How can I help?
+[Tourist 2:] Is it easy to use public transportation to go to Sedona, Antelope Canyon, Grand Canyon, etc?
+[Tech for Tourism - Research Page:] There is not municipally run public transportation to these locations, but you can use Arizona Shuttle for Sedona and Grand Canyon
+[Tourist 2:] Arizona Shuttle?
+[Tech for Tourism - Research Page:] It is a privately run shuttle service. Call (800) 888-2749 to make reservations.
+[Tourist 2:] ok

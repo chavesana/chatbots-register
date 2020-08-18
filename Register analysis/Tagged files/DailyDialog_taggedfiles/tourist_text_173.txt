@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Are ^vb+ber+vrb++=Are
+there ^rn+pl+++=there
+any ^dt++++=any
+scenic ^jj+atrb+++=scenic
+spots ^nns++++=spots
+nearby ^jjb++++=nearby?
+? ^zz++++=EXTRAWORD
+have ^vb+hv+aux++=Have
+you ^pp2+pp2+++=you
+ever ^rb++++=ever
+been ^vprf+ben+vrb+xvbn+=been
+there ^rn+pl+++=there?
+? ^zz++++=EXTRAWORD
+really ^rb+emph+++=Really?
+? ^zz++++=EXTRAWORD

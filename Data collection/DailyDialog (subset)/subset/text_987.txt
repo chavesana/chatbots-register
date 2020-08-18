@@ -1,0 +1,9 @@
+[G:] Can I help you? 
+[T:] Yes, do you have any rooms available? 
+[G:] A single? 
+[T:] No. I need a double and three triples. My family is waiting for me in the car. 
+[G:] Please fill out this form, sir. 
+[T:] Ok... Here you are. 
+[G:] Here are your keys. Check out time is noon. 
+[T:] Is breakfast included? 
+[G:] No.

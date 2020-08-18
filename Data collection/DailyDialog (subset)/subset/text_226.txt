@@ -1,0 +1,6 @@
+[T:] Excuse me, I am a transit passenger for flight PB965, can you tell me where to go? 
+Let me see... Your plane leaves from gate 8 so you should go there to board the plane. 
+Where is it? 
+Take the lift over there and turn left. You won't miss it. 
+I hope it hasn't left without me.
+

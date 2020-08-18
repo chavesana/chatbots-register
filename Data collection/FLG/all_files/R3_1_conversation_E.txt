@@ -1,0 +1,10 @@
+[Tourist 1:] Hi?
+[Tech for Tourism - Research Page:] Hello.
+[Tourist 1:] I was thinking about visiting the Arizona Museum. Is it worth?
+[Tech for Tourism - Research Page:] It is a nice mixture of natural science and art, if you like both. It also has a lot of Native American Cultural artifacts if you like that as well. Tonight they have musical performances starting at 6:00 pm.
+[Tourist 1:] Oh, sounds good. Do you know the entrance cost?
+[Tech for Tourism - Research Page:] $12
+[Tourist 1:] Any ages? are the musical performances extra?
+we are adults and teenages
+[Tech for Tourism - Research Page:] $8 for under 17, and admission includes the music.
+[Tourist 1:] Great. Thank you

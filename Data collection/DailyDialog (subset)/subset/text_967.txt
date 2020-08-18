@@ -1,0 +1,11 @@
+[G:] Good coming, sir. What can I do for you? 
+[T:] I'm Mr. Bob, Room 309. I'm checking out today. Can I have my bill now? 
+[G:] Certainly. Please wait a moment. Here is your bill. 
+[T:] What's the 30 yuan for? 
+[G:] This is the charge for your laundry service on Nov. 20thA 
+[T:] But I did't take any laundry service during my stay here. I think you have added someone else's. 
+[G:] Would you mind waiting a moment while we check it with the department concerned? 
+[T:] I don't mind waiting as long as we get this straightened out. 
+[G:] I'm very sorry, Mr. Bob. There has been a mistake. We'll correct the bill. 
+[T:] It doesn't matter. Here is the money. 
+[G:] Thank you very much. Hope to see you again.

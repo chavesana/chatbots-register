@@ -1,0 +1,13 @@
+[T:] Can you get me a taxi? 
+We offer various types of transportation. Perhaps you'd like to upgrade to a private vehicle? 
+Thanks, but no thanks. A taxi will do just fine. 
+In that case, how about a limo? Then you can travel in style. 
+No, I hate limousines. They're gas guzzlers. 
+Got it, sir. Where would you like the taxi to take you? 
+My destination is Rockefeller Center. 
+What time do you want to leave the hotel? 
+As soon as possible. 
+I'll call the taxi immediately, sir. 
+Okay, I'm coming downstairs now. 
+A brand new taxi is pulling up now.
+

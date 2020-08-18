@@ -1,0 +1,7 @@
+[G:] Reservation, may I help you? 
+Yes, I would like to make a reservation for May 3rd. 
+For how many people? 
+Only one. 
+May I have your name? 
+John.
+

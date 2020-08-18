@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+we ^pp1a+pp1+++=we
+will ^md+prd+++=will
+depart ^vb++++=depart
+in ^in++++=in
+10 ^cd++++=10
+minutes ^nns++++=minutes.
+. ^zz++++=EXTRAWORD
+yes ^uh++++=Yes,
+, ^zz++++=EXTRAWORD
+it ^pp3+it+++=it
+is ^vbz+bez+vrb++=is.
+. ^zz++++=EXTRAWORD

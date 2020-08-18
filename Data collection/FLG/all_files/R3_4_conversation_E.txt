@@ -1,0 +1,9 @@
+[Tourist 4:] hi is there a AAA office near hear?
+[Tech for Tourism - Research Page:] Hello.
+There is not a AAA office in Flagstaff (the closest is Prescott). There are a lot of maps and information within the visitor's center that would be able to help with trip planning.
+[Tourist 4:] we are interested in a cabin in area, are there realty offices nearby?
+[Tech for Tourism - Research Page:] If you want to purchase a cabin, the closest realtor is da Vinci at 111 E Aspen Ave #3
+[Tourist 4:] i will need a map
+is it close to here?
+[Tech for Tourism - Research Page:] Yes, maps are inside at the visitor's center. Ask for both a Discovery Map and a Destination Map (which includes every street in Flagstaff)
+[Tourist 4:] thank you

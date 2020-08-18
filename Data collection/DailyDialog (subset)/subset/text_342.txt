@@ -1,0 +1,5 @@
+[T:] Which way is the dining car? 
+Two cars forward. 
+What time will breakfast be served? 
+7:00, sir.
+

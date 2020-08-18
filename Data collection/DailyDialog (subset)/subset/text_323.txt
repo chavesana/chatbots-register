@@ -1,0 +1,6 @@
+[G:] Do you want to rent a car? 
+Yes, I want one with automatic transmission. 
+I think that one fits you. Do you need insurance? 
+Full insurance, please. 
+OK, by the way, fill the gas tank when you return the car.
+

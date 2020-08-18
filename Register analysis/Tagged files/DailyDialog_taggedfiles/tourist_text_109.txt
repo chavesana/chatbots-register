@@ -1,0 +1,18 @@
+I ^pp1a+pp1+++=I'm
+'m ^vb+bem+aux++0=EXTRAWORD
+planning ^vbg+++xvbgx+=planning
+a ^at++++=a
+trip ^nn++++=trip
+to ^in++++=to
+Europe ^np++++=Europe.
+. ^zz++++=EXTRAWORD
+Well ^rb+cnj+++=Well,
+ ^zz++++=EXTRAWORD
+What ^wdt+who+++=what's
+s ^vbz+bez+vrb++0=EXTRAWORD
+The ^ati++++=the
+Price ^nn++++=price
+Of ^in++++=of
+This ^dt+dem+++=this
+Route ^nn++++=route?
+ ^zz++++=EXTRAWORD

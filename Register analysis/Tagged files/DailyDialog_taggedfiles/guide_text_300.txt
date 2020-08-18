@@ -1,0 +1,22 @@
+Sure ^uh++++=Sure,
+, ^zz++++=EXTRAWORD
+but ^cc+cls+++=but
+you ^pp2+pp2+++=you
+have ^md"++pmd"++=have
+to ^md+nec+++=to
+pay ^vb++++=pay
+$ ^zz++++=$3
+3 ^zz++++=EXTRAWORD
+for ^in++++=for
+it ^pp3+it+++=it.
+. ^zz++++=EXTRAWORD
+Well ^rb+cnj+++=Well,
+ ^zz++++=EXTRAWORD
+Ou ^&fw++++=ou
+Can ^md+pos+++=can't
+N't ^xnot++not++0=EXTRAWORD
+Hear ^vb+vprv+++=hear
+Music ^nn++++=music
+Until ^in++++=until
+Takeoff ^nn++++=takeoff.
+ ^zz++++=EXTRAWORD

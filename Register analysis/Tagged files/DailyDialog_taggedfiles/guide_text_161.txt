@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+We ^pp1a+pp1+++=We
+are ^vb+ber+aux++=are
+going ^vbg+++xvbgx+=going
+to ^in++++=to
+the ^ati++++=the
+national ^jj+atrb+++=national
+park ^nn++++=park.
+. ^zz++++=EXTRAWORD
+the ^ati++++=The
+yellow ^jj+atrb+++=Yellow
+rock ^nn++++=Rock
+national ^jj+atrb+++=National
+park ^nn++++=Park.
+. ^zz++++=EXTRAWORD

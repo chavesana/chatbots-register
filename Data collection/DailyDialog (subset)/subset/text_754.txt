@@ -1,0 +1,13 @@
+[T:] I need to get a taxi. 
+We have a variety of transportation services. Would you prefer a private vehicle to a taxi? 
+No, that won't be necessary. I just need a taxi. 
+Perhaps you'd prefer a limousine. That's such a stylish way to travel. 
+Just a taxi, please. 
+And what is your destination? 
+I'm going to Rockefeller Center. 
+I see. What time do you want to depart from the hotel? 
+I want to leave as soon as possible. 
+Okay, a taxi will arrive in seconds, sir. 
+Thank you, I'm coming down now. 
+It won't be but a few seconds, sir.
+

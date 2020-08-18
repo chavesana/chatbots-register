@@ -1,0 +1,13 @@
+[T:] How can I travel by air? 
+[U:] Have you traveled by air before? 
+[T:] No, this is the first time. 
+[U:] Let me tell you. First you must buy a ticket. 
+[T:] Yes, I know. 
+[U:] Then you must go to the airport. 
+[T:] Is that all? 
+[U:] Not Yet. Listen to me. Don't forget to take your ID card with you. 
+[T:] What's an ID card? 
+[U:] Something like a passport. 
+[T:] Can I board the plane now? 
+[U:] No, you also need a boarding pass. 
+[T:] Thank you. Now I know how to travel by air.

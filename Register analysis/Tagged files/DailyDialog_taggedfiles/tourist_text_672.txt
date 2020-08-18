@@ -1,0 +1,17 @@
+I ^pp1a+pp1+++0=I'd
+'d ^md+prd+aux++=EXTRAWORD
+like ^vb++++=like
+to ^to+vcmp+++=to
+reconfirm ^vbi+++??+=reconfirm
+my ^pp$+pp1+++=my
+plane ^nn++++=plane
+reservation ^nn+nom+++=reservation.
+. ^zz++++=EXTRAWORD
+flight ^nn++++=Flight
+201 ^cd++++=201.
+. ^zz++++=EXTRAWORD
+anderson ^np++++=Anderson.
+. ^zz++++=EXTRAWORD
+thank ^vb++++=Thank
+you ^pp2+pp2+++=you.
+. ^zz++++=EXTRAWORD

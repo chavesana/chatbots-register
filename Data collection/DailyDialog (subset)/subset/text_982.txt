@@ -1,0 +1,10 @@
+[T:]  I'd like to have a berth ticket to Shanghai. 
+[G:] Which train do you want? 
+[T:] The 19:00 train. 
+[G:] Sorry. There aren't any tickets available for the 19:00 train. 
+[T:] When is the next train to Shanghai? 
+[G:] The next train will leave at 20 : O5. 
+[T:] How much is the ticket? 
+[G:] 180 yuan. 
+[T:] Here is 200 yuan. 
+[G:] Here are your ticket and change.

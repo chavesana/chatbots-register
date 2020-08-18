@@ -1,0 +1,11 @@
+[Tourist 16:] Hi, what's the best restaurant downtown?
+[Tech for Tourism - Research Page:] That depends on who you ask! What type of food are you looking for?
+[Tourist 16:] Asian
+[Tech for Tourism - Research Page:] Pato and Ewas have great Thai Food
+[Tourist 16:] What activities I can do with my family in Flagstaff?
+We are 4 adults, a senior and a teenage
+[Tech for Tourism - Research Page:] you can visit historic downtown, Arizona Snowbowl Museum of Northern Arizona or one of the three national monuments nearby.
+[Tourist 16:] What activities are available at snowbowl now in the summer?
+[Tech for Tourism - Research Page:] you can ride the Scenic Chairlift that i great for all ages the restaurant is good for lunch and for the teenager and possible the adults there is a tube slide and ropes course.
+[Tourist 16:] thank you
+[Tech for Tourism - Research Page:] you are welcome

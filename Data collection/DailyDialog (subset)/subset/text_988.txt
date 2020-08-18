@@ -1,0 +1,8 @@
+[T:] Can I still catch T107 for Xiamen? 
+[G:] Sorry, sir. The train has already left. 
+[T:] That's too bad. Can I take another train? 
+[G:] Yes. Your ticket is valid for three days. 
+[T:] That's great! I will take the next train. 
+[G:] You have to have your ticket checked. 
+[T:] Shall I pay extra charge? 
+[G:] No extra charge at all. But your berth will be invalid.

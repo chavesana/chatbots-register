@@ -1,0 +1,7 @@
+[T:] Excuse me. This chicken doesn't taste right to me. 
+[G:] What seems to be the problem? 
+[T:] How should I know? It's just kind of cold in the middle. It just doesn't taste right. Do you want to try it? 
+[G:] Well, let me get that out of your way. Would you like to order something else from the menu? Or I could bring you another order of chicken if you'd like. 
+[T:] Another one? I don't want another one. Give me something simple. You've got steak, right? 
+[G:] Yes, we do. How would you like it cooked? 
+[T:] Half done.

@@ -1,0 +1,6 @@
+[T:] Excuse me, miss. I'm a transit passenger for Flight No. 207. Can you tell me where to go? 
+[G:] Let me see. Your plane leaves from Gate 12. You should go to Gate 12 to board your plane 
+[T:] Where's Gate 12? 
+[G:] Take the escalator over there and turn left, you'll see the sign. 
+[T:] Thank you very much.
+

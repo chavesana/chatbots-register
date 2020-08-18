@@ -1,0 +1,17 @@
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+???? ^?+clp+++=EXTRAWORD
+Here ^rn+pl+++=Here
+you ^pp2+pp2+++=you
+are ^vb+ber+vrb++=are.
+. ^zz++++=EXTRAWORD
+3 ^zz++++=3
+weeks ^nns++++=weeks.
+. ^zz++++=EXTRAWORD
+i ^pp1a+pp1+++=I
+am ^vb+bem+vrb++=am
+here ^rn+pl+++=here
+on ^rp++++=on
+tour ^nn++++=tour.
+. ^zz++++=EXTRAWORD
